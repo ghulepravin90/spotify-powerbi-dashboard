@@ -1,0 +1,1001 @@
+track_id,track_name,artist_name,album_name,release_date,release_year,release_month,release_month_name,release_day,genre,track_type,is_explicit,popularity,streams,in_spotify_playlists,duration_ms,duration_sec,bpm,danceability_%,energy_%,valence_%,acousticness_%,speechiness_%
+SPOT_0001,Blinding Lights,The Weeknd,After Hours,2023-08-02,2023,8,Aug,2,R&B,Album Track,Non-Explicit,93,3900000000,65297,159000,159,171,51,73,33,8,20
+SPOT_0002,Starboy,The Weeknd,Starboy,2020-10-12,2020,10,Oct,12,R&B,Album Track,Explicit,91,3100000000,64065,239000,239,186,68,59,49,18,37
+SPOT_0003,Save Your Tears,The Weeknd,After Hours,2022-05-14,2022,5,May,14,R&B,Album Track,Non-Explicit,90,2300000000,40219,149000,149,118,68,83,64,8,8
+SPOT_0004,Die For You,The Weeknd,Starboy,2022-10-31,2022,10,Oct,31,R&B,Album Track,Non-Explicit,89,2150000000,39781,222000,222,134,58,53,51,8,38
+SPOT_0005,Creepin',The Weeknd,Heroes & Villains,2022-05-09,2022,5,May,9,R&B,Single,Explicit,88,1580000000,25513,173000,173,120,72,62,17,62,40
+SPOT_0006,One Of The Girls,The Weeknd,The Idol Episode 4,2024-04-03,2024,4,Apr,3,R&B,Single,Explicit,89,1320000000,21252,248000,248,117,52,64,20,25,30
+SPOT_0007,In Your Eyes,The Weeknd,After Hours,2020-11-14,2020,11,Nov,14,R&B,Album Track,Non-Explicit,84,1120000000,23983,172000,172,100,67,72,72,48,9
+SPOT_0008,Heartless,The Weeknd,After Hours,2020-07-17,2020,7,Jul,17,R&B,Single,Explicit,82,980000000,22862,190000,190,170,53,73,20,49,19
+SPOT_0009,Take My Breath,The Weeknd,Dawn FM,2023-01-03,2023,1,Jan,3,R&B,Single,Non-Explicit,80,740000000,10815,160000,160,121,70,74,53,53,8
+SPOT_0010,Sacrifice,The Weeknd,Dawn FM,2024-08-25,2024,8,Aug,25,R&B,Album Track,Non-Explicit,78,620000000,11547,225000,225,122,74,79,90,51,39
+SPOT_0011,Cruel Summer,Taylor Swift,Lover,2020-04-03,2020,4,Apr,3,Pop,Album Track,Non-Explicit,96,2400000000,49234,229000,229,170,55,70,56,34,21
+SPOT_0012,Anti-Hero,Taylor Swift,Midnights,2020-07-25,2020,7,Jul,25,Pop,Album Track,Non-Explicit,92,1650000000,21033,193000,193,97,64,64,53,40,32
+SPOT_0013,Blank Space,Taylor Swift,1989 (Taylor's Version),2020-11-29,2020,11,Nov,29,Pop,Album Track,Non-Explicit,90,1850000000,22398,192000,192,96,76,70,58,50,16
+SPOT_0014,Cardigan,Taylor Swift,folklore,2023-12-08,2023,12,Dec,8,Pop,Album Track,Non-Explicit,87,1250000000,17126,264000,264,130,61,58,55,14,13
+SPOT_0015,Fortnight,Taylor Swift,The Tortured Poets Department,2020-11-30,2020,11,Nov,30,Pop,Single,Explicit,91,890000000,13017,204000,204,96,68,39,26,53,20
+SPOT_0016,I Can Do It With a Broken Heart,Taylor Swift,The Tortured Poets Department,2021-03-25,2021,3,Mar,25,Pop,Album Track,Explicit,88,780000000,13628,232000,232,130,70,75,66,46,6
+SPOT_0017,Style,Taylor Swift,1989 (Taylor's Version),2024-07-06,2024,7,Jul,6,Pop,Album Track,Non-Explicit,89,1380000000,29334,185000,185,95,59,79,49,56,20
+SPOT_0018,Karma,Taylor Swift,Midnights,2023-03-07,2023,3,Mar,7,Pop,Single,Explicit,86,920000000,13004,257000,257,90,64,62,10,45,16
+SPOT_0019,Lavender Haze,Taylor Swift,Midnights,2022-03-21,2022,3,Mar,21,Pop,Album Track,Explicit,85,810000000,14060,258000,258,97,73,44,10,63,12
+SPOT_0020,All Too Well (10 Minute Version),Taylor Swift,Red (Taylor's Version),2021-05-20,2021,5,May,20,Pop,Album Track,Explicit,86,790000000,11302,240000,240,93,63,63,21,73,19
+SPOT_0021,One Dance,Drake,Views,2022-05-27,2022,5,May,27,Hip-Hop,Album Track,Non-Explicit,90,3100000000,53278,259000,259,104,79,63,37,56,26
+SPOT_0022,God's Plan,Drake,Scorpion,2022-11-09,2022,11,Nov,9,Hip-Hop,Album Track,Explicit,88,2500000000,49032,208000,208,77,75,45,36,16,6
+SPOT_0023,Passionfruit,Drake,More Life,2023-07-09,2023,7,Jul,9,Hip-Hop,Album Track,Explicit,87,1750000000,26986,165000,165,112,80,46,36,59,7
+SPOT_0024,Rich Flex,Drake,Her Loss,2023-05-05,2023,5,May,5,Hip-Hop,Single,Explicit,86,1200000000,15315,204000,204,144,76,52,41,72,19
+SPOT_0025,IDGAF,Drake,For All The Dogs,2023-10-25,2023,10,Oct,25,Hip-Hop,Album Track,Explicit,88,950000000,11675,237000,237,137,66,68,15,19,37
+SPOT_0026,First Person Shooter,Drake,For All The Dogs,2024-04-23,2024,4,Apr,23,Hip-Hop,Album Track,Explicit,85,820000000,15045,227000,227,164,47,64,25,48,10
+SPOT_0027,Search & Rescue,Drake,Single,2020-11-19,2020,11,Nov,19,Hip-Hop,Single,Explicit,83,690000000,10099,203000,203,142,82,44,54,5,19
+SPOT_0028,Slime You Out,Drake,For All The Dogs,2022-11-05,2022,11,Nov,5,Hip-Hop,Single,Explicit,80,510000000,8449,261000,261,89,48,48,11,18,22
+SPOT_0029,Jimmy Cooks,Drake,"Honestly, Nevermind",2023-06-01,2023,6,Jun,1,Hip-Hop,Album Track,Explicit,85,980000000,11479,170000,170,166,53,67,37,24,26
+SPOT_0030,Knife Talk,Drake,Certified Lover Boy,2023-01-09,2023,1,Jan,9,Hip-Hop,Album Track,Explicit,85,1100000000,14883,267000,267,146,85,42,21,72,3
+SPOT_0031,Shape of You,Ed Sheeran,Divide,2022-09-27,2022,9,Sep,27,Pop,Album Track,Non-Explicit,92,3800000000,59804,147000,147,96,83,65,93,19,26
+SPOT_0032,Perfect,Ed Sheeran,Divide,2020-04-28,2020,4,Apr,28,Pop,Album Track,Non-Explicit,89,2950000000,34222,175000,175,95,60,45,17,15,8
+SPOT_0033,Bad Habits,Ed Sheeran,=,2024-07-29,2024,7,Jul,29,Pop,Single,Non-Explicit,87,1850000000,37081,153000,153,126,81,89,59,73,11
+SPOT_0034,Shivers,Ed Sheeran,=,2023-01-30,2023,1,Jan,30,Pop,Album Track,Non-Explicit,86,1600000000,21111,166000,166,141,79,86,82,38,36
+SPOT_0035,Eyes Closed,Ed Sheeran,-,2021-03-09,2021,3,Mar,9,Pop,Single,Non-Explicit,82,620000000,8535,263000,263,107,78,50,43,74,15
+SPOT_0036,Thinking Out Loud,Ed Sheeran,x,2022-03-28,2022,3,Mar,28,Pop,Album Track,Non-Explicit,87,2500000000,34027,230000,230,79,78,45,59,52,31
+SPOT_0037,Photograph,Ed Sheeran,x,2020-09-04,2020,9,Sep,4,Pop,Album Track,Non-Explicit,86,2400000000,36323,176000,176,108,61,38,20,33,7
+SPOT_0038,Castle on the Hill,Ed Sheeran,Divide,2023-04-19,2023,4,Apr,19,Pop,Album Track,Non-Explicit,83,1450000000,24926,215000,215,135,46,83,47,34,40
+SPOT_0039,Overpass Graffiti,Ed Sheeran,=,2020-05-25,2020,5,May,25,Pop,Album Track,Non-Explicit,79,510000000,10948,235000,235,176,67,82,79,12,17
+SPOT_0040,Celestial,Ed Sheeran,Single,2021-11-07,2021,11,Nov,7,Pop,Single,Non-Explicit,77,420000000,9128,154000,154,123,59,85,48,70,18
+SPOT_0041,Me Porto Bonito,Bad Bunny,Un Verano Sin Ti,2021-03-14,2021,3,Mar,14,Latin,Album Track,Explicit,90,1950000000,25997,214000,214,92,91,71,42,21,39
+SPOT_0042,Tití Me Preguntó,Bad Bunny,Un Verano Sin Ti,2021-05-12,2021,5,May,12,Latin,Album Track,Explicit,89,1750000000,31332,245000,245,107,65,72,19,65,29
+SPOT_0043,Ojitos Lindos,Bad Bunny,Un Verano Sin Ti,2020-07-17,2020,7,Jul,17,Latin,Album Track,Non-Explicit,88,1680000000,25272,229000,229,80,65,69,37,60,25
+SPOT_0044,Dakiti,Bad Bunny,El Último Tour Del Mundo,2022-08-14,2022,8,Aug,14,Latin,Album Track,Explicit,88,1900000000,40946,255000,255,110,73,57,55,11,9
+SPOT_0045,Monaco,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,2024-01-31,2024,1,Jan,31,Latin,Single,Explicit,89,980000000,18305,188000,188,140,79,63,38,18,18
+SPOT_0046,Where She Goes,Bad Bunny,Single,2023-01-03,2023,1,Jan,3,Latin,Single,Explicit,86,890000000,17247,202000,202,144,65,80,23,22,30
+SPOT_0047,Perro Negro,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,2022-08-05,2022,8,Aug,5,Latin,Album Track,Explicit,87,820000000,11016,176000,176,96,91,78,44,14,31
+SPOT_0048,Efecto,Bad Bunny,Un Verano Sin Ti,2020-04-13,2020,4,Apr,13,Latin,Album Track,Explicit,86,1400000000,28858,228000,228,98,80,48,41,74,3
+SPOT_0049,Moscow Mule,Bad Bunny,Un Verano Sin Ti,2020-12-06,2020,12,Dec,6,Latin,Album Track,Explicit,85,1320000000,24511,197000,197,100,80,67,33,67,33
+SPOT_0050,Yonaguni,Bad Bunny,Single,2020-04-30,2020,4,Apr,30,Latin,Single,Explicit,85,1450000000,22128,166000,166,180,64,65,44,53,3
+SPOT_0051,Don't Start Now,Dua Lipa,Future Nostalgia,2024-05-24,2024,5,May,24,Dance,Album Track,Non-Explicit,89,2600000000,38528,245000,245,124,79,79,68,63,21
+SPOT_0052,Levitating,Dua Lipa,Future Nostalgia,2023-09-17,2023,9,Sep,17,Dance,Album Track,Non-Explicit,89,2150000000,39142,236000,236,103,70,83,91,67,12
+SPOT_0053,New Rules,Dua Lipa,Dua Lipa,2021-03-21,2021,3,Mar,21,Dance,Album Track,Non-Explicit,86,2050000000,24711,268000,268,116,76,70,61,12,40
+SPOT_0054,Dance the Night,Dua Lipa,Barbie The Album,2020-05-04,2020,5,May,4,Dance,Single,Non-Explicit,91,1250000000,28779,240000,240,110,67,85,78,45,6
+SPOT_0055,Houdini,Dua Lipa,Radical Optimism,2022-09-03,2022,9,Sep,3,Dance,Single,Non-Explicit,88,710000000,17150,209000,209,117,72,88,89,72,13
+SPOT_0056,Training Season,Dua Lipa,Radical Optimism,2020-06-13,2020,6,Jun,13,Dance,Single,Non-Explicit,86,530000000,7087,253000,253,123,73,89,68,28,7
+SPOT_0057,Physical,Dua Lipa,Future Nostalgia,2023-10-14,2023,10,Oct,14,Dance,Album Track,Non-Explicit,83,980000000,21373,255000,255,147,65,84,75,35,28
+SPOT_0058,Break My Heart,Dua Lipa,Future Nostalgia,2021-05-19,2021,5,May,19,Dance,Album Track,Non-Explicit,83,1120000000,18343,219000,219,113,73,73,47,10,8
+SPOT_0059,Love Again,Dua Lipa,Future Nostalgia,2023-03-03,2023,3,Mar,3,Dance,Album Track,Non-Explicit,81,780000000,15145,211000,211,116,66,67,44,45,19
+SPOT_0060,Illusion,Dua Lipa,Radical Optimism,2021-05-03,2021,5,May,3,Dance,Album Track,Non-Explicit,82,410000000,6333,178000,178,125,70,87,81,55,11
+SPOT_0061,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2022-07-25,2022,7,Jul,25,Alternative,Album Track,Non-Explicit,88,2600000000,37456,185000,185,135,70,43,56,14,3
+SPOT_0062,lovely,Billie Eilish,Single,2020-07-23,2020,7,Jul,23,Alternative,Single,Non-Explicit,89,2800000000,37413,154000,154,115,35,30,12,73,16
+SPOT_0063,Birds of a Feather,Billie Eilish,HIT ME HARD AND SOFT,2020-09-28,2020,9,Sep,28,Alternative,Album Track,Non-Explicit,97,1450000000,25779,264000,264,105,75,51,44,49,7
+SPOT_0064,Lunch,Billie Eilish,HIT ME HARD AND SOFT,2021-08-06,2021,8,Aug,6,Alternative,Single,Explicit,93,890000000,11507,165000,165,125,82,67,81,61,37
+SPOT_0065,What Was I Made For?,Billie Eilish,Barbie The Album,2023-06-06,2023,6,Jun,6,Alternative,Single,Non-Explicit,91,1180000000,16063,270000,270,120,44,23,14,72,3
+SPOT_0066,Happier Than Ever,Billie Eilish,Happier Than Ever,2021-09-05,2021,9,Sep,5,Alternative,Album Track,Explicit,87,1350000000,22630,264000,264,81,33,23,12,18,11
+SPOT_0067,everything i wanted,Billie Eilish,Single,2020-08-07,2020,8,Aug,7,Alternative,Single,Non-Explicit,85,1600000000,27112,240000,240,120,70,23,24,75,12
+SPOT_0068,when the party's over,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2023-05-23,2023,5,May,23,Alternative,Album Track,Non-Explicit,85,1750000000,21013,171000,171,83,31,11,20,48,16
+SPOT_0069,ocean eyes,Billie Eilish,Don't Smile at Me,2022-11-01,2022,11,Nov,1,Alternative,Single,Non-Explicit,84,1520000000,32009,207000,207,145,51,37,16,37,6
+SPOT_0070,Chihiro,Billie Eilish,HIT ME HARD AND SOFT,2024-08-25,2024,8,Aug,25,Alternative,Album Track,Non-Explicit,89,620000000,10308,180000,180,110,62,59,31,10,3
+SPOT_0071,Sunflower,Post Malone,Spider-Man: Into the Spider-Verse,2023-07-28,2023,7,Jul,28,Hip-Hop,Single,Non-Explicit,91,3300000000,37574,270000,270,90,76,48,91,38,13
+SPOT_0072,Circles,Post Malone,Hollywood's Bleeding,2023-02-03,2023,2,Feb,3,Hip-Hop,Album Track,Non-Explicit,89,2450000000,54647,235000,235,120,69,76,55,59,38
+SPOT_0073,rockstar,Post Malone,beerbongs & bentleys,2020-06-03,2020,6,Jun,3,Hip-Hop,Album Track,Explicit,88,2950000000,64299,265000,265,160,59,52,13,24,37
+SPOT_0074,Congratulations,Post Malone,Stoney,2023-04-07,2023,4,Apr,7,Hip-Hop,Album Track,Explicit,87,2550000000,48466,215000,215,123,63,80,49,23,30
+SPOT_0075,I Had Some Help,Post Malone,F-1 Trillion,2021-09-23,2021,9,Sep,23,Hip-Hop,Single,Explicit,94,1100000000,20239,191000,191,128,64,85,89,10,25
+SPOT_0076,Chemical,Post Malone,Austin,2023-09-27,2023,9,Sep,27,Hip-Hop,Single,Non-Explicit,85,720000000,11184,158000,158,170,67,90,62,50,38
+SPOT_0077,Better Now,Post Malone,beerbongs & bentleys,2021-04-29,2021,4,Apr,29,Hip-Hop,Album Track,Explicit,86,2050000000,29065,255000,255,145,68,56,34,25,14
+SPOT_0078,Pour Me a Drink,Post Malone,F-1 Trillion,2021-01-02,2021,1,Jan,2,Hip-Hop,Single,Non-Explicit,83,410000000,6127,239000,239,116,68,77,72,47,29
+SPOT_0079,Wow.,Post Malone,Hollywood's Bleeding,2021-06-30,2021,6,Jun,30,Hip-Hop,Single,Explicit,84,1780000000,39871,165000,165,100,83,54,39,18,27
+SPOT_0080,Goodbyes,Post Malone,Hollywood's Bleeding,2021-03-31,2021,3,Mar,31,Hip-Hop,Album Track,Explicit,82,1350000000,22201,170000,170,150,58,65,18,63,25
+SPOT_0081,7 rings,Ariana Grande,"thank u, next",2021-04-01,2021,4,Apr,1,Pop,Album Track,Explicit,88,2250000000,35469,148000,148,140,78,32,33,29,28
+SPOT_0082,"thank u, next",Ariana Grande,"thank u, next",2020-05-22,2020,5,May,22,Pop,Album Track,Explicit,86,1880000000,24185,268000,268,107,72,65,41,40,25
+SPOT_0083,positions,Ariana Grande,Positions,2022-03-29,2022,3,Mar,29,Pop,Album Track,Explicit,85,1450000000,31949,231000,231,144,74,80,68,73,24
+SPOT_0084,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,2021-06-18,2021,6,Jun,18,Pop,Single,Non-Explicit,93,980000000,21751,167000,167,116,65,74,29,38,5
+SPOT_0085,"yes, and?",Ariana Grande,eternal sunshine,2022-06-08,2022,6,Jun,8,Pop,Single,Explicit,87,620000000,9911,189000,189,119,80,75,70,45,30
+SPOT_0086,Into You,Ariana Grande,Dangerous Woman,2020-08-24,2020,8,Aug,24,Pop,Album Track,Non-Explicit,85,1550000000,34639,194000,194,110,62,73,37,29,19
+SPOT_0087,Side to Side,Ariana Grande,Dangerous Woman,2020-01-04,2020,1,Jan,4,Pop,Album Track,Explicit,84,1420000000,22884,211000,211,159,65,74,61,73,15
+SPOT_0088,no tears left to cry,Ariana Grande,Sweetener,2020-05-23,2020,5,May,23,Pop,Single,Non-Explicit,83,1400000000,16833,266000,266,122,70,71,35,47,23
+SPOT_0089,the boy is mine,Ariana Grande,eternal sunshine,2024-01-14,2024,1,Jan,14,Pop,Album Track,Explicit,86,480000000,9526,260000,260,125,77,69,56,43,35
+SPOT_0090,God is a woman,Ariana Grande,Sweetener,2021-10-30,2021,10,Oct,30,Pop,Album Track,Non-Explicit,82,1150000000,22844,196000,196,145,60,66,27,42,38
+SPOT_0091,As It Was,Harry Styles,Harry's House,2022-05-11,2022,5,May,11,Pop,Single,Non-Explicit,93,3450000000,43258,230000,230,174,52,73,66,53,14
+SPOT_0092,Watermelon Sugar,Harry Styles,Fine Line,2021-09-08,2021,9,Sep,8,Pop,Album Track,Non-Explicit,89,2650000000,42498,196000,196,95,55,82,56,75,3
+SPOT_0093,Adore You,Harry Styles,Fine Line,2021-03-06,2021,3,Mar,6,Pop,Album Track,Non-Explicit,86,1650000000,24622,200000,200,99,68,77,57,46,32
+SPOT_0094,Sign of the Times,Harry Styles,Harry Styles,2023-10-15,2023,10,Oct,15,Pop,Single,Non-Explicit,85,1580000000,18142,172000,172,120,52,57,21,70,33
+SPOT_0095,Late Night Talking,Harry Styles,Harry's House,2023-09-11,2023,9,Sep,11,Pop,Album Track,Non-Explicit,85,1100000000,14300,155000,155,115,71,73,90,41,35
+SPOT_0096,Matilda,Harry Styles,Harry's House,2020-07-10,2020,7,Jul,10,Pop,Album Track,Non-Explicit,80,520000000,10022,249000,249,114,51,35,39,35,22
+SPOT_0097,Golden,Harry Styles,Fine Line,2020-10-28,2020,10,Oct,28,Pop,Album Track,Non-Explicit,82,920000000,12881,148000,148,140,45,78,54,10,18
+SPOT_0098,Music For a Sushi Restaurant,Harry Styles,Harry's House,2022-07-21,2022,7,Jul,21,Pop,Single,Non-Explicit,80,480000000,8337,198000,198,107,72,78,93,29,27
+SPOT_0099,Falling,Harry Styles,Fine Line,2021-05-14,2021,5,May,14,Pop,Album Track,Non-Explicit,84,1150000000,17179,163000,163,110,57,27,6,5,9
+SPOT_0100,Cinema,Harry Styles,Harry's House,2020-12-26,2020,12,Dec,26,Pop,Album Track,Non-Explicit,76,360000000,10237,247000,247,100,74,56,54,71,32
+SPOT_0101,drivers license,Olivia Rodrigo,SOUR,2021-05-25,2021,5,May,25,Pop,Single,Explicit,88,2200000000,43342,262000,262,144,59,43,13,20,32
+SPOT_0102,good 4 u,Olivia Rodrigo,SOUR,2023-09-29,2023,9,Sep,29,Pop,Single,Explicit,88,2100000000,27229,212000,212,167,56,66,69,45,31
+SPOT_0103,vampire,Olivia Rodrigo,GUTS,2022-05-23,2022,5,May,23,Pop,Single,Explicit,90,1320000000,26257,251000,251,138,51,53,33,75,31
+SPOT_0104,bad idea right?,Olivia Rodrigo,GUTS,2022-07-10,2022,7,Jul,10,Pop,Single,Explicit,84,670000000,10947,178000,178,130,63,86,75,36,20
+SPOT_0105,deja vu,Olivia Rodrigo,SOUR,2023-07-07,2023,7,Jul,7,Pop,Album Track,Explicit,86,1450000000,30625,175000,175,181,44,61,18,40,31
+SPOT_0106,traitor,Olivia Rodrigo,SOUR,2021-04-25,2021,4,Apr,25,Pop,Album Track,Non-Explicit,86,1520000000,19735,179000,179,100,38,34,9,47,23
+SPOT_0107,get him back!,Olivia Rodrigo,GUTS,2020-10-10,2020,10,Oct,10,Pop,Single,Explicit,82,520000000,6872,164000,164,105,54,88,77,34,27
+SPOT_0108,ballad of a homeschooled girl,Olivia Rodrigo,GUTS,2023-12-17,2023,12,Dec,17,Pop,Album Track,Explicit,79,390000000,7293,172000,172,134,49,93,62,13,29
+SPOT_0109,obsessed,Olivia Rodrigo,GUTS (spilled),2023-01-16,2023,1,Jan,16,Pop,Single,Explicit,83,460000000,10075,204000,204,140,66,85,73,58,6
+SPOT_0110,favorite crime,Olivia Rodrigo,SOUR,2022-03-08,2022,3,Mar,8,Pop,Album Track,Non-Explicit,83,980000000,16467,260000,260,128,41,28,20,7,39
+SPOT_0111,HUMBLE.,Kendrick Lamar,DAMN.,2020-01-13,2020,1,Jan,13,Hip-Hop,Album Track,Explicit,88,2150000000,24877,265000,265,150,90,62,42,50,22
+SPOT_0112,Not Like Us,Kendrick Lamar,Single,2022-05-08,2022,5,May,8,Hip-Hop,Single,Explicit,96,1150000000,16333,213000,213,101,90,47,78,74,17
+SPOT_0113,All The Stars,Kendrick Lamar,Black Panther The Album,2021-07-12,2021,7,Jul,12,Hip-Hop,Single,Explicit,87,1650000000,25285,200000,200,97,69,63,55,67,4
+SPOT_0114,DNA.,Kendrick Lamar,DAMN.,2023-10-01,2023,10,Oct,1,Hip-Hop,Album Track,Explicit,84,1250000000,17549,231000,231,140,64,52,42,56,13
+SPOT_0115,Money Trees,Kendrick Lamar,"good kid, m.A.A.d city",2023-06-28,2023,6,Jun,28,Hip-Hop,Album Track,Explicit,89,1720000000,23338,213000,213,72,72,53,34,8,28
+SPOT_0116,LOVE.,Kendrick Lamar,DAMN.,2023-09-19,2023,9,Sep,19,Hip-Hop,Album Track,Explicit,85,1380000000,27997,148000,148,126,80,58,77,15,30
+SPOT_0117,euphoria,Kendrick Lamar,Single,2021-01-07,2021,1,Jan,7,Hip-Hop,Single,Explicit,90,620000000,10695,151000,151,140,69,73,54,38,27
+SPOT_0118,Swimming Pools (Drank),Kendrick Lamar,"good kid, m.A.A.d city",2022-07-20,2022,7,Jul,20,Hip-Hop,Album Track,Explicit,83,1120000000,19937,186000,186,74,69,49,29,48,27
+SPOT_0119,Die Hard,Kendrick Lamar,Mr. Morale & The Big Steppers,2021-05-31,2021,5,May,31,Hip-Hop,Album Track,Explicit,80,540000000,14379,251000,251,101,71,70,76,15,33
+SPOT_0120,N95,Kendrick Lamar,Mr. Morale & The Big Steppers,2020-04-16,2020,4,Apr,16,Hip-Hop,Single,Explicit,79,490000000,6374,266000,266,140,82,73,44,49,17
+SPOT_0121,Kill Bill,SZA,SOS,2024-05-18,2024,5,May,18,R&B,Album Track,Explicit,92,1950000000,33176,267000,267,118,64,73,42,10,4
+SPOT_0122,Snooze,SZA,SOS,2020-02-11,2020,2,Feb,11,R&B,Album Track,Explicit,91,1450000000,29657,224000,224,143,56,56,39,24,18
+SPOT_0123,Good Days,SZA,SOS,2023-10-03,2023,10,Oct,3,R&B,Single,Explicit,85,1080000000,13438,159000,159,121,44,65,41,32,32
+SPOT_0124,Nobody Gets Me,SZA,SOS,2024-04-19,2024,4,Apr,19,R&B,Album Track,Explicit,84,780000000,15769,192000,192,100,36,28,29,26,10
+SPOT_0125,Saturn,SZA,Single,2020-08-09,2020,8,Aug,9,R&B,Single,Explicit,89,690000000,10376,219000,219,178,43,62,34,8,22
+SPOT_0126,I Hate U,SZA,SOS,2022-03-23,2022,3,Mar,23,R&B,Single,Explicit,83,710000000,9966,265000,265,106,54,39,41,30,7
+SPOT_0127,The Weekend,SZA,Ctrl,2020-07-27,2020,7,Jul,27,R&B,Album Track,Explicit,84,1150000000,14677,234000,234,102,74,48,60,43,10
+SPOT_0128,Love Galore,SZA,Ctrl,2021-12-12,2021,12,Dec,12,R&B,Album Track,Explicit,83,1020000000,23170,213000,213,130,79,58,48,59,26
+SPOT_0129,Low,SZA,SOS,2023-08-19,2023,8,Aug,19,R&B,Album Track,Explicit,81,590000000,8581,188000,188,122,83,67,30,6,29
+SPOT_0130,Broken Clocks,SZA,Ctrl,2022-06-06,2022,6,Jun,6,R&B,Album Track,Explicit,81,720000000,9007,267000,267,120,63,66,57,51,32
+SPOT_0131,Yellow,Coldplay,Parachutes,2022-06-10,2022,6,Jun,10,Rock,Album Track,Non-Explicit,89,2450000000,31404,167000,167,173,43,52,28,71,20
+SPOT_0132,Viva La Vida,Coldplay,Viva la Vida or Death and All His Friends,2024-05-05,2024,5,May,5,Rock,Album Track,Non-Explicit,88,2300000000,27681,206000,206,138,49,62,42,64,30
+SPOT_0133,Something Just Like This,Coldplay,Memories...Do Not Open,2021-07-03,2021,7,Jul,3,Rock,Single,Non-Explicit,87,2650000000,44224,186000,186,103,62,64,45,36,8
+SPOT_0134,The Scientist,Coldplay,A Rush of Blood to the Head,2021-05-14,2021,5,May,14,Rock,Album Track,Non-Explicit,87,2100000000,26758,241000,241,146,56,44,21,64,39
+SPOT_0135,Fix You,Coldplay,X&Y,2021-11-19,2021,11,Nov,19,Rock,Album Track,Non-Explicit,85,1680000000,32013,148000,148,138,21,42,12,68,23
+SPOT_0136,My Universe,Coldplay,Music of the Spheres,2021-03-10,2021,3,Mar,10,Rock,Single,Non-Explicit,84,1250000000,22679,190000,190,105,59,71,47,38,24
+SPOT_0137,A Sky Full of Stars,Coldplay,Ghost Stories,2023-12-07,2023,12,Dec,7,Rock,Album Track,Non-Explicit,84,1520000000,35901,257000,257,125,55,68,16,40,38
+SPOT_0138,Paradise,Coldplay,Mylo Xyloto,2021-01-26,2021,1,Jan,26,Rock,Album Track,Non-Explicit,83,1380000000,20691,155000,155,140,45,60,20,35,29
+SPOT_0139,feelslikeimfallinginlove,Coldplay,Moon Music,2024-04-01,2024,4,Apr,1,Rock,Single,Non-Explicit,81,340000000,5141,175000,175,130,52,78,62,65,34
+SPOT_0140,Adventure of a Lifetime,Coldplay,A Head Full of Dreams,2020-07-09,2020,7,Jul,9,Rock,Album Track,Non-Explicit,82,1100000000,13672,182000,182,112,66,81,86,33,28
+SPOT_0141,Believer,Imagine Dragons,Evolve,2021-09-19,2021,9,Sep,19,Rock,Album Track,Non-Explicit,90,3150000000,41432,229000,229,125,78,78,67,52,33
+SPOT_0142,Demons,Imagine Dragons,Night Visions,2021-12-05,2021,12,Dec,5,Rock,Album Track,Non-Explicit,88,2350000000,36888,199000,199,90,51,71,43,75,24
+SPOT_0143,Thunder,Imagine Dragons,Evolve,2021-07-08,2021,7,Jul,8,Rock,Album Track,Non-Explicit,87,2400000000,46650,184000,184,168,61,82,29,37,17
+SPOT_0144,Radioactive,Imagine Dragons,Night Visions,2021-10-08,2021,10,Oct,8,Rock,Album Track,Non-Explicit,85,1950000000,35268,160000,160,136,45,78,21,73,14
+SPOT_0145,Bones,Imagine Dragons,Mercury - Acts 1 & 2,2024-02-21,2024,2,Feb,21,Rock,Single,Non-Explicit,88,1680000000,20365,206000,206,114,77,74,57,40,40
+SPOT_0146,Enemy,Imagine Dragons,Mercury - Acts 1 & 2,2023-05-07,2023,5,May,7,Rock,Single,Non-Explicit,87,1550000000,25494,181000,181,77,73,78,55,17,15
+SPOT_0147,Whatever It Takes,Imagine Dragons,Evolve,2022-01-09,2022,1,Jan,9,Rock,Album Track,Non-Explicit,82,1200000000,15816,167000,167,135,67,65,54,43,3
+SPOT_0148,Natural,Imagine Dragons,Origins,2020-09-16,2020,9,Sep,16,Rock,Single,Non-Explicit,83,1400000000,18923,180000,180,100,70,61,22,10,6
+SPOT_0149,Bad Liar,Imagine Dragons,Origins,2023-11-29,2023,11,Nov,29,Rock,Album Track,Non-Explicit,81,1150000000,22783,265000,265,175,38,79,30,21,34
+SPOT_0150,Eyes Closed,Imagine Dragons,LOOM,2023-03-21,2023,3,Mar,21,Rock,Single,Non-Explicit,82,380000000,7039,181000,181,118,68,83,62,65,33
+SPOT_0151,Stay,Justin Bieber,F*ck Love 3: Overkill,2021-01-12,2021,1,Jan,12,Pop,Single,Explicit,89,3100000000,41591,268000,268,170,59,76,48,11,19
+SPOT_0152,Ghost,Justin Bieber,Justice,2024-08-10,2024,8,Aug,10,Pop,Album Track,Non-Explicit,87,1750000000,37964,153000,153,154,60,74,44,56,34
+SPOT_0153,Peaches,Justin Bieber,Justice,2023-07-13,2023,7,Jul,13,Pop,Single,Explicit,86,1620000000,32379,232000,232,90,68,70,46,11,12
+SPOT_0154,Love Yourself,Justin Bieber,Purpose,2021-09-14,2021,9,Sep,14,Pop,Album Track,Non-Explicit,87,2400000000,31625,155000,155,100,61,38,52,36,10
+SPOT_0155,Sorry,Justin Bieber,Purpose,2023-05-26,2023,5,May,26,Pop,Album Track,Non-Explicit,86,2250000000,34520,221000,221,100,65,76,41,33,36
+SPOT_0156,What Do You Mean?,Justin Bieber,Purpose,2022-06-25,2022,6,Jun,25,Pop,Single,Non-Explicit,84,1650000000,20803,183000,183,125,85,75,79,59,22
+SPOT_0157,Intentions,Justin Bieber,Changes,2023-06-02,2023,6,Jun,2,Pop,Single,Non-Explicit,82,1200000000,15318,267000,267,148,81,55,87,17,16
+SPOT_0158,Hold On,Justin Bieber,Justice,2021-06-25,2021,6,Jun,25,Pop,Album Track,Non-Explicit,80,710000000,12904,229000,229,140,66,63,29,15,13
+SPOT_0159,Lonely,Justin Bieber,Justice,2023-02-04,2023,2,Feb,4,Pop,Single,Explicit,81,890000000,14745,154000,154,80,43,24,10,25,3
+SPOT_0160,Holy,Justin Bieber,Justice,2023-11-12,2023,11,Nov,12,Pop,Single,Non-Explicit,81,920000000,20964,221000,221,87,67,70,37,65,21
+SPOT_0161,Without Me,Eminem,The Eminem Show,2021-08-13,2021,8,Aug,13,Hip-Hop,Album Track,Explicit,90,2250000000,46760,235000,235,112,91,67,66,41,32
+SPOT_0162,Lose Yourself,Eminem,8 Mile Soundtrack,2021-06-25,2021,6,Jun,25,Hip-Hop,Single,Explicit,89,2200000000,44618,245000,245,171,69,74,6,30,30
+SPOT_0163,The Real Slim Shady,Eminem,The Marshall Mathers LP,2021-04-05,2021,4,Apr,5,Hip-Hop,Album Track,Explicit,88,1950000000,36689,227000,227,105,95,66,76,24,20
+SPOT_0164,Mockingbird,Eminem,Encore,2020-05-02,2020,5,May,2,Hip-Hop,Album Track,Explicit,89,1780000000,30147,166000,166,84,64,67,24,44,39
+SPOT_0165,Houdini,Eminem,The Death of Slim Shady (Coup de Grâce),2020-09-11,2020,9,Sep,11,Hip-Hop,Single,Explicit,92,690000000,13529,204000,204,128,92,88,88,43,28
+SPOT_0166,Godzilla,Eminem,Music To Be Murdered By,2023-01-10,2023,1,Jan,10,Hip-Hop,Album Track,Explicit,85,1450000000,17885,208000,208,166,76,75,83,61,8
+SPOT_0167,Till I Collapse,Eminem,The Eminem Show,2022-06-03,2022,6,Jun,3,Hip-Hop,Album Track,Explicit,86,1920000000,41991,239000,239,171,55,85,10,46,19
+SPOT_0168,Stan,Eminem,The Marshall Mathers LP,2021-04-13,2021,4,Apr,13,Hip-Hop,Album Track,Explicit,84,1250000000,15767,268000,268,80,78,77,51,7,20
+SPOT_0169,Tobey,Eminem,The Death of Slim Shady (Coup de Grâce),2024-04-11,2024,4,Apr,11,Hip-Hop,Single,Explicit,81,340000000,6614,241000,241,140,82,70,48,27,33
+SPOT_0170,Not Afraid,Eminem,Recovery,2021-07-23,2021,7,Jul,23,Hip-Hop,Single,Explicit,83,1100000000,24002,168000,168,86,86,95,67,60,34
+SPOT_0171,I Love You,Billie Eilish & Finneas,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2021-12-13,2021,12,Dec,13,Pop,Album Track,Non-Explicit,82,920000000,11274,197000,197,137,42,14,12,47,23
+SPOT_0172,Bellyache,Billie Eilish & Finneas,Don't Smile at Me,2020-11-25,2020,11,Nov,25,Pop,Single,Non-Explicit,83,1120000000,19670,187000,187,100,70,45,58,57,34
+SPOT_0173,Your Power,Billie Eilish & Finneas,Happier Than Ever,2024-07-24,2024,7,Jul,24,Pop,Single,Non-Explicit,80,650000000,9549,242000,242,130,63,28,48,75,5
+SPOT_0174,My Future,Billie Eilish & Finneas,Happier Than Ever,2021-10-06,2021,10,Oct,6,Pop,Single,Non-Explicit,79,580000000,10720,177000,177,115,44,43,31,46,10
+SPOT_0175,Bury a Friend,Billie Eilish & Finneas,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2024-08-16,2024,8,Aug,16,Pop,Single,Non-Explicit,82,1050000000,15288,145000,145,120,90,39,20,74,32
+SPOT_0176,Locked Out of Heaven,Bruno Mars,Unorthodox Jukebox,2021-01-19,2021,1,Jan,19,Pop,Single,Non-Explicit,89,2300000000,29058,211000,211,144,73,70,87,51,34
+SPOT_0177,That's What I Like,Bruno Mars,24K Magic,2024-04-05,2024,4,Apr,5,Pop,Album Track,Non-Explicit,88,2150000000,27581,151000,151,134,85,56,86,31,20
+SPOT_0178,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,2021-08-12,2021,8,Aug,12,Pop,Single,Non-Explicit,87,2200000000,49910,201000,201,109,64,84,43,67,10
+SPOT_0179,Die With a Smile,Bruno Mars,Single,2024-06-24,2024,6,Jun,24,Pop,Single,Non-Explicit,97,1120000000,14366,175000,175,158,54,71,52,25,22
+SPOT_0180,Leave The Door Open,Bruno Mars,An Evening with Silk Sonic,2023-02-05,2023,2,Feb,5,Pop,Single,Non-Explicit,86,1350000000,28136,197000,197,148,59,62,72,16,17
+SPOT_0181,24K Magic,Bruno Mars,24K Magic,2020-08-28,2020,8,Aug,28,Pop,Single,Explicit,84,1550000000,18549,227000,227,107,82,80,86,24,34
+SPOT_0182,When I Was Your Man,Bruno Mars,Unorthodox Jukebox,2022-11-08,2022,11,Nov,8,Pop,Album Track,Non-Explicit,87,2100000000,29841,235000,235,73,61,40,40,39,29
+SPOT_0183,Smokin Out The Window,Bruno Mars,An Evening with Silk Sonic,2021-05-14,2021,5,May,14,Pop,Album Track,Explicit,82,680000000,10975,203000,203,82,63,67,88,75,12
+SPOT_0184,Grenade,Bruno Mars,Doo-Wops & Hooligans,2023-05-12,2023,5,May,12,Pop,Album Track,Non-Explicit,83,1450000000,25176,210000,210,110,71,56,23,22,7
+SPOT_0185,Treasure,Bruno Mars,Unorthodox Jukebox,2021-11-27,2021,11,Nov,27,Pop,Album Track,Non-Explicit,82,1100000000,26011,264000,264,116,69,70,94,69,20
+SPOT_0186,Stronger,Kanye West,Graduation,2024-01-26,2024,1,Jan,26,Hip-Hop,Album Track,Explicit,87,1850000000,27617,183000,183,123,77,72,49,67,12
+SPOT_0187,Heartless,Kanye West,808s & Heartbreak,2022-09-18,2022,9,Sep,18,Hip-Hop,Single,Non-Explicit,88,1650000000,20094,189000,189,88,79,65,65,47,38
+SPOT_0188,Flashing Lights,Kanye West,Graduation,2022-02-11,2022,2,Feb,11,Hip-Hop,Album Track,Non-Explicit,87,1520000000,18234,203000,203,90,64,63,43,46,15
+SPOT_0189,CARNIVAL,Kanye West,VULTURES 1,2023-03-17,2023,3,Mar,17,Hip-Hop,Single,Explicit,88,820000000,18936,194000,194,148,59,81,31,34,29
+SPOT_0190,Father Stretch My Hands Pt. 1,Kanye West,The Life Of Pablo,2024-03-05,2024,3,Mar,5,Hip-Hop,Album Track,Explicit,85,1350000000,16378,205000,205,113,73,56,47,53,27
+SPOT_0191,Runaway,Kanye West,My Beautiful Dark Twisted Fantasy,2022-10-11,2022,10,Oct,11,Hip-Hop,Album Track,Explicit,85,980000000,15494,268000,268,85,38,56,11,9,11
+SPOT_0192,Bound 2,Kanye West,Yeezus,2021-11-10,2021,11,Nov,10,Hip-Hop,Album Track,Explicit,84,1120000000,24387,256000,256,149,37,67,31,17,31
+SPOT_0193,Praise God,Kanye West,Donda,2022-07-24,2022,7,Jul,24,Hip-Hop,Album Track,Explicit,81,670000000,8753,146000,146,118,88,66,29,23,29
+SPOT_0194,Power,Kanye West,My Beautiful Dark Twisted Fantasy,2020-06-02,2020,6,Jun,2,Hip-Hop,Single,Explicit,83,1180000000,15873,205000,205,154,54,91,57,38,24
+SPOT_0195,Gold Digger,Kanye West,Late Registration,2023-08-23,2023,8,Aug,23,Hip-Hop,Single,Explicit,84,1450000000,22539,155000,155,93,63,70,62,47,37
+SPOT_0196,Golden Echo,Beabadoobee,The Great Escape,2021-08-11,2021,8,Aug,11,Indie Pop,Album Track,Non-Explicit,59,118596320,5414,160000,160,103,40,44,21,10,23
+SPOT_0197,Falling Vibes,Shawn Mendes,Echoes in Time,2023-03-05,2023,3,Mar,5,Pop,Album Track,Non-Explicit,88,321110019,5746,232000,232,129,65,76,67,23,17
+SPOT_0198,Ocean Waves,Rex Orange County,Velvet Skies,2023-10-19,2023,10,Oct,19,Indie Pop,Album Track,Non-Explicit,79,186397958,5171,211000,211,115,65,52,36,63,22
+SPOT_0199,Echoes of Goodbye,Tiësto,Solar Flares,2023-03-23,2023,3,Mar,23,Dance / Electronic,Album Track,Non-Explicit,63,125780931,6044,236000,236,123,68,83,53,82,34
+SPOT_0200,Summer Paradise,Twenty One Pilots,The Great Escape,2021-05-28,2021,5,May,28,Rock / Alternative,Album Track,Explicit,88,310711904,4004,145000,145,109,78,47,67,51,11
+SPOT_0201,Broken Fantasy,Jack Harlow,Serenade,2023-01-09,2023,1,Jan,9,Hip-Hop / Rap,Album Track,Non-Explicit,68,127827310,2097,200000,200,141,92,73,56,64,7
+SPOT_0202,Echoes of Streets,Daniel Caesar,Single,2024-09-28,2024,9,Sep,28,R&B / Soul,Single,Non-Explicit,80,208761128,5383,272000,272,97,79,68,73,38,27
+SPOT_0203,Chasing Tears,Rauw Alejandro,Sublime,2023-02-23,2023,2,Feb,23,Latin / Reggaeton,Album Track,Non-Explicit,65,123435848,1793,253000,253,124,88,78,57,22,5
+SPOT_0204,Dancing Rain,Shawn Mendes,Renaissance,2022-07-18,2022,7,Jul,18,Pop,Album Track,Explicit,68,154914553,4990,174000,174,146,76,51,83,67,29
+SPOT_0205,Heavy Vibes,Arctic Monkeys,Velvet Skies,2024-10-17,2024,10,Oct,17,Rock / Alternative,Album Track,Non-Explicit,68,117650620,5266,226000,226,93,75,62,42,20,32
+SPOT_0206,Winter Time,J. Cole,Chronicles,2021-11-14,2021,11,Nov,14,Hip-Hop / Rap,Album Track,Explicit,60,99165404,5417,276000,276,106,80,68,49,23,3
+SPOT_0207,Velvet Whisper,Maneskin,Neon Lights,2020-02-22,2020,2,Feb,22,Rock / Alternative,Album Track,Explicit,53,60380144,2207,139000,139,101,66,48,38,58,10
+SPOT_0208,Ocean Horizon,Doja Cat,Visions,2022-10-28,2022,10,Oct,28,Hip-Hop / Rap,Album Track,Non-Explicit,59,71895977,4144,268000,268,118,76,56,38,56,30
+SPOT_0209,Heavy Miracle,Doja Cat,After Dark,2020-10-30,2020,10,Oct,30,Hip-Hop / Rap,Album Track,Explicit,49,68252396,3556,270000,270,117,76,87,73,19,16
+SPOT_0210,Voices in Tears,Sam Smith,Velvet Skies,2024-02-03,2024,2,Feb,3,Acoustic / Folk,Album Track,Non-Explicit,51,72165456,2015,230000,230,84,56,55,24,16,8
+SPOT_0211,Electric Fantasy,Post Malone,Single,2023-02-13,2023,2,Feb,13,Hip-Hop / Rap,Single,Non-Explicit,48,73075008,1478,240000,240,125,89,82,38,81,22
+SPOT_0212,Shadow Storm,Rauw Alejandro,True Colors,2024-10-01,2024,10,Oct,1,Latin / Reggaeton,Album Track,Non-Explicit,51,80131144,4715,206000,206,133,75,90,77,76,4
+SPOT_0213,Midnight Fire,Tems,Stardust & Shadows,2021-12-19,2021,12,Dec,19,Afrobeats,Album Track,Non-Explicit,45,39851446,3349,237000,237,94,59,85,31,16,16
+SPOT_0214,Ocean Soul,Lewis Capaldi,Stardust & Shadows,2024-05-09,2024,5,May,9,Acoustic / Folk,Album Track,Non-Explicit,81,196814553,4113,147000,147,118,37,42,48,59,34
+SPOT_0215,Crimson Waves,Davido,Daylight,2022-05-30,2022,5,May,30,Afrobeats,Album Track,Explicit,52,96804053,4077,213000,213,92,64,70,68,12,3
+SPOT_0216,Lost Horizon,Kygo,Electric Sunset,2020-09-02,2020,9,Sep,2,Dance / Electronic,Album Track,Explicit,45,81267748,2050,232000,232,132,90,72,82,76,25
+SPOT_0217,Echoes of Fantasy,Post Malone,Chronicles,2020-06-08,2020,6,Jun,8,Hip-Hop / Rap,Album Track,Non-Explicit,65,133164237,4201,241000,241,117,65,80,36,26,32
+SPOT_0218,Crimson Reckoning,Rauw Alejandro,The Long Road Home,2022-12-09,2022,12,Dec,9,Latin / Reggaeton,Album Track,Non-Explicit,50,71390471,2312,191000,191,125,92,70,54,70,10
+SPOT_0219,Lost Melody,TOMORROW X TOGETHER,Single,2024-08-04,2024,8,Aug,4,K-Pop,Single,Explicit,86,306151295,6194,200000,200,102,61,83,39,14,14
+SPOT_0220,Pure Glow,Dominic Fike,Single,2023-03-02,2023,3,Mar,2,Indie Pop,Single,Non-Explicit,86,291633271,5503,215000,215,84,49,29,50,61,22
+SPOT_0221,Golden Vibes,Glass Animals,Stardust & Shadows,2020-03-18,2020,3,Mar,18,Rock / Alternative,Album Track,Non-Explicit,48,64777167,4017,158000,158,129,82,69,59,79,5
+SPOT_0222,Winter Night,Mitski,Infinite Rhythm,2020-05-06,2020,5,May,6,Indie Pop,Album Track,Non-Explicit,73,135557422,1945,264000,264,116,40,27,35,61,31
+SPOT_0223,Summer Fire,TOMORROW X TOGETHER,Stardust & Shadows,2024-05-05,2024,5,May,5,K-Pop,Album Track,Non-Explicit,66,95400429,3721,220000,220,94,71,51,65,54,21
+SPOT_0224,Echoes of Sky,Glass Animals,Visions,2021-12-17,2021,12,Dec,17,Rock / Alternative,Album Track,Non-Explicit,64,143076976,5084,156000,156,109,85,69,71,47,11
+SPOT_0225,Winter Streets,BLACKPINK,Midnight Reflections,2021-09-24,2021,9,Sep,24,K-Pop,Album Track,Explicit,56,100803272,3196,184000,184,104,58,54,34,42,9
+SPOT_0226,Forever Fantasy,TOMORROW X TOGETHER,Single,2021-11-20,2021,11,Nov,20,K-Pop,Single,Explicit,94,406131482,7620,181000,181,143,60,73,32,57,26
+SPOT_0227,Summer Memories,Martin Garrix,Single,2021-04-24,2021,4,Apr,24,Dance / Electronic,Single,Non-Explicit,79,198271509,5434,184000,184,126,89,95,86,61,32
+SPOT_0228,Secret Storm,Hozier,Neon Lights,2024-06-28,2024,6,Jun,28,Rock / Alternative,Album Track,Non-Explicit,83,185928036,6306,258000,258,145,73,80,36,71,10
+SPOT_0229,Pure Fire,The Neighbourhood,Daylight,2022-06-14,2022,6,Jun,14,Rock / Alternative,Album Track,Explicit,50,67337642,2697,224000,224,149,51,71,33,55,35
+SPOT_0230,Silver Rhythm,J Balvin,Chronicles,2020-07-21,2020,7,Jul,21,Latin / Reggaeton,Album Track,Explicit,90,321892721,5810,208000,208,130,90,91,58,65,31
+SPOT_0231,Voices in Rhythm,Burna Boy,Serenade,2023-01-28,2023,1,Jan,28,Afrobeats,Album Track,Non-Explicit,91,365690254,9762,208000,208,105,69,52,33,35,29
+SPOT_0232,Neon Rain,Davido,Single,2023-01-02,2023,1,Jan,2,Afrobeats,Single,Non-Explicit,46,58603519,1391,209000,209,117,50,84,52,35,29
+SPOT_0233,Secret Vibes,Brent Faiyaz,Daylight,2024-05-29,2024,5,May,29,R&B / Soul,Album Track,Non-Explicit,77,203173065,4019,146000,146,130,74,68,46,7,25
+SPOT_0234,Wild Fantasy,Lil Nas X,Horizons,2024-02-14,2024,2,Feb,14,Hip-Hop / Rap,Album Track,Explicit,93,287749726,6373,221000,221,102,88,84,65,22,7
+SPOT_0235,Sweet Night,Lorde,Serenade,2021-10-08,2021,10,Oct,8,Indie Pop,Album Track,Non-Explicit,64,135510497,2383,183000,183,93,46,28,41,39,10
+SPOT_0236,Voices in Shadows,Anuel AA,Single,2022-03-02,2022,3,Mar,2,Latin / Reggaeton,Single,Non-Explicit,66,168733983,4006,229000,229,131,76,90,55,59,8
+SPOT_0237,Forever Fire,Lumineers,Heartbeat Odyssey,2021-11-02,2021,11,Nov,2,Acoustic / Folk,Album Track,Explicit,87,268237689,6136,244000,244,85,57,53,42,62,5
+SPOT_0238,Crimson Waves,Rosalía,Metamorphosis,2023-07-29,2023,7,Jul,29,Latin / Reggaeton,Album Track,Explicit,70,113435439,2963,290000,290,129,69,69,54,35,26
+SPOT_0239,Shadow Heart,Anuel AA,True Colors,2022-01-29,2022,1,Jan,29,Latin / Reggaeton,Album Track,Non-Explicit,68,96955822,1869,270000,270,126,80,75,91,40,18
+SPOT_0240,Deep Fire,Travis Scott,Solar Flares,2020-08-29,2020,8,Aug,29,Hip-Hop / Rap,Album Track,Non-Explicit,61,128945872,4718,208000,208,142,68,62,43,62,14
+SPOT_0241,After Streets,Clairo,Single,2023-09-29,2023,9,Sep,29,Indie Pop,Single,Non-Explicit,67,134104989,2664,175000,175,120,57,36,43,70,17
+SPOT_0242,After Sky,J. Cole,Infinite Rhythm,2023-02-08,2023,2,Feb,8,Hip-Hop / Rap,Album Track,Explicit,81,181573050,5836,157000,157,88,71,80,65,57,7
+SPOT_0243,Winter Rhythm,Summer Walker,True Colors,2020-09-19,2020,9,Sep,19,R&B / Soul,Album Track,Non-Explicit,94,365740323,4373,245000,245,122,53,52,63,24,22
+SPOT_0244,Broken Miracle,Giveon,Single,2022-11-28,2022,11,Nov,28,R&B / Soul,Single,Explicit,63,114182667,4617,276000,276,107,58,85,49,83,8
+SPOT_0245,Shadow Glow,NewJeans,True Colors,2023-05-24,2023,5,May,24,K-Pop,Album Track,Non-Explicit,66,101539516,4713,142000,142,95,52,81,46,31,29
+SPOT_0246,Dancing Melody,Burna Boy,Stardust & Shadows,2021-09-10,2021,9,Sep,10,Afrobeats,Album Track,Non-Explicit,75,165195254,4434,153000,153,134,53,55,58,58,33
+SPOT_0247,Broken Echo,Boygenius,Heartbeat Odyssey,2024-10-28,2024,10,Oct,28,Indie Pop,Album Track,Non-Explicit,67,125922580,2978,266000,266,110,38,45,35,64,10
+SPOT_0248,Wild Sky,Paramore,Stardust & Shadows,2023-06-14,2023,6,Jun,14,Rock / Alternative,Album Track,Non-Explicit,71,111200480,2617,282000,282,136,70,57,78,25,34
+SPOT_0249,Dancing Melody,LE SSERAFIM,Chronicles,2022-03-16,2022,3,Mar,16,K-Pop,Album Track,Explicit,77,174298660,5308,225000,225,93,53,63,61,81,33
+SPOT_0250,Midnight Reckoning,The Killers,Genesis,2024-01-29,2024,1,Jan,29,Rock / Alternative,Album Track,Non-Explicit,68,152731193,4723,148000,148,126,85,57,53,75,21
+SPOT_0251,Secret Lover,Post Malone,Single,2023-06-30,2023,6,Jun,30,Hip-Hop / Rap,Single,Explicit,88,286376834,6896,230000,230,123,79,78,44,70,28
+SPOT_0252,Golden Heart,BTS,Heartbeat Odyssey,2022-11-29,2022,11,Nov,29,K-Pop,Album Track,Non-Explicit,74,166908677,4364,216000,216,100,75,84,77,43,24
+SPOT_0253,Starlight Goodbye,TOMORROW X TOGETHER,Single,2024-07-28,2024,7,Jul,28,K-Pop,Single,Explicit,46,38236473,3084,213000,213,140,51,83,60,38,17
+SPOT_0254,Dancing Fire,Troye Sivan,Sublime,2022-02-17,2022,2,Feb,17,Pop,Album Track,Non-Explicit,54,78387600,4050,163000,163,102,51,73,50,58,12
+SPOT_0255,Crimson Storm,Passenger,Single,2024-10-03,2024,10,Oct,3,Acoustic / Folk,Single,Non-Explicit,92,364873597,5393,278000,278,95,56,55,53,53,23
+SPOT_0256,Running with Whisper,Khalid,Midnight Reflections,2024-01-16,2024,1,Jan,16,R&B / Soul,Album Track,Non-Explicit,88,309779429,5625,184000,184,105,67,80,49,33,22
+SPOT_0257,Heavy Highway,Twenty One Pilots,Infinite Rhythm,2024-06-16,2024,6,Jun,16,Rock / Alternative,Album Track,Explicit,91,262928114,5973,274000,274,114,75,67,79,23,21
+SPOT_0258,Heavy Rhythm,Shawn Mendes,Velvet Skies,2024-03-10,2024,3,Mar,10,Pop,Album Track,Non-Explicit,75,144582666,4716,204000,204,98,56,84,77,80,18
+SPOT_0259,Chasing Melody,Calvin Harris,The Great Escape,2020-07-24,2020,7,Jul,24,Dance / Electronic,Album Track,Explicit,71,158412323,5789,170000,170,115,85,94,60,57,33
+SPOT_0260,Pure Memories,Boygenius,The Great Escape,2024-04-23,2024,4,Apr,23,Indie Pop,Album Track,Explicit,50,64543390,3983,144000,144,86,48,36,22,55,34
+SPOT_0261,Voices in Heart,Steve Lacy,Visions,2021-11-17,2021,11,Nov,17,R&B / Soul,Album Track,Non-Explicit,63,131873404,1966,264000,264,119,67,57,81,19,24
+SPOT_0262,Winter Waves,Khalid,Single,2021-11-21,2021,11,Nov,21,R&B / Soul,Single,Explicit,95,325384928,7992,238000,238,142,77,77,50,16,28
+SPOT_0263,Velvet Goodbye,21 Savage,Echoes in Time,2022-02-24,2022,2,Feb,24,Hip-Hop / Rap,Album Track,Explicit,60,90662152,2702,284000,284,153,62,71,76,35,6
+SPOT_0264,Sweet Fire,Doja Cat,Daylight,2023-12-11,2023,12,Dec,11,Hip-Hop / Rap,Album Track,Non-Explicit,94,305749710,7280,210000,210,127,81,69,49,66,12
+SPOT_0265,Falling Breeze,Mitski,Single,2024-03-31,2024,3,Mar,31,Indie Pop,Single,Non-Explicit,79,221556559,3430,287000,287,130,60,30,53,62,26
+SPOT_0266,Electric Heart,Gunna,Single,2021-02-18,2021,2,Feb,18,Hip-Hop / Rap,Single,Explicit,81,205129758,6567,268000,268,136,65,68,72,70,31
+SPOT_0267,Velvet Storm,Charlie Puth,Visions,2022-08-04,2022,8,Aug,4,Pop,Album Track,Explicit,88,303532505,5238,135000,135,137,63,82,34,10,30
+SPOT_0268,Starlight Heart,Rauw Alejandro,Single,2022-08-24,2022,8,Aug,24,Latin / Reggaeton,Single,Explicit,47,48111624,1233,242000,242,126,80,79,74,53,8
+SPOT_0269,Winter Reckoning,NewJeans,Neon Lights,2022-03-15,2022,3,Mar,15,K-Pop,Album Track,Non-Explicit,78,147824019,1625,140000,140,109,79,79,57,73,27
+SPOT_0270,Ocean Vibes,The Chainsmokers,Serenade,2024-01-24,2024,1,Jan,24,Dance / Electronic,Album Track,Non-Explicit,93,293260843,6584,139000,139,122,74,67,56,81,5
+SPOT_0271,Chasing Highway,Mitski,Single,2020-03-31,2020,3,Mar,31,Indie Pop,Single,Explicit,70,125671950,5000,149000,149,83,51,43,34,78,23
+SPOT_0272,Pure Streets,CKay,Single,2020-10-20,2020,10,Oct,20,Afrobeats,Single,Explicit,87,298440485,5609,150000,150,125,61,85,73,59,34
+SPOT_0273,Winter Streets,Camila Cabello,Daylight,2022-05-02,2022,5,May,2,Pop,Album Track,Explicit,71,133964002,5448,272000,272,120,65,59,49,23,32
+SPOT_0274,Crimson Breeze,Tate McRae,Genesis,2021-06-06,2021,6,Jun,6,Pop,Album Track,Non-Explicit,58,56239379,4376,229000,229,95,84,57,33,39,27
+SPOT_0275,Golden Reckoning,CKay,Visions,2023-02-18,2023,2,Feb,18,Afrobeats,Album Track,Non-Explicit,58,94310429,5272,138000,138,103,62,52,77,66,18
+SPOT_0276,Silver Miracle,Asake,Heartbeat Odyssey,2022-02-18,2022,2,Feb,18,Afrobeats,Album Track,Non-Explicit,74,175309250,3767,227000,227,122,81,74,36,65,23
+SPOT_0277,Broken Breeze,Marshmello,Echoes in Time,2020-02-03,2020,2,Feb,3,Dance / Electronic,Album Track,Non-Explicit,61,117720716,2521,185000,185,125,75,77,86,36,34
+SPOT_0278,Endless Horizon,Jung Kook,Single,2023-08-07,2023,8,Aug,7,K-Pop,Single,Non-Explicit,92,322812092,6749,225000,225,100,58,79,61,28,6
+SPOT_0279,Forever Reckoning,BTS,True Colors,2020-01-14,2020,1,Jan,14,K-Pop,Album Track,Explicit,71,113749525,5184,173000,173,90,63,77,59,52,6
+SPOT_0280,Running with Goodbye,CKay,Chronicles,2023-02-03,2023,2,Feb,3,Afrobeats,Album Track,Explicit,71,111533557,2684,139000,139,122,77,56,36,17,12
+SPOT_0281,Summer Storm,The Chainsmokers,Midnight Reflections,2022-03-23,2022,3,Mar,23,Dance / Electronic,Album Track,Explicit,50,83920847,3561,197000,197,122,77,86,55,9,8
+SPOT_0282,Silver Whisper,Lewis Capaldi,The Great Escape,2020-12-16,2020,12,Dec,16,Acoustic / Folk,Album Track,Explicit,50,89457093,4381,219000,219,111,62,31,53,10,17
+SPOT_0283,Dancing Waves,Peggy Gou,After Dark,2021-07-28,2021,7,Jul,28,Dance / Electronic,Album Track,Non-Explicit,79,172539043,6476,215000,215,115,74,83,59,55,7
+SPOT_0284,Shadow Tears,Maneskin,Solar Flares,2023-01-12,2023,1,Jan,12,Rock / Alternative,Album Track,Non-Explicit,66,93382700,3940,155000,155,122,72,48,36,60,17
+SPOT_0285,Summer Horizon,Lil Nas X,Sublime,2024-05-03,2024,5,May,3,Hip-Hop / Rap,Album Track,Explicit,65,91694898,2949,260000,260,109,73,79,62,79,27
+SPOT_0286,Sweet Paradise,Gunna,After Dark,2020-11-11,2020,11,Nov,11,Hip-Hop / Rap,Album Track,Non-Explicit,69,127438875,3089,216000,216,126,65,60,35,61,26
+SPOT_0287,Velvet Rhythm,The Neighbourhood,Velvet Skies,2022-11-15,2022,11,Nov,15,Rock / Alternative,Album Track,Non-Explicit,71,92530166,3734,158000,158,128,70,69,30,42,29
+SPOT_0288,Deep Melody,Zach Bryan,Echoes in Time,2020-12-13,2020,12,Dec,13,Acoustic / Folk,Album Track,Non-Explicit,88,250701235,5140,203000,203,106,39,29,30,60,20
+SPOT_0289,Dancing Paradise,James Arthur,Electric Sunset,2024-01-16,2024,1,Jan,16,Acoustic / Folk,Album Track,Non-Explicit,85,243486072,3681,169000,169,94,35,50,41,84,27
+SPOT_0290,Broken Breeze,Myke Towers,Single,2023-05-02,2023,5,May,2,Latin / Reggaeton,Single,Non-Explicit,53,60593777,2230,180000,180,127,78,74,90,67,18
+SPOT_0291,Endless Silence,Anuel AA,Single,2023-02-28,2023,2,Feb,28,Latin / Reggaeton,Single,Non-Explicit,57,73719317,4122,275000,275,115,91,79,63,61,21
+SPOT_0292,Chasing Goodbye,Post Malone,Stardust & Shadows,2023-09-10,2023,9,Sep,10,Hip-Hop / Rap,Album Track,Explicit,54,94383171,3759,288000,288,141,80,80,69,58,5
+SPOT_0293,Summer Time,Peso Pluma,Single,2021-05-23,2021,5,May,23,Latin / Reggaeton,Single,Explicit,87,287222859,5817,146000,146,133,88,86,91,56,24
+SPOT_0294,Midnight Rain,Zach Bryan,Daylight,2023-02-16,2023,2,Feb,16,Acoustic / Folk,Album Track,Non-Explicit,82,240013770,4761,235000,235,104,59,62,52,24,25
+SPOT_0295,Electric Memories,Charlie Puth,After Dark,2024-02-04,2024,2,Feb,4,Pop,Album Track,Explicit,54,82603116,4446,187000,187,123,80,67,60,17,31
+SPOT_0296,Neon Memories,Wallows,Horizons,2021-12-03,2021,12,Dec,3,Indie Pop,Album Track,Explicit,86,193686611,3164,267000,267,86,52,35,41,76,30
+SPOT_0297,After Shadows,Boygenius,Neon Lights,2022-06-04,2022,6,Jun,4,Indie Pop,Album Track,Non-Explicit,70,98359567,3862,244000,244,99,35,38,33,40,7
+SPOT_0298,After Reckoning,Rema,Midnight Reflections,2022-07-26,2022,7,Jul,26,Afrobeats,Album Track,Explicit,52,96836861,3961,215000,215,128,74,84,55,80,10
+SPOT_0299,Echoes of Lover,Ozuna,True Colors,2021-09-01,2021,9,Sep,1,Latin / Reggaeton,Album Track,Non-Explicit,84,237361483,4047,196000,196,124,71,70,73,23,35
+SPOT_0300,Summer Sky,Lewis Capaldi,The Long Road Home,2023-07-25,2023,7,Jul,25,Acoustic / Folk,Album Track,Explicit,79,204513780,3250,260000,260,93,39,36,40,62,6
+SPOT_0301,Dancing Sky,Karol G,Solar Flares,2022-11-01,2022,11,Nov,1,Latin / Reggaeton,Album Track,Non-Explicit,86,293806323,6911,248000,248,130,73,67,86,8,17
+SPOT_0302,Endless Tears,Arctic Monkeys,Neon Lights,2023-03-04,2023,3,Mar,4,Rock / Alternative,Album Track,Non-Explicit,92,421610547,7192,163000,163,126,57,62,79,74,26
+SPOT_0303,Pure Fantasy,BTS,Serenade,2020-07-28,2020,7,Jul,28,K-Pop,Album Track,Non-Explicit,92,399554101,9531,143000,143,118,66,67,85,16,31
+SPOT_0304,Lost Paradise,J. Cole,Single,2024-10-29,2024,10,Oct,29,Hip-Hop / Rap,Single,Explicit,90,352725274,8517,170000,170,106,88,68,38,73,20
+SPOT_0305,Silent Soul,Fireboy DML,Single,2023-03-18,2023,3,Mar,18,Afrobeats,Single,Explicit,62,148698323,4346,159000,159,98,76,48,47,21,11
+SPOT_0306,Heavy Soul,Avicii,Single,2023-10-16,2023,10,Oct,16,Dance / Electronic,Single,Non-Explicit,70,135612995,3383,231000,231,129,70,85,55,56,35
+SPOT_0307,Ocean Goodbye,Linkin Park,Chronicles,2024-09-30,2024,9,Sep,30,Rock / Alternative,Album Track,Non-Explicit,91,274605151,5917,226000,226,144,54,79,55,32,30
+SPOT_0308,Endless Soul,Martin Garrix,Single,2023-03-29,2023,3,Mar,29,Dance / Electronic,Single,Explicit,53,103606229,2626,147000,147,116,71,85,79,7,10
+SPOT_0309,Ocean Dreams,Khalid,Single,2023-11-11,2023,11,Nov,11,R&B / Soul,Single,Non-Explicit,53,84724514,5183,205000,205,95,73,61,35,52,13
+SPOT_0310,Winter Memories,Selena Gomez,Single,2022-05-29,2022,5,May,29,Pop,Single,Non-Explicit,86,181756406,4703,257000,257,94,58,82,44,71,31
+SPOT_0311,Heavy Soul,Sabrina Carpenter,Single,2022-05-14,2022,5,May,14,Pop,Single,Non-Explicit,89,210662745,5009,157000,157,136,56,51,50,52,22
+SPOT_0312,Pure Silence,Jhené Aiko,Single,2023-10-18,2023,10,Oct,18,R&B / Soul,Single,Explicit,54,32181533,3219,177000,177,118,72,58,70,24,29
+SPOT_0313,Echoes of Night,Davido,Horizons,2020-09-09,2020,9,Sep,9,Afrobeats,Album Track,Explicit,82,262556570,4848,170000,170,105,67,50,45,75,21
+SPOT_0314,Lost Storm,Shawn Mendes,Serenade,2021-08-28,2021,8,Aug,28,Pop,Album Track,Non-Explicit,86,195768108,4154,163000,163,105,81,85,68,14,3
+SPOT_0315,Velvet Shadows,Ozuna,Single,2022-01-18,2022,1,Jan,18,Latin / Reggaeton,Single,Non-Explicit,79,243420133,2920,139000,139,133,70,65,66,32,5
+SPOT_0316,Secret Memories,Selena Gomez,Daylight,2022-05-17,2022,5,May,17,Pop,Album Track,Non-Explicit,89,267252790,4461,214000,214,95,82,58,81,24,23
+SPOT_0317,Winter Horizon,Lumineers,Single,2020-05-15,2020,5,May,15,Acoustic / Folk,Single,Non-Explicit,64,111496992,3273,157000,157,102,38,54,59,82,6
+SPOT_0318,Electric Dreams,Maneskin,Single,2020-12-01,2020,12,Dec,1,Rock / Alternative,Single,Non-Explicit,76,246645908,6002,201000,201,100,73,53,77,39,10
+SPOT_0319,After Breeze,Camila Cabello,After Dark,2023-03-26,2023,3,Mar,26,Pop,Album Track,Explicit,85,220321220,4314,149000,149,121,60,68,40,37,9
+SPOT_0320,Wild Fantasy,Rema,Metamorphosis,2020-01-26,2020,1,Jan,26,Afrobeats,Album Track,Non-Explicit,60,91261605,5184,173000,173,101,52,80,81,58,17
+SPOT_0321,Crimson Miracle,J Balvin,Single,2020-06-08,2020,6,Jun,8,Latin / Reggaeton,Single,Explicit,81,231977093,6358,148000,148,120,75,90,83,10,28
+SPOT_0322,Echoes of Memories,Doja Cat,Single,2020-06-25,2020,6,Jun,25,Hip-Hop / Rap,Single,Explicit,80,215029295,4799,279000,279,118,85,70,64,68,15
+SPOT_0323,Velvet Dreams,Stray Kids,Single,2023-01-14,2023,1,Jan,14,K-Pop,Single,Explicit,67,92755887,1494,231000,231,144,69,51,43,72,18
+SPOT_0324,Golden Sky,Sam Smith,Single,2021-04-19,2021,4,Apr,19,Acoustic / Folk,Single,Explicit,78,195284638,5702,156000,156,112,38,57,28,55,7
+SPOT_0325,Golden Breeze,CKay,Genesis,2021-06-18,2021,6,Jun,18,Afrobeats,Album Track,Explicit,65,146937166,5138,218000,218,110,78,62,44,14,15
+SPOT_0326,Electric Sky,Kehlani,Velvet Skies,2022-04-12,2022,4,Apr,12,R&B / Soul,Album Track,Non-Explicit,52,63589133,2260,253000,253,106,57,50,40,43,5
+SPOT_0327,Velvet Rhythm,Marshmello,Single,2022-03-22,2022,3,Mar,22,Dance / Electronic,Single,Non-Explicit,77,145118382,5723,179000,179,115,80,92,78,76,18
+SPOT_0328,Electric Paradise,Doja Cat,Single,2020-05-06,2020,5,May,6,Hip-Hop / Rap,Single,Explicit,94,450968560,10733,237000,237,127,83,60,72,14,4
+SPOT_0329,Voices in Time,J. Cole,Genesis,2024-10-01,2024,10,Oct,1,Hip-Hop / Rap,Album Track,Explicit,66,124274019,3218,281000,281,135,88,80,66,59,14
+SPOT_0330,Running with Fire,J Balvin,Velvet Skies,2020-03-11,2020,3,Mar,11,Latin / Reggaeton,Album Track,Non-Explicit,84,256191607,4180,262000,262,128,85,80,53,16,20
+SPOT_0331,Crimson Night,Vance Joy,Daylight,2024-06-30,2024,6,Jun,30,Acoustic / Folk,Album Track,Explicit,79,242856894,5519,226000,226,105,52,56,42,77,35
+SPOT_0332,Endless Fire,Anuel AA,Sublime,2024-07-18,2024,7,Jul,18,Latin / Reggaeton,Album Track,Explicit,94,346881959,5759,284000,284,122,73,68,65,35,20
+SPOT_0333,Pure Tears,BTS,Solar Flares,2024-09-14,2024,9,Sep,14,K-Pop,Album Track,Explicit,56,79768201,3998,226000,226,148,51,67,66,77,12
+SPOT_0334,Forever Paradise,Asake,Single,2021-09-24,2021,9,Sep,24,Afrobeats,Single,Non-Explicit,56,56439888,2203,289000,289,104,51,78,60,5,24
+SPOT_0335,After Sky,Asake,Neon Lights,2024-09-25,2024,9,Sep,25,Afrobeats,Album Track,Non-Explicit,65,76143525,3946,171000,171,139,57,78,85,51,7
+SPOT_0336,Shadow Rain,Anuel AA,Heartbeat Odyssey,2020-11-18,2020,11,Nov,18,Latin / Reggaeton,Album Track,Explicit,91,437400048,6225,179000,179,132,90,93,89,50,17
+SPOT_0337,Silver Memories,Wizkid,Single,2020-12-29,2020,12,Dec,29,Afrobeats,Single,Explicit,91,248664041,5708,280000,280,92,61,83,50,83,17
+SPOT_0338,Running with Goodbye,Rema,After Dark,2021-10-16,2021,10,Oct,16,Afrobeats,Album Track,Explicit,55,56781697,3649,220000,220,118,50,61,43,36,7
+SPOT_0339,After Rain,Maluma,Single,2022-06-16,2022,6,Jun,16,Latin / Reggaeton,Single,Explicit,91,296054818,4637,261000,261,127,79,82,74,17,33
+SPOT_0340,Silent Lover,Asake,Metamorphosis,2021-10-14,2021,10,Oct,14,Afrobeats,Album Track,Explicit,61,84885355,2068,231000,231,100,54,80,35,48,33
+SPOT_0341,Winter Fire,Selena Gomez,The Long Road Home,2020-07-26,2020,7,Jul,26,Pop,Album Track,Explicit,66,91775143,4249,276000,276,136,84,61,72,41,22
+SPOT_0342,Golden Shadows,David Guetta,Infinite Rhythm,2022-01-08,2022,1,Jan,8,Dance / Electronic,Album Track,Explicit,45,62372431,3510,288000,288,130,74,68,51,31,13
+SPOT_0343,Dancing Reckoning,The Neighbourhood,Solar Flares,2023-09-15,2023,9,Sep,15,Rock / Alternative,Album Track,Non-Explicit,61,98312084,3301,232000,232,113,61,73,32,38,31
+SPOT_0344,Wild Silence,Rex Orange County,Metamorphosis,2023-11-27,2023,11,Nov,27,Indie Pop,Album Track,Explicit,87,224069580,4593,240000,240,123,53,39,55,12,27
+SPOT_0345,Starlight Streets,Jimin,Single,2021-04-27,2021,4,Apr,27,K-Pop,Single,Non-Explicit,75,168045820,5236,143000,143,122,83,81,73,84,12
+SPOT_0346,Silent Fire,Doja Cat,Single,2020-09-15,2020,9,Sep,15,Hip-Hop / Rap,Single,Explicit,47,83870057,4895,172000,172,156,70,75,39,76,28
+SPOT_0347,Echoes of Waves,Jung Kook,Chronicles,2023-06-30,2023,6,Jun,30,K-Pop,Album Track,Non-Explicit,82,247064554,6203,173000,173,99,56,51,66,17,21
+SPOT_0348,Voices in Breeze,Jung Kook,The Great Escape,2023-06-01,2023,6,Jun,1,K-Pop,Album Track,Non-Explicit,75,130879611,2501,290000,290,133,75,47,55,47,18
+SPOT_0349,Running with Waves,Charlie Puth,Single,2024-08-01,2024,8,Aug,1,Pop,Single,Explicit,95,338881741,5433,160000,160,145,64,53,49,61,23
+SPOT_0350,Summer Time,Hozier,Velvet Skies,2024-08-14,2024,8,Aug,14,Rock / Alternative,Album Track,Explicit,71,190572088,3514,149000,149,122,60,49,49,69,28
+SPOT_0351,Voices in Glow,Bryson Tiller,Serenade,2021-02-15,2021,2,Feb,15,R&B / Soul,Album Track,Non-Explicit,48,86094427,5574,227000,227,135,62,62,53,64,35
+SPOT_0352,Chasing Dreams,Zach Bryan,Infinite Rhythm,2020-12-29,2020,12,Dec,29,Acoustic / Folk,Album Track,Non-Explicit,75,185296861,3422,201000,201,122,61,30,38,8,27
+SPOT_0353,Echoes of Glow,Miley Cyrus,Single,2021-03-29,2021,3,Mar,29,Pop,Single,Explicit,86,216238318,6065,239000,239,122,51,45,60,21,14
+SPOT_0354,Wild Waves,Burna Boy,Stardust & Shadows,2023-12-23,2023,12,Dec,23,Afrobeats,Album Track,Non-Explicit,86,246344560,3956,252000,252,106,63,74,49,71,28
+SPOT_0355,Midnight Storm,Rema,Single,2024-09-15,2024,9,Sep,15,Afrobeats,Single,Non-Explicit,68,130813890,4883,162000,162,120,54,66,47,46,20
+SPOT_0356,Lost Sky,Fall Out Boy,Echoes in Time,2024-07-07,2024,7,Jul,7,Rock / Alternative,Album Track,Non-Explicit,83,228496852,3188,141000,141,131,81,63,46,58,28
+SPOT_0357,Shadow Highway,Noah Kahan,Single,2021-12-03,2021,12,Dec,3,Acoustic / Folk,Single,Non-Explicit,91,392145036,6535,226000,226,107,44,35,55,28,21
+SPOT_0358,Velvet Fantasy,Doja Cat,Renaissance,2021-01-09,2021,1,Jan,9,Hip-Hop / Rap,Album Track,Explicit,88,327501415,6727,192000,192,119,75,76,58,42,32
+SPOT_0359,Golden Reckoning,Doja Cat,Visions,2020-05-25,2020,5,May,25,Hip-Hop / Rap,Album Track,Non-Explicit,75,229996869,7728,232000,232,147,71,81,38,24,11
+SPOT_0360,Crimson Glow,Marshmello,Single,2020-10-20,2020,10,Oct,20,Dance / Electronic,Single,Non-Explicit,65,115620687,1675,259000,259,125,88,70,70,12,3
+SPOT_0361,Lost Horizon,Rex Orange County,Single,2020-11-20,2020,11,Nov,20,Indie Pop,Single,Non-Explicit,76,174673950,5702,246000,246,115,48,50,47,66,27
+SPOT_0362,Starlight Night,Sabrina Carpenter,Single,2021-10-21,2021,10,Oct,21,Pop,Single,Non-Explicit,93,409509676,10973,136000,136,130,65,59,74,49,22
+SPOT_0363,Silver Storm,Brent Faiyaz,Neon Lights,2020-04-03,2020,4,Apr,3,R&B / Soul,Album Track,Explicit,64,150876117,3875,287000,287,123,71,72,73,22,24
+SPOT_0364,Pure Night,Wallows,Solar Flares,2021-04-04,2021,4,Apr,4,Indie Pop,Album Track,Explicit,91,407076919,4438,285000,285,107,40,32,43,9,27
+SPOT_0365,Summer Heart,The Killers,Metamorphosis,2023-08-31,2023,8,Aug,31,Rock / Alternative,Album Track,Non-Explicit,46,35902374,2483,232000,232,97,85,61,60,24,16
+SPOT_0366,Crimson Streets,Shawn Mendes,Daylight,2023-05-25,2023,5,May,25,Pop,Album Track,Explicit,89,216079917,5730,165000,165,108,57,51,61,30,15
+SPOT_0367,Lost Vibes,The Killers,Single,2020-03-21,2020,3,Mar,21,Rock / Alternative,Single,Explicit,80,197618369,4245,219000,219,105,50,45,72,16,10
+SPOT_0368,Velvet Rhythm,Davido,Single,2024-01-21,2024,1,Jan,21,Afrobeats,Single,Explicit,51,70368130,2292,202000,202,119,53,51,82,27,5
+SPOT_0369,After Streets,Linkin Park,Horizons,2024-04-01,2024,4,Apr,1,Rock / Alternative,Album Track,Explicit,47,39522091,3272,178000,178,111,72,73,69,39,8
+SPOT_0370,Silent Rain,Ozuna,Velvet Skies,2022-02-28,2022,2,Feb,28,Latin / Reggaeton,Album Track,Explicit,89,379072151,7926,177000,177,118,72,87,53,25,9
+SPOT_0371,Dancing Paradise,Lumineers,Velvet Skies,2022-02-16,2022,2,Feb,16,Acoustic / Folk,Album Track,Explicit,94,304028671,5856,168000,168,105,64,56,27,57,31
+SPOT_0372,Endless Time,Chappell Roan,True Colors,2024-03-02,2024,3,Mar,2,Pop,Album Track,Non-Explicit,81,234179862,6269,221000,221,123,83,84,36,60,18
+SPOT_0373,Chasing Streets,Wallows,Genesis,2023-02-17,2023,2,Feb,17,Indie Pop,Album Track,Non-Explicit,84,169921035,5719,255000,255,129,50,35,24,67,23
+SPOT_0374,Endless Heart,Marshmello,Renaissance,2022-04-05,2022,4,Apr,5,Dance / Electronic,Album Track,Non-Explicit,60,103045349,3552,249000,249,117,83,79,70,20,34
+SPOT_0375,Silver Breeze,Chappell Roan,Renaissance,2020-07-05,2020,7,Jul,5,Pop,Album Track,Explicit,95,409448308,6061,278000,278,103,79,66,53,11,17
+SPOT_0376,Starlight Horizon,Wallows,Infinite Rhythm,2022-01-14,2022,1,Jan,14,Indie Pop,Album Track,Non-Explicit,90,280393706,5708,191000,191,75,45,47,60,42,26
+SPOT_0377,Voices in Fire,Travis Scott,The Long Road Home,2023-06-05,2023,6,Jun,5,Hip-Hop / Rap,Album Track,Non-Explicit,57,92246405,3510,183000,183,123,65,81,37,80,10
+SPOT_0378,Chasing Glow,Dominic Fike,Single,2022-10-18,2022,10,Oct,18,Indie Pop,Single,Explicit,45,30281966,2323,284000,284,105,64,57,31,79,14
+SPOT_0379,Silver Streets,Brent Faiyaz,Heartbeat Odyssey,2022-02-26,2022,2,Feb,26,R&B / Soul,Album Track,Non-Explicit,71,169810498,4328,222000,222,108,78,53,38,57,35
+SPOT_0380,Echoes of Soul,The Killers,Single,2023-07-19,2023,7,Jul,19,Rock / Alternative,Single,Non-Explicit,58,81162790,2468,168000,168,135,61,77,64,46,10
+SPOT_0381,Dancing Glow,Peso Pluma,True Colors,2023-10-12,2023,10,Oct,12,Latin / Reggaeton,Album Track,Non-Explicit,92,417129079,7550,243000,243,115,84,68,51,53,12
+SPOT_0382,Lost Waves,Sabrina Carpenter,Single,2021-08-09,2021,8,Aug,9,Pop,Single,Explicit,88,219456626,5715,210000,210,103,84,47,52,62,9
+SPOT_0383,Echoes of Tears,Fireboy DML,Single,2021-05-01,2021,5,May,1,Afrobeats,Single,Non-Explicit,77,210219759,5124,147000,147,149,74,69,56,45,6
+SPOT_0384,Lost Echo,Shawn Mendes,Single,2022-06-26,2022,6,Jun,26,Pop,Single,Non-Explicit,59,114455004,3760,274000,274,137,62,57,48,62,14
+SPOT_0385,Silent Fantasy,21 Savage,Solar Flares,2021-07-25,2021,7,Jul,25,Hip-Hop / Rap,Album Track,Explicit,80,166562394,5551,200000,200,80,72,84,44,46,6
+SPOT_0386,Dancing Paradise,Tems,Midnight Reflections,2023-12-20,2023,12,Dec,20,Afrobeats,Album Track,Explicit,65,101360368,1683,264000,264,100,76,79,64,56,8
+SPOT_0387,Voices in Night,J Balvin,Heartbeat Odyssey,2021-03-23,2021,3,Mar,23,Latin / Reggaeton,Album Track,Non-Explicit,93,403821347,8226,137000,137,118,89,76,78,35,18
+SPOT_0388,Silver Miracle,Camila Cabello,Single,2021-06-09,2021,6,Jun,9,Pop,Single,Explicit,79,187667430,4027,230000,230,122,82,73,61,10,21
+SPOT_0389,Secret Rhythm,Marshmello,Single,2024-05-02,2024,5,May,2,Dance / Electronic,Single,Explicit,79,173845769,5669,189000,189,128,94,68,63,73,30
+SPOT_0390,Midnight Lover,21 Savage,Single,2020-05-30,2020,5,May,30,Hip-Hop / Rap,Single,Explicit,48,57792791,1155,282000,282,109,91,71,61,85,28
+SPOT_0391,Midnight Shadows,Dean Lewis,Renaissance,2024-01-15,2024,1,Jan,15,Acoustic / Folk,Album Track,Explicit,84,156109573,5301,153000,153,97,64,57,26,42,22
+SPOT_0392,Sweet Horizon,Rema,Single,2024-08-10,2024,8,Aug,10,Afrobeats,Single,Non-Explicit,87,188820011,3322,169000,169,137,75,79,48,23,22
+SPOT_0393,Starlight Reckoning,Karol G,Horizons,2023-03-18,2023,3,Mar,18,Latin / Reggaeton,Album Track,Explicit,83,195775577,3858,223000,223,121,81,93,91,70,12
+SPOT_0394,Wild Echo,Giveon,Single,2021-01-06,2021,1,Jan,6,R&B / Soul,Single,Explicit,87,292863127,6044,275000,275,119,85,49,48,13,19
+SPOT_0395,Deep Glow,J. Cole,Heartbeat Odyssey,2023-10-06,2023,10,Oct,6,Hip-Hop / Rap,Album Track,Explicit,86,228134369,3003,184000,184,120,77,83,56,44,12
+SPOT_0396,Falling Paradise,CKay,The Long Road Home,2021-10-03,2021,10,Oct,3,Afrobeats,Album Track,Explicit,60,123863866,5458,227000,227,98,71,75,59,62,25
+SPOT_0397,Starlight Rain,Paramore,Sublime,2021-07-28,2021,7,Jul,28,Rock / Alternative,Album Track,Explicit,53,70739751,4255,154000,154,136,54,46,84,69,4
+SPOT_0398,Silver Horizon,CKay,Metamorphosis,2023-01-18,2023,1,Jan,18,Afrobeats,Album Track,Non-Explicit,79,178828032,4224,192000,192,147,68,53,59,69,35
+SPOT_0399,Falling Storm,Post Malone,Echoes in Time,2024-07-09,2024,7,Jul,9,Hip-Hop / Rap,Album Track,Non-Explicit,84,300766018,7107,175000,175,102,80,64,65,10,17
+SPOT_0400,Neon Waves,Boygenius,Metamorphosis,2022-11-26,2022,11,Nov,26,Indie Pop,Album Track,Non-Explicit,95,377300715,8538,146000,146,77,55,45,26,71,20
+SPOT_0401,Starlight Glow,Glass Animals,The Great Escape,2023-04-18,2023,4,Apr,18,Rock / Alternative,Album Track,Non-Explicit,86,297007214,4771,231000,231,148,64,78,55,50,25
+SPOT_0402,Voices in Echo,Dominic Fike,Genesis,2021-04-16,2021,4,Apr,16,Indie Pop,Album Track,Non-Explicit,49,67333268,1869,182000,182,85,46,32,34,58,24
+SPOT_0403,Chasing Goodbye,Doja Cat,Visions,2024-09-02,2024,9,Sep,2,Hip-Hop / Rap,Album Track,Non-Explicit,71,81126251,3938,286000,286,100,66,87,37,23,6
+SPOT_0404,Running with Fire,Steve Lacy,Solar Flares,2023-02-28,2023,2,Feb,28,R&B / Soul,Album Track,Non-Explicit,85,189172130,4488,249000,249,128,80,75,40,33,29
+SPOT_0405,After Glow,Wizkid,Single,2023-09-12,2023,9,Sep,12,Afrobeats,Single,Explicit,77,170526472,4782,286000,286,94,64,69,54,21,9
+SPOT_0406,Secret Reckoning,Katy Perry,Single,2024-08-19,2024,8,Aug,19,Pop,Single,Non-Explicit,54,65436306,4698,288000,288,92,84,77,78,20,8
+SPOT_0407,Voices in Echo,Phoebe Bridgers,Chronicles,2024-05-05,2024,5,May,5,Indie Pop,Album Track,Non-Explicit,88,331713143,8249,146000,146,119,51,52,34,66,27
+SPOT_0408,After Fantasy,Rosalía,Single,2023-03-25,2023,3,Mar,25,Latin / Reggaeton,Single,Non-Explicit,51,66119893,4149,194000,194,117,77,84,84,57,19
+SPOT_0409,Heavy Fantasy,Calvin Harris,Single,2020-08-29,2020,8,Aug,29,Dance / Electronic,Single,Non-Explicit,78,134002121,4903,215000,215,128,79,68,59,59,19
+SPOT_0410,Crimson Glow,The Killers,Electric Sunset,2022-03-24,2022,3,Mar,24,Rock / Alternative,Album Track,Non-Explicit,93,320277883,6905,278000,278,125,80,61,49,78,25
+SPOT_0411,Echoes of Reckoning,Vance Joy,Echoes in Time,2023-12-03,2023,12,Dec,3,Acoustic / Folk,Album Track,Non-Explicit,55,101679656,4752,221000,221,126,52,28,30,54,3
+SPOT_0412,Dancing Miracle,21 Savage,After Dark,2021-03-30,2021,3,Mar,30,Hip-Hop / Rap,Album Track,Explicit,68,72390063,2516,237000,237,158,82,88,53,81,6
+SPOT_0413,Ocean Dreams,Khalid,True Colors,2022-11-27,2022,11,Nov,27,R&B / Soul,Album Track,Non-Explicit,63,124184809,4541,194000,194,129,60,47,53,35,3
+SPOT_0414,Endless Horizon,Brent Faiyaz,True Colors,2023-04-15,2023,4,Apr,15,R&B / Soul,Album Track,Non-Explicit,57,56928457,3469,207000,207,136,85,82,52,49,20
+SPOT_0415,Lost Lover,Peggy Gou,Single,2021-06-18,2021,6,Jun,18,Dance / Electronic,Single,Non-Explicit,56,56696735,1150,263000,263,124,78,95,57,70,19
+SPOT_0416,Endless Highway,IVE,Solar Flares,2024-04-25,2024,4,Apr,25,K-Pop,Album Track,Non-Explicit,60,126040516,3418,285000,285,145,51,75,37,38,7
+SPOT_0417,Chasing Highway,Passenger,Heartbeat Odyssey,2021-12-24,2021,12,Dec,24,Acoustic / Folk,Album Track,Non-Explicit,78,192373372,4278,158000,158,100,56,46,24,75,14
+SPOT_0418,Falling Night,Wallows,Single,2024-03-08,2024,3,Mar,8,Indie Pop,Single,Explicit,88,345971426,7402,186000,186,90,58,40,36,31,17
+SPOT_0419,Forever Echo,The Chainsmokers,Horizons,2020-06-09,2020,6,Jun,9,Dance / Electronic,Album Track,Explicit,88,390677089,4556,273000,273,116,83,76,89,45,34
+SPOT_0420,Dancing Fire,Tems,Single,2021-07-27,2021,7,Jul,27,Afrobeats,Single,Non-Explicit,70,100685206,4233,243000,243,120,84,47,62,49,28
+SPOT_0421,Electric Highway,Khalid,Heartbeat Odyssey,2020-01-25,2020,1,Jan,25,R&B / Soul,Album Track,Non-Explicit,88,218250350,4740,201000,201,101,85,61,45,39,33
+SPOT_0422,Falling Fire,Ayra Starr,Serenade,2024-03-20,2024,3,Mar,20,Afrobeats,Album Track,Non-Explicit,68,136217535,4039,181000,181,126,58,81,73,34,9
+SPOT_0423,Starlight Breeze,Twenty One Pilots,Single,2024-06-26,2024,6,Jun,26,Rock / Alternative,Single,Explicit,92,235134771,5744,262000,262,98,83,79,76,45,34
+SPOT_0424,Starlight Reckoning,Fall Out Boy,Solar Flares,2020-11-30,2020,11,Nov,30,Rock / Alternative,Album Track,Explicit,48,58557269,4356,159000,159,118,71,61,53,51,19
+SPOT_0425,Crimson Rain,Karol G,True Colors,2021-02-11,2021,2,Feb,11,Latin / Reggaeton,Album Track,Non-Explicit,81,210890402,3450,225000,225,125,89,81,81,62,8
+SPOT_0426,Sweet Lover,Lumineers,Genesis,2023-08-04,2023,8,Aug,4,Acoustic / Folk,Album Track,Non-Explicit,66,130699002,5152,153000,153,80,40,46,34,45,23
+SPOT_0427,Summer Time,Fall Out Boy,Velvet Skies,2022-01-13,2022,1,Jan,13,Rock / Alternative,Album Track,Non-Explicit,92,379424048,5804,182000,182,144,51,53,76,35,19
+SPOT_0428,Silent Shadows,J. Cole,After Dark,2022-08-27,2022,8,Aug,27,Hip-Hop / Rap,Album Track,Explicit,80,175786413,5417,156000,156,93,70,64,40,54,22
+SPOT_0429,Deep Memories,The Chainsmokers,Genesis,2024-09-13,2024,9,Sep,13,Dance / Electronic,Album Track,Explicit,55,79817017,4698,218000,218,130,82,92,84,39,31
+SPOT_0430,Silent Glow,Bryson Tiller,The Great Escape,2023-03-01,2023,3,Mar,1,R&B / Soul,Album Track,Non-Explicit,72,154947334,3036,258000,258,124,64,50,58,44,26
+SPOT_0431,Velvet Memories,James Arthur,Daylight,2024-10-02,2024,10,Oct,2,Acoustic / Folk,Album Track,Non-Explicit,53,97400345,1378,260000,260,123,50,44,20,60,21
+SPOT_0432,After Dreams,Asake,Serenade,2023-02-22,2023,2,Feb,22,Afrobeats,Album Track,Non-Explicit,72,126564569,4525,234000,234,143,74,59,46,15,30
+SPOT_0433,Pure Paradise,Fred again..,Single,2023-11-03,2023,11,Nov,3,Dance / Electronic,Single,Non-Explicit,62,91913461,2162,152000,152,120,72,74,57,63,31
+SPOT_0434,Dancing Night,Glass Animals,Genesis,2022-12-31,2022,12,Dec,31,Rock / Alternative,Album Track,Explicit,46,35449369,1819,167000,167,135,78,45,44,16,12
+SPOT_0435,Lost Soul,Charlie Puth,Infinite Rhythm,2022-08-07,2022,8,Aug,7,Pop,Album Track,Non-Explicit,89,356789180,10111,172000,172,93,67,70,34,74,33
+SPOT_0436,Voices in Silence,Daniel Caesar,Solar Flares,2020-09-06,2020,9,Sep,6,R&B / Soul,Album Track,Non-Explicit,94,427857822,6269,198000,198,137,52,57,59,17,16
+SPOT_0437,Chasing Memories,Girl in Red,Single,2024-01-31,2024,1,Jan,31,Indie Pop,Single,Explicit,47,98834252,2940,258000,258,115,44,37,43,11,16
+SPOT_0438,Winter Breeze,J. Cole,Neon Lights,2023-04-12,2023,4,Apr,12,Hip-Hop / Rap,Album Track,Non-Explicit,52,66001175,1676,283000,283,140,84,64,58,36,13
+SPOT_0439,Chasing Echo,Clairo,The Great Escape,2021-12-29,2021,12,Dec,29,Indie Pop,Album Track,Explicit,86,192532745,5503,194000,194,95,52,47,48,29,4
+SPOT_0440,Deep Sky,Dean Lewis,Metamorphosis,2022-06-15,2022,6,Jun,15,Acoustic / Folk,Album Track,Non-Explicit,80,213995259,5948,182000,182,109,46,45,49,40,13
+SPOT_0441,Velvet Lover,Megan Thee Stallion,Electric Sunset,2022-07-18,2022,7,Jul,18,Hip-Hop / Rap,Album Track,Explicit,45,93879593,4459,182000,182,82,81,78,74,13,27
+SPOT_0442,Chasing Goodbye,Fred again..,Single,2021-08-02,2021,8,Aug,2,Dance / Electronic,Single,Explicit,65,114850231,2600,268000,268,117,69,91,58,27,5
+SPOT_0443,Dancing Night,David Guetta,Visions,2022-03-06,2022,3,Mar,6,Dance / Electronic,Album Track,Non-Explicit,87,272485876,6820,191000,191,134,90,67,50,31,34
+SPOT_0444,After Time,Doja Cat,Renaissance,2022-05-01,2022,5,May,1,Hip-Hop / Rap,Album Track,Explicit,68,113053894,3813,203000,203,147,63,59,54,32,9
+SPOT_0445,Starlight Shadows,J. Cole,Daylight,2023-03-13,2023,3,Mar,13,Hip-Hop / Rap,Album Track,Explicit,85,335547304,4024,282000,282,125,83,84,77,18,13
+SPOT_0446,Silver Storm,Bryson Tiller,Neon Lights,2023-05-13,2023,5,May,13,R&B / Soul,Album Track,Non-Explicit,73,191530085,3754,230000,230,116,77,65,68,35,16
+SPOT_0447,Running with Fantasy,George Ezra,Velvet Skies,2022-03-24,2022,3,Mar,24,Acoustic / Folk,Album Track,Non-Explicit,45,63707544,981,267000,267,83,63,44,20,43,17
+SPOT_0448,Midnight Horizon,Marshmello,Single,2021-07-19,2021,7,Jul,19,Dance / Electronic,Single,Non-Explicit,80,192100050,3773,252000,252,126,72,69,66,51,18
+SPOT_0449,After Memories,Kygo,Solar Flares,2021-03-21,2021,3,Mar,21,Dance / Electronic,Album Track,Non-Explicit,91,253691369,4664,179000,179,130,94,93,86,17,22
+SPOT_0450,Silver Rhythm,Troye Sivan,Single,2021-11-15,2021,11,Nov,15,Pop,Single,Non-Explicit,67,161902935,5848,165000,165,145,64,83,30,85,27
+SPOT_0451,Secret Heart,Shawn Mendes,Visions,2022-10-25,2022,10,Oct,25,Pop,Album Track,Explicit,89,222899918,5563,235000,235,118,82,50,44,60,21
+SPOT_0452,Velvet Soul,Vance Joy,Visions,2023-01-27,2023,1,Jan,27,Acoustic / Folk,Album Track,Non-Explicit,70,139394490,3660,168000,168,123,39,55,55,30,34
+SPOT_0453,Lost Whisper,Lumineers,Daylight,2020-05-26,2020,5,May,26,Acoustic / Folk,Album Track,Explicit,62,116796586,5216,282000,282,80,38,51,47,51,25
+SPOT_0454,Falling Echo,Marshmello,Stardust & Shadows,2021-12-17,2021,12,Dec,17,Dance / Electronic,Album Track,Explicit,84,309207108,4200,247000,247,116,94,72,62,52,12
+SPOT_0455,Deep Heart,Future,Sublime,2024-08-31,2024,8,Aug,31,Hip-Hop / Rap,Album Track,Explicit,63,63677842,2952,255000,255,82,72,68,69,74,19
+SPOT_0456,Summer Fantasy,LE SSERAFIM,Single,2023-09-30,2023,9,Sep,30,K-Pop,Single,Non-Explicit,46,29443187,1338,150000,150,108,62,84,47,11,32
+SPOT_0457,Silver Streets,Chappell Roan,True Colors,2020-08-08,2020,8,Aug,8,Pop,Album Track,Non-Explicit,46,74654000,2904,265000,265,135,56,65,61,81,8
+SPOT_0458,Secret Lover,Daniel Caesar,Chronicles,2022-12-20,2022,12,Dec,20,R&B / Soul,Album Track,Explicit,64,117337774,2030,139000,139,112,72,67,70,43,18
+SPOT_0459,After Heart,TWICE,Solar Flares,2024-07-26,2024,7,Jul,26,K-Pop,Album Track,Non-Explicit,46,66823889,1852,222000,222,147,75,53,35,53,17
+SPOT_0460,Shadow Sky,Passenger,Stardust & Shadows,2021-11-05,2021,11,Nov,5,Acoustic / Folk,Album Track,Non-Explicit,73,148805088,2371,283000,283,109,56,37,28,44,11
+SPOT_0461,Winter Miracle,Vance Joy,Neon Lights,2023-02-15,2023,2,Feb,15,Acoustic / Folk,Album Track,Explicit,79,222958340,5092,172000,172,121,35,45,46,57,22
+SPOT_0462,Velvet Horizon,Rex Orange County,Genesis,2024-04-10,2024,4,Apr,10,Indie Pop,Album Track,Explicit,84,253901691,4001,194000,194,118,35,47,25,66,11
+SPOT_0463,Dancing Highway,IVE,Neon Lights,2022-10-03,2022,10,Oct,3,K-Pop,Album Track,Non-Explicit,75,127945230,2305,239000,239,138,50,62,56,33,15
+SPOT_0464,Silent Miracle,David Guetta,Single,2023-06-17,2023,6,Jun,17,Dance / Electronic,Single,Non-Explicit,76,215932520,3206,244000,244,127,92,66,88,53,23
+SPOT_0465,Deep Glow,Lumineers,Daylight,2023-12-13,2023,12,Dec,13,Acoustic / Folk,Album Track,Non-Explicit,95,256796721,5297,145000,145,90,51,59,45,10,27
+SPOT_0466,Lost Memories,BTS,Stardust & Shadows,2021-08-08,2021,8,Aug,8,K-Pop,Album Track,Non-Explicit,74,138574602,5500,148000,148,134,83,54,59,62,8
+SPOT_0467,Silent Horizon,BLACKPINK,Renaissance,2022-04-26,2022,4,Apr,26,K-Pop,Album Track,Explicit,65,97433419,3839,186000,186,146,79,50,46,46,13
+SPOT_0468,Electric Highway,Future,Midnight Reflections,2023-12-19,2023,12,Dec,19,Hip-Hop / Rap,Album Track,Non-Explicit,69,176265701,2810,231000,231,150,74,57,45,77,12
+SPOT_0469,Silent Horizon,Giveon,Single,2021-09-25,2021,9,Sep,25,R&B / Soul,Single,Non-Explicit,91,398454576,8545,181000,181,97,58,57,30,84,19
+SPOT_0470,Dancing Reckoning,Charlie Puth,Chronicles,2022-10-07,2022,10,Oct,7,Pop,Album Track,Non-Explicit,60,111553550,3278,248000,248,95,50,60,65,40,16
+SPOT_0471,Velvet Heart,Miley Cyrus,Metamorphosis,2020-03-07,2020,3,Mar,7,Pop,Album Track,Explicit,87,291693093,8037,157000,157,93,56,71,41,25,21
+SPOT_0472,Shadow Paradise,CKay,Velvet Skies,2022-01-07,2022,1,Jan,7,Afrobeats,Album Track,Non-Explicit,47,62022557,2580,232000,232,142,54,72,83,75,7
+SPOT_0473,Velvet Rain,Paramore,Single,2022-12-15,2022,12,Dec,15,Rock / Alternative,Single,Explicit,71,135485052,1941,162000,162,126,83,50,60,82,21
+SPOT_0474,Echoes of Soul,Lumineers,Visions,2021-12-25,2021,12,Dec,25,Acoustic / Folk,Album Track,Non-Explicit,53,105965653,4446,262000,262,106,60,36,59,34,21
+SPOT_0475,Electric Dreams,Calvin Harris,Horizons,2021-02-28,2021,2,Feb,28,Dance / Electronic,Album Track,Non-Explicit,84,328785634,7772,224000,224,132,93,85,63,6,15
+SPOT_0476,After Rhythm,Fall Out Boy,Daylight,2024-04-19,2024,4,Apr,19,Rock / Alternative,Album Track,Non-Explicit,45,64749373,2716,280000,280,129,51,56,42,47,24
+SPOT_0477,After Heart,Dominic Fike,Infinite Rhythm,2022-08-01,2022,8,Aug,1,Indie Pop,Album Track,Explicit,79,263813354,6136,240000,240,122,36,58,39,77,23
+SPOT_0478,Midnight Night,TOMORROW X TOGETHER,Heartbeat Odyssey,2024-06-17,2024,6,Jun,17,K-Pop,Album Track,Non-Explicit,67,83135594,4858,142000,142,111,74,85,64,26,27
+SPOT_0479,Electric Reckoning,Kehlani,Single,2024-10-22,2024,10,Oct,22,R&B / Soul,Single,Explicit,65,121184560,2126,262000,262,146,65,68,58,43,16
+SPOT_0480,Silent Rain,TWICE,Metamorphosis,2020-07-08,2020,7,Jul,8,K-Pop,Album Track,Non-Explicit,73,183227017,3924,174000,174,102,71,75,76,72,22
+SPOT_0481,Pure Reckoning,Feid,Daylight,2020-09-28,2020,9,Sep,28,Latin / Reggaeton,Album Track,Non-Explicit,58,117842346,4685,268000,268,118,68,74,52,81,8
+SPOT_0482,Voices in Heart,Myke Towers,True Colors,2020-02-16,2020,2,Feb,16,Latin / Reggaeton,Album Track,Non-Explicit,81,236192038,4346,184000,184,124,76,82,70,61,10
+SPOT_0483,Silent Waves,Maneskin,Sublime,2020-07-28,2020,7,Jul,28,Rock / Alternative,Album Track,Non-Explicit,58,94057888,2167,207000,207,126,65,55,34,44,24
+SPOT_0484,Golden Sky,LE SSERAFIM,True Colors,2022-02-24,2022,2,Feb,24,K-Pop,Album Track,Explicit,48,75493960,4308,287000,287,147,78,84,52,44,24
+SPOT_0485,Neon Miracle,Fred again..,Single,2020-09-26,2020,9,Sep,26,Dance / Electronic,Single,Non-Explicit,50,98497609,3813,214000,214,135,90,89,79,65,17
+SPOT_0486,Echoes of Melody,Avicii,Midnight Reflections,2023-12-03,2023,12,Dec,3,Dance / Electronic,Album Track,Non-Explicit,87,257287998,5423,142000,142,117,83,68,72,66,32
+SPOT_0487,Pure Vibes,Steve Lacy,Genesis,2022-04-10,2022,4,Apr,10,R&B / Soul,Album Track,Non-Explicit,90,372032894,7163,153000,153,140,69,79,59,56,29
+SPOT_0488,Wild Whisper,Peggy Gou,Infinite Rhythm,2021-11-28,2021,11,Nov,28,Dance / Electronic,Album Track,Non-Explicit,58,116447547,3131,280000,280,125,85,87,65,27,7
+SPOT_0489,Electric Glow,Davido,Heartbeat Odyssey,2024-08-10,2024,8,Aug,10,Afrobeats,Album Track,Non-Explicit,73,149159735,5383,162000,162,133,74,65,61,12,8
+SPOT_0490,Voices in Glow,Avicii,Single,2020-01-01,2020,1,Jan,1,Dance / Electronic,Single,Non-Explicit,93,263929596,5688,209000,209,127,87,83,78,30,16
+SPOT_0491,Shadow Paradise,Maluma,Single,2022-06-09,2022,6,Jun,9,Latin / Reggaeton,Single,Explicit,90,407420252,9880,137000,137,134,84,77,58,42,6
+SPOT_0492,Golden Dreams,Peso Pluma,Single,2022-01-05,2022,1,Jan,5,Latin / Reggaeton,Single,Non-Explicit,52,45354096,2661,286000,286,127,88,75,74,56,27
+SPOT_0493,Lost Streets,George Ezra,Genesis,2022-02-26,2022,2,Feb,26,Acoustic / Folk,Album Track,Explicit,68,128360606,5636,167000,167,83,35,29,21,23,34
+SPOT_0494,Neon Sky,Vance Joy,The Long Road Home,2024-06-03,2024,6,Jun,3,Acoustic / Folk,Album Track,Non-Explicit,89,338028753,4656,251000,251,107,48,60,48,54,25
+SPOT_0495,Crimson Echo,Avicii,Infinite Rhythm,2021-04-29,2021,4,Apr,29,Dance / Electronic,Album Track,Non-Explicit,90,331172775,6420,228000,228,116,69,83,80,52,10
+SPOT_0496,Heavy Rhythm,Davido,Daylight,2024-03-17,2024,3,Mar,17,Afrobeats,Album Track,Non-Explicit,94,352634361,8739,157000,157,105,80,85,77,14,22
+SPOT_0497,Voices in Soul,Burna Boy,Chronicles,2022-11-15,2022,11,Nov,15,Afrobeats,Album Track,Non-Explicit,75,181803326,3988,210000,210,108,60,47,74,81,22
+SPOT_0498,Golden Time,Tems,Neon Lights,2023-09-06,2023,9,Sep,6,Afrobeats,Album Track,Non-Explicit,63,82795381,3388,156000,156,98,82,49,84,40,19
+SPOT_0499,Endless Waves,Kehlani,Single,2020-08-16,2020,8,Aug,16,R&B / Soul,Single,Explicit,83,177187499,3930,229000,229,141,61,61,80,35,34
+SPOT_0500,Echoes of Heart,Bryson Tiller,After Dark,2023-05-04,2023,5,May,4,R&B / Soul,Album Track,Non-Explicit,54,101619672,2780,195000,195,132,78,85,40,31,25
+SPOT_0501,Pure Silence,Shawn Mendes,Neon Lights,2022-09-02,2022,9,Sep,2,Pop,Album Track,Non-Explicit,64,101733636,4357,234000,234,120,66,54,63,60,3
+SPOT_0502,Silver Streets,Paramore,Daylight,2020-03-25,2020,3,Mar,25,Rock / Alternative,Album Track,Non-Explicit,51,87031547,2794,204000,204,111,67,62,81,17,19
+SPOT_0503,Ocean Horizon,Omah Lay,Echoes in Time,2023-04-20,2023,4,Apr,20,Afrobeats,Album Track,Non-Explicit,94,310490669,6315,181000,181,110,85,45,73,6,7
+SPOT_0504,Electric Storm,Selena Gomez,Velvet Skies,2024-01-25,2024,1,Jan,25,Pop,Album Track,Explicit,63,62413361,3947,158000,158,93,63,83,70,20,10
+SPOT_0505,Velvet Shadows,Gunna,The Great Escape,2021-01-13,2021,1,Jan,13,Hip-Hop / Rap,Album Track,Explicit,52,72397649,3156,154000,154,138,91,72,62,46,19
+SPOT_0506,Endless Horizon,Brent Faiyaz,Solar Flares,2020-05-03,2020,5,May,3,R&B / Soul,Album Track,Explicit,61,110580253,3797,152000,152,121,62,84,55,27,34
+SPOT_0507,Starlight Horizon,21 Savage,Sublime,2022-06-23,2022,6,Jun,23,Hip-Hop / Rap,Album Track,Non-Explicit,90,237709969,4827,281000,281,112,86,83,36,24,3
+SPOT_0508,Endless Sky,Selena Gomez,Single,2023-03-22,2023,3,Mar,22,Pop,Single,Non-Explicit,45,89485948,3086,238000,238,144,54,79,44,5,27
+SPOT_0509,Shadow Whisper,Clairo,Single,2023-10-28,2023,10,Oct,28,Indie Pop,Single,Explicit,64,79447483,3463,222000,222,80,61,54,38,30,14
+SPOT_0510,Silver Streets,BTS,Solar Flares,2023-07-15,2023,7,Jul,15,K-Pop,Album Track,Non-Explicit,89,250887551,5113,247000,247,137,62,53,32,29,4
+SPOT_0511,Dancing Shadows,Asake,Renaissance,2022-10-20,2022,10,Oct,20,Afrobeats,Album Track,Non-Explicit,79,269027429,5618,221000,221,93,71,47,55,20,16
+SPOT_0512,Chasing Reckoning,LE SSERAFIM,Single,2023-04-01,2023,4,Apr,1,K-Pop,Single,Explicit,59,70431477,1496,260000,260,131,51,75,69,10,18
+SPOT_0513,Silent Time,Frank Ocean,Stardust & Shadows,2020-07-18,2020,7,Jul,18,R&B / Soul,Album Track,Non-Explicit,74,141597204,4914,162000,162,97,81,83,81,83,17
+SPOT_0514,Crimson Soul,J. Cole,Single,2023-10-21,2023,10,Oct,21,Hip-Hop / Rap,Single,Explicit,70,108045162,5146,189000,189,85,80,66,56,40,12
+SPOT_0515,Heavy Vibes,Vance Joy,Velvet Skies,2023-04-06,2023,4,Apr,6,Acoustic / Folk,Album Track,Explicit,47,72771728,1566,139000,139,106,37,25,20,27,8
+SPOT_0516,Crimson Highway,Tems,Single,2023-11-18,2023,11,Nov,18,Afrobeats,Single,Non-Explicit,53,68288718,2854,240000,240,105,61,84,74,9,14
+SPOT_0517,Neon Time,Mitski,Single,2022-05-07,2022,5,May,7,Indie Pop,Single,Explicit,45,49765489,3233,159000,159,114,46,59,52,33,32
+SPOT_0518,Golden Night,Kygo,Genesis,2022-08-29,2022,8,Aug,29,Dance / Electronic,Album Track,Non-Explicit,76,116508654,5017,228000,228,124,74,78,66,47,32
+SPOT_0519,Deep Heart,Chappell Roan,Single,2024-05-27,2024,5,May,27,Pop,Single,Explicit,46,40257149,4602,195000,195,136,78,82,67,46,29
+SPOT_0520,Wild Horizon,Marshmello,Echoes in Time,2024-02-19,2024,2,Feb,19,Dance / Electronic,Album Track,Explicit,71,179891061,2762,153000,153,130,86,80,53,60,12
+SPOT_0521,Ocean Fire,Peggy Gou,Genesis,2021-02-01,2021,2,Feb,1,Dance / Electronic,Album Track,Non-Explicit,85,234427375,5281,167000,167,116,90,83,53,40,11
+SPOT_0522,Ocean Breeze,Doja Cat,Heartbeat Odyssey,2021-08-27,2021,8,Aug,27,Hip-Hop / Rap,Album Track,Non-Explicit,83,177481411,4483,193000,193,91,75,88,66,32,33
+SPOT_0523,Midnight Fantasy,Rex Orange County,Echoes in Time,2022-06-08,2022,6,Jun,8,Indie Pop,Album Track,Explicit,82,175109704,4142,136000,136,101,36,27,50,69,5
+SPOT_0524,Silver Goodbye,George Ezra,Single,2020-07-19,2020,7,Jul,19,Acoustic / Folk,Single,Non-Explicit,73,128826226,4771,138000,138,119,58,51,33,21,25
+SPOT_0525,Winter Rhythm,Twenty One Pilots,True Colors,2023-12-11,2023,12,Dec,11,Rock / Alternative,Album Track,Explicit,74,155124302,4042,170000,170,145,75,56,80,52,32
+SPOT_0526,Silver Melody,Chappell Roan,Single,2021-08-30,2021,8,Aug,30,Pop,Single,Non-Explicit,72,156757514,4546,155000,155,129,71,48,62,51,6
+SPOT_0527,Falling Lover,Post Malone,Midnight Reflections,2023-08-20,2023,8,Aug,20,Hip-Hop / Rap,Album Track,Non-Explicit,80,219478488,5286,196000,196,149,65,85,72,31,17
+SPOT_0528,Voices in Waves,Ozuna,The Long Road Home,2020-05-09,2020,5,May,9,Latin / Reggaeton,Album Track,Explicit,68,146657572,4126,166000,166,130,90,82,84,42,31
+SPOT_0529,After Streets,Ayra Starr,Single,2020-05-14,2020,5,May,14,Afrobeats,Single,Non-Explicit,57,118472248,2654,235000,235,147,61,63,34,18,13
+SPOT_0530,Heavy Sky,The Neighbourhood,Serenade,2023-07-08,2023,7,Jul,8,Rock / Alternative,Album Track,Non-Explicit,46,40502805,2119,242000,242,118,51,63,42,13,4
+SPOT_0531,Winter Soul,Fred again..,Heartbeat Odyssey,2024-05-30,2024,5,May,30,Dance / Electronic,Album Track,Non-Explicit,65,134727516,3128,280000,280,119,93,74,60,38,17
+SPOT_0532,Sweet Horizon,Wallows,Single,2021-08-05,2021,8,Aug,5,Indie Pop,Single,Explicit,74,180932756,4264,208000,208,86,40,34,30,35,10
+SPOT_0533,Shadow Sky,Camila Cabello,Midnight Reflections,2023-02-25,2023,2,Feb,25,Pop,Album Track,Explicit,90,235834505,4056,230000,230,118,84,55,64,43,10
+SPOT_0534,Running with Goodbye,Selena Gomez,Single,2021-10-17,2021,10,Oct,17,Pop,Single,Non-Explicit,54,97884467,4216,210000,210,120,68,81,72,23,31
+SPOT_0535,Deep Goodbye,Rauw Alejandro,Single,2023-02-02,2023,2,Feb,2,Latin / Reggaeton,Single,Explicit,52,85811066,4592,191000,191,129,79,67,70,12,15
+SPOT_0536,Wild Paradise,Fireboy DML,Single,2020-02-16,2020,2,Feb,16,Afrobeats,Single,Explicit,50,91552525,3920,157000,157,122,75,57,61,45,35
+SPOT_0537,Silver Sky,Camila Cabello,Single,2022-03-01,2022,3,Mar,1,Pop,Single,Non-Explicit,68,110015983,2967,249000,249,145,85,50,43,61,29
+SPOT_0538,Silent Paradise,Rex Orange County,Single,2024-02-01,2024,2,Feb,1,Indie Pop,Single,Non-Explicit,71,94372920,2639,212000,212,105,62,58,41,13,27
+SPOT_0539,Crimson Time,Travis Scott,Single,2023-02-12,2023,2,Feb,12,Hip-Hop / Rap,Single,Non-Explicit,74,158951003,3481,232000,232,117,79,86,37,43,22
+SPOT_0540,Deep Lover,Beabadoobee,Chronicles,2021-09-06,2021,9,Sep,6,Indie Pop,Album Track,Explicit,85,327553619,8512,208000,208,101,40,56,35,8,10
+SPOT_0541,Neon Echo,Paramore,Single,2023-03-04,2023,3,Mar,4,Rock / Alternative,Single,Non-Explicit,72,200683119,5652,165000,165,113,82,81,31,38,13
+SPOT_0542,Velvet Soul,Burna Boy,Genesis,2020-04-18,2020,4,Apr,18,Afrobeats,Album Track,Explicit,62,106340961,3386,209000,209,123,54,77,42,85,14
+SPOT_0543,Pure Fire,Gunna,Heartbeat Odyssey,2023-11-03,2023,11,Nov,3,Hip-Hop / Rap,Album Track,Explicit,64,110653490,4354,283000,283,125,88,64,35,41,26
+SPOT_0544,Broken Miracle,Girl in Red,Single,2020-11-12,2020,11,Nov,12,Indie Pop,Single,Explicit,77,145891180,5302,278000,278,114,57,58,54,75,10
+SPOT_0545,Running with Rhythm,Sam Smith,Genesis,2022-09-09,2022,9,Sep,9,Acoustic / Folk,Album Track,Non-Explicit,67,123978036,5643,248000,248,113,51,46,31,43,4
+SPOT_0546,Velvet Reckoning,J. Cole,Single,2021-09-21,2021,9,Sep,21,Hip-Hop / Rap,Single,Explicit,53,42539538,3575,163000,163,89,62,85,62,18,5
+SPOT_0547,Golden Goodbye,IVE,Electric Sunset,2021-09-09,2021,9,Sep,9,K-Pop,Album Track,Explicit,87,177645012,2461,289000,289,103,62,56,72,49,4
+SPOT_0548,Echoes of Fantasy,21 Savage,Single,2021-12-13,2021,12,Dec,13,Hip-Hop / Rap,Single,Non-Explicit,67,134988483,4518,196000,196,144,80,59,41,6,16
+SPOT_0549,Silent Melody,Kygo,Single,2024-01-25,2024,1,Jan,25,Dance / Electronic,Single,Explicit,51,107313925,4112,256000,256,126,90,83,61,61,9
+SPOT_0550,Silver Breeze,Summer Walker,Echoes in Time,2024-04-08,2024,4,Apr,8,R&B / Soul,Album Track,Non-Explicit,65,73924664,1635,261000,261,138,73,63,65,10,8
+SPOT_0551,Electric Shadows,Myke Towers,Sublime,2023-11-08,2023,11,Nov,8,Latin / Reggaeton,Album Track,Non-Explicit,73,152938324,5918,244000,244,121,70,93,80,52,14
+SPOT_0552,Chasing Rain,Charlie Puth,Daylight,2020-06-23,2020,6,Jun,23,Pop,Album Track,Non-Explicit,52,82917772,3485,161000,161,137,60,49,53,30,24
+SPOT_0553,Echoes of Shadows,Peggy Gou,The Long Road Home,2021-07-24,2021,7,Jul,24,Dance / Electronic,Album Track,Non-Explicit,93,396145897,7411,237000,237,126,83,86,88,56,34
+SPOT_0554,Velvet Horizon,TWICE,Horizons,2022-10-15,2022,10,Oct,15,K-Pop,Album Track,Explicit,59,75003801,2050,148000,148,143,54,76,73,8,14
+SPOT_0555,Chasing Soul,Lumineers,Sublime,2024-04-05,2024,4,Apr,5,Acoustic / Folk,Album Track,Non-Explicit,49,101330636,3226,254000,254,87,44,56,51,69,19
+SPOT_0556,After Reckoning,Jung Kook,Chronicles,2020-03-05,2020,3,Mar,5,K-Pop,Album Track,Non-Explicit,72,153579326,4086,215000,215,144,74,73,59,9,5
+SPOT_0557,Chasing Reckoning,Bryson Tiller,Single,2020-12-02,2020,12,Dec,2,R&B / Soul,Single,Non-Explicit,76,174438541,3593,259000,259,138,57,81,73,67,33
+SPOT_0558,Echoes of Fire,Beabadoobee,Solar Flares,2023-04-25,2023,4,Apr,25,Indie Pop,Album Track,Explicit,69,148725424,2848,217000,217,78,35,62,22,21,26
+SPOT_0559,Midnight Horizon,Rosalía,Single,2020-07-18,2020,7,Jul,18,Latin / Reggaeton,Single,Explicit,72,149249194,3576,149000,149,122,75,72,91,44,8
+SPOT_0560,Electric Soul,Jack Harlow,Renaissance,2022-08-01,2022,8,Aug,1,Hip-Hop / Rap,Album Track,Explicit,87,364408162,5265,203000,203,82,84,85,72,45,27
+SPOT_0561,Broken Glow,Omah Lay,Infinite Rhythm,2023-10-14,2023,10,Oct,14,Afrobeats,Album Track,Explicit,58,113259950,4430,221000,221,100,69,68,57,30,34
+SPOT_0562,Lost Memories,Megan Thee Stallion,Stardust & Shadows,2022-04-03,2022,4,Apr,3,Hip-Hop / Rap,Album Track,Explicit,59,69169844,4369,283000,283,92,80,76,52,72,33
+SPOT_0563,Falling Paradise,Passenger,Stardust & Shadows,2021-09-06,2021,9,Sep,6,Acoustic / Folk,Album Track,Non-Explicit,72,164943312,4510,237000,237,91,54,57,49,75,14
+SPOT_0564,Echoes of Fire,Tate McRae,Serenade,2024-08-14,2024,8,Aug,14,Pop,Album Track,Non-Explicit,92,423327564,6993,246000,246,149,53,78,42,51,32
+SPOT_0565,Velvet Fantasy,Daniel Caesar,Single,2022-06-10,2022,6,Jun,10,R&B / Soul,Single,Explicit,71,102910822,2157,240000,240,107,68,55,46,81,18
+SPOT_0566,Electric Sky,Passenger,Echoes in Time,2021-09-27,2021,9,Sep,27,Acoustic / Folk,Album Track,Non-Explicit,74,181941896,5191,144000,144,87,40,42,28,8,19
+SPOT_0567,Silent Time,The Killers,Single,2022-09-22,2022,9,Sep,22,Rock / Alternative,Single,Non-Explicit,95,249231240,6195,211000,211,145,54,71,53,16,28
+SPOT_0568,Electric Glow,Daniel Caesar,Single,2022-12-04,2022,12,Dec,4,R&B / Soul,Single,Non-Explicit,87,323850059,7746,158000,158,105,57,65,51,79,27
+SPOT_0569,Lost Sky,Tiësto,Serenade,2022-06-19,2022,6,Jun,19,Dance / Electronic,Album Track,Non-Explicit,71,97657819,3573,230000,230,118,78,82,77,65,18
+SPOT_0570,Falling Goodbye,Maneskin,Single,2020-02-13,2020,2,Feb,13,Rock / Alternative,Single,Non-Explicit,86,301223563,6092,148000,148,134,65,61,65,54,22
+SPOT_0571,Starlight Reckoning,Rauw Alejandro,Velvet Skies,2022-03-15,2022,3,Mar,15,Latin / Reggaeton,Album Track,Non-Explicit,61,84879881,2282,176000,176,129,88,75,91,57,5
+SPOT_0572,Forever Horizon,The Neighbourhood,Single,2022-04-25,2022,4,Apr,25,Rock / Alternative,Single,Non-Explicit,66,103643572,1852,201000,201,122,54,67,56,82,23
+SPOT_0573,Pure Heart,Lorde,Neon Lights,2024-06-08,2024,6,Jun,8,Indie Pop,Album Track,Non-Explicit,86,229297634,6406,213000,213,95,53,30,27,25,18
+SPOT_0574,Echoes of Echo,NewJeans,Single,2021-10-16,2021,10,Oct,16,K-Pop,Single,Non-Explicit,73,134374893,2913,286000,286,142,70,63,42,15,29
+SPOT_0575,Silver Melody,Feid,Visions,2020-02-17,2020,2,Feb,17,Latin / Reggaeton,Album Track,Explicit,80,216532128,2542,253000,253,121,76,87,60,11,28
+SPOT_0576,Summer Waves,Omah Lay,Midnight Reflections,2023-03-07,2023,3,Mar,7,Afrobeats,Album Track,Explicit,52,85388436,4816,251000,251,142,81,52,44,31,15
+SPOT_0577,Deep Goodbye,Fall Out Boy,The Long Road Home,2023-05-13,2023,5,May,13,Rock / Alternative,Album Track,Non-Explicit,58,101414300,4011,183000,183,116,61,71,80,23,4
+SPOT_0578,Wild Echo,Fall Out Boy,Echoes in Time,2023-11-02,2023,11,Nov,2,Rock / Alternative,Album Track,Non-Explicit,86,223830780,3517,217000,217,134,75,58,75,54,30
+SPOT_0579,Neon Rain,Tems,Metamorphosis,2021-04-25,2021,4,Apr,25,Afrobeats,Album Track,Explicit,75,170453087,4623,264000,264,129,74,64,55,52,11
+SPOT_0580,Shadow Fire,BTS,Daylight,2021-11-25,2021,11,Nov,25,K-Pop,Album Track,Non-Explicit,74,139008767,3811,245000,245,99,66,52,50,10,11
+SPOT_0581,Deep Vibes,Rex Orange County,Single,2021-06-23,2021,6,Jun,23,Indie Pop,Single,Explicit,84,286309729,4895,246000,246,85,45,56,29,76,31
+SPOT_0582,Velvet Heart,Katy Perry,Metamorphosis,2020-11-30,2020,11,Nov,30,Pop,Album Track,Non-Explicit,90,285474870,6624,261000,261,92,78,67,75,76,34
+SPOT_0583,Electric Reckoning,Dominic Fike,Single,2021-12-16,2021,12,Dec,16,Indie Pop,Single,Explicit,50,65162869,4672,178000,178,122,51,42,56,79,16
+SPOT_0584,Secret Horizon,Burna Boy,The Long Road Home,2021-05-19,2021,5,May,19,Afrobeats,Album Track,Non-Explicit,94,342614522,4713,141000,141,108,57,70,53,80,9
+SPOT_0585,Midnight Rhythm,Feid,True Colors,2023-07-10,2023,7,Jul,10,Latin / Reggaeton,Album Track,Non-Explicit,62,67654818,1324,250000,250,125,91,88,86,21,16
+SPOT_0586,Broken Paradise,Shawn Mendes,After Dark,2023-05-18,2023,5,May,18,Pop,Album Track,Non-Explicit,69,105990963,2901,237000,237,95,51,58,40,54,28
+SPOT_0587,Electric Memories,Maneskin,The Long Road Home,2021-09-27,2021,9,Sep,27,Rock / Alternative,Album Track,Non-Explicit,88,316087038,3969,229000,229,122,62,76,58,54,33
+SPOT_0588,Summer Breeze,Glass Animals,The Long Road Home,2023-06-11,2023,6,Jun,11,Rock / Alternative,Album Track,Non-Explicit,56,100207466,2151,266000,266,111,79,59,71,24,34
+SPOT_0589,Neon Memories,TOMORROW X TOGETHER,After Dark,2022-09-05,2022,9,Sep,5,K-Pop,Album Track,Non-Explicit,64,74124098,4679,211000,211,143,65,78,57,42,6
+SPOT_0590,Running with Heart,BLACKPINK,Daylight,2020-07-12,2020,7,Jul,12,K-Pop,Album Track,Non-Explicit,74,170810165,3573,284000,284,95,82,46,37,64,14
+SPOT_0591,Golden Rhythm,Jhené Aiko,Stardust & Shadows,2024-01-22,2024,1,Jan,22,R&B / Soul,Album Track,Explicit,74,204560470,5758,202000,202,111,61,58,41,15,19
+SPOT_0592,Starlight Dreams,Post Malone,Horizons,2023-09-05,2023,9,Sep,5,Hip-Hop / Rap,Album Track,Non-Explicit,75,182473986,4600,289000,289,142,71,78,78,55,22
+SPOT_0593,Velvet Dreams,21 Savage,Chronicles,2021-01-20,2021,1,Jan,20,Hip-Hop / Rap,Album Track,Explicit,46,41434949,1637,246000,246,160,89,67,40,64,12
+SPOT_0594,Midnight Rain,Girl in Red,Genesis,2022-06-30,2022,6,Jun,30,Indie Pop,Album Track,Non-Explicit,76,196328126,3415,186000,186,93,53,50,23,47,3
+SPOT_0595,Crimson Reckoning,Post Malone,Visions,2023-02-09,2023,2,Feb,9,Hip-Hop / Rap,Album Track,Explicit,63,103276408,3563,286000,286,158,91,86,49,72,4
+SPOT_0596,Broken Whisper,Lumineers,The Great Escape,2022-08-27,2022,8,Aug,27,Acoustic / Folk,Album Track,Non-Explicit,52,81573700,4084,246000,246,76,40,43,32,65,25
+SPOT_0597,Secret Tears,Boygenius,True Colors,2023-05-18,2023,5,May,18,Indie Pop,Album Track,Explicit,90,321133717,4377,234000,234,101,61,48,50,25,16
+SPOT_0598,Chasing Goodbye,The Neighbourhood,Serenade,2022-10-04,2022,10,Oct,4,Rock / Alternative,Album Track,Explicit,51,103894497,2647,188000,188,125,53,46,52,38,25
+SPOT_0599,Forever Reckoning,Giveon,Single,2020-05-10,2020,5,May,10,R&B / Soul,Single,Explicit,66,107208154,4352,192000,192,121,66,66,80,50,5
+SPOT_0600,Voices in Sky,TWICE,Single,2023-05-22,2023,5,May,22,K-Pop,Single,Non-Explicit,87,185833331,5833,252000,252,143,57,51,80,83,9
+SPOT_0601,Secret Rain,BTS,Horizons,2022-01-10,2022,1,Jan,10,K-Pop,Album Track,Non-Explicit,55,106096942,3333,262000,262,136,56,54,71,51,24
+SPOT_0602,Echoes of Night,Brent Faiyaz,The Long Road Home,2020-01-14,2020,1,Jan,14,R&B / Soul,Album Track,Non-Explicit,60,130425304,3176,264000,264,100,55,62,53,58,26
+SPOT_0603,Pure Horizon,Avicii,Echoes in Time,2022-05-28,2022,5,May,28,Dance / Electronic,Album Track,Explicit,71,194136555,4147,227000,227,115,82,69,50,71,7
+SPOT_0604,Broken Shadows,Lil Nas X,Single,2020-05-05,2020,5,May,5,Hip-Hop / Rap,Single,Explicit,70,136023249,3799,149000,149,160,84,88,53,75,22
+SPOT_0605,Midnight Silence,Ozuna,Daylight,2020-10-27,2020,10,Oct,27,Latin / Reggaeton,Album Track,Non-Explicit,89,274573315,4967,248000,248,126,93,90,91,56,15
+SPOT_0606,Golden Whisper,The Neighbourhood,Genesis,2023-01-12,2023,1,Jan,12,Rock / Alternative,Album Track,Non-Explicit,63,125061312,2929,268000,268,111,60,46,31,74,19
+SPOT_0607,Deep Breeze,Kygo,Single,2020-05-02,2020,5,May,2,Dance / Electronic,Single,Explicit,68,144976426,2686,147000,147,135,71,79,69,78,3
+SPOT_0608,Wild Paradise,Wallows,Single,2024-01-03,2024,1,Jan,3,Indie Pop,Single,Non-Explicit,85,272139285,5155,207000,207,117,60,61,28,53,18
+SPOT_0609,Secret Glow,Lil Nas X,Midnight Reflections,2020-10-27,2020,10,Oct,27,Hip-Hop / Rap,Album Track,Explicit,90,317865982,6317,150000,150,134,90,63,65,14,26
+SPOT_0610,Shadow Whisper,Jimin,Solar Flares,2023-04-11,2023,4,Apr,11,K-Pop,Album Track,Non-Explicit,76,209187194,4403,241000,241,142,60,54,62,21,34
+SPOT_0611,Heavy Storm,Phoebe Bridgers,Single,2021-03-11,2021,3,Mar,11,Indie Pop,Single,Explicit,74,143537580,3368,165000,165,113,62,51,27,20,26
+SPOT_0612,Golden Storm,Tems,Midnight Reflections,2022-02-05,2022,2,Feb,5,Afrobeats,Album Track,Explicit,64,66672688,1439,171000,171,140,76,48,49,41,16
+SPOT_0613,Midnight Rain,Khalid,After Dark,2022-05-05,2022,5,May,5,R&B / Soul,Album Track,Non-Explicit,75,197951642,3399,231000,231,120,58,53,62,63,31
+SPOT_0614,Echoes of Fantasy,Phoebe Bridgers,Sublime,2022-04-18,2022,4,Apr,18,Indie Pop,Album Track,Non-Explicit,69,132739912,4253,146000,146,117,63,53,37,16,13
+SPOT_0615,Winter Paradise,Troye Sivan,Single,2023-08-14,2023,8,Aug,14,Pop,Single,Explicit,52,48957983,3515,273000,273,126,53,81,63,29,33
+SPOT_0616,Electric Streets,BTS,Single,2020-02-08,2020,2,Feb,8,K-Pop,Single,Explicit,62,106667068,4111,283000,283,118,55,79,68,46,28
+SPOT_0617,Dancing Reckoning,Burna Boy,Single,2021-01-04,2021,1,Jan,4,Afrobeats,Single,Explicit,71,118036805,2826,158000,158,97,56,79,40,41,12
+SPOT_0618,Pure Rhythm,Steve Lacy,The Long Road Home,2020-04-30,2020,4,Apr,30,R&B / Soul,Album Track,Non-Explicit,84,292583183,8771,149000,149,109,74,51,50,23,29
+SPOT_0619,Silver Silence,Maluma,Single,2021-05-05,2021,5,May,5,Latin / Reggaeton,Single,Explicit,93,367488649,6747,264000,264,127,71,73,53,45,32
+SPOT_0620,Neon Goodbye,Jimin,The Great Escape,2020-02-08,2020,2,Feb,8,K-Pop,Album Track,Explicit,62,79068337,4520,277000,277,131,58,64,66,57,31
+SPOT_0621,Lost Paradise,Megan Thee Stallion,Single,2020-12-10,2020,12,Dec,10,Hip-Hop / Rap,Single,Explicit,95,345189198,5618,250000,250,85,62,84,74,26,3
+SPOT_0622,Endless Echo,Charlie Puth,True Colors,2021-12-20,2021,12,Dec,20,Pop,Album Track,Non-Explicit,85,246519455,3988,176000,176,137,84,81,34,43,8
+SPOT_0623,Forever Sky,Zach Bryan,Single,2022-06-03,2022,6,Jun,3,Acoustic / Folk,Single,Non-Explicit,58,95852521,3881,222000,222,115,43,53,37,36,23
+SPOT_0624,Ocean Echo,J Balvin,Genesis,2020-01-05,2020,1,Jan,5,Latin / Reggaeton,Album Track,Non-Explicit,83,195946882,2992,240000,240,132,90,87,81,55,8
+SPOT_0625,Midnight Melody,Megan Thee Stallion,Single,2023-10-08,2023,10,Oct,8,Hip-Hop / Rap,Single,Explicit,52,83173710,3459,226000,226,129,67,55,42,29,31
+SPOT_0626,Deep Dreams,Katy Perry,Single,2023-12-23,2023,12,Dec,23,Pop,Single,Non-Explicit,67,110027895,4208,191000,191,104,81,68,32,40,34
+SPOT_0627,Midnight Night,Asake,Single,2020-08-15,2020,8,Aug,15,Afrobeats,Single,Non-Explicit,62,132285160,4622,184000,184,132,61,49,67,21,7
+SPOT_0628,Running with Glow,Steve Lacy,Single,2024-02-01,2024,2,Feb,1,R&B / Soul,Single,Non-Explicit,95,297936076,6098,271000,271,129,66,80,59,5,30
+SPOT_0629,Crimson Reckoning,Camila Cabello,Single,2023-10-24,2023,10,Oct,24,Pop,Single,Explicit,78,198930630,5679,146000,146,146,64,48,47,58,31
+SPOT_0630,Silver Night,Karol G,Visions,2024-02-19,2024,2,Feb,19,Latin / Reggaeton,Album Track,Non-Explicit,59,123901795,6213,198000,198,121,73,75,69,13,9
+SPOT_0631,Crimson Paradise,Charlie Puth,The Great Escape,2024-09-17,2024,9,Sep,17,Pop,Album Track,Non-Explicit,61,115051679,3348,148000,148,142,71,78,80,35,7
+SPOT_0632,Ocean Horizon,CKay,Velvet Skies,2020-06-24,2020,6,Jun,24,Afrobeats,Album Track,Non-Explicit,48,83403712,5027,151000,151,140,58,48,81,61,6
+SPOT_0633,Winter Breeze,Glass Animals,True Colors,2020-04-16,2020,4,Apr,16,Rock / Alternative,Album Track,Explicit,63,134612682,5119,240000,240,104,50,74,54,64,30
+SPOT_0634,Electric Soul,CKay,True Colors,2022-07-18,2022,7,Jul,18,Afrobeats,Album Track,Non-Explicit,78,162999007,3475,138000,138,128,54,82,80,29,11
+SPOT_0635,Falling Breeze,TWICE,Sublime,2021-05-12,2021,5,May,12,K-Pop,Album Track,Non-Explicit,53,50780670,2346,284000,284,117,82,67,49,79,12
+SPOT_0636,Sweet Echo,Khalid,Midnight Reflections,2022-11-26,2022,11,Nov,26,R&B / Soul,Album Track,Non-Explicit,82,226195415,5379,264000,264,142,85,48,57,49,15
+SPOT_0637,After Rhythm,The Chainsmokers,True Colors,2023-11-17,2023,11,Nov,17,Dance / Electronic,Album Track,Non-Explicit,74,176583330,4237,279000,279,125,87,74,76,47,13
+SPOT_0638,Voices in Paradise,Doja Cat,Single,2020-01-08,2020,1,Jan,8,Hip-Hop / Rap,Single,Explicit,85,210354206,5365,189000,189,110,77,76,59,28,3
+SPOT_0639,Neon Vibes,Karol G,Horizons,2022-06-20,2022,6,Jun,20,Latin / Reggaeton,Album Track,Explicit,57,98847993,2190,185000,185,121,77,70,64,38,14
+SPOT_0640,Wild Fire,Peso Pluma,Neon Lights,2020-07-26,2020,7,Jul,26,Latin / Reggaeton,Album Track,Non-Explicit,46,46523524,3503,163000,163,125,74,74,79,35,26
+SPOT_0641,Secret Paradise,Feid,Single,2023-12-27,2023,12,Dec,27,Latin / Reggaeton,Single,Non-Explicit,49,42061862,1387,184000,184,132,80,87,73,45,30
+SPOT_0642,Pure Echo,Calvin Harris,Renaissance,2020-10-31,2020,10,Oct,31,Dance / Electronic,Album Track,Explicit,65,102110281,1669,265000,265,133,83,71,55,65,7
+SPOT_0643,Silver Horizon,Bryson Tiller,Single,2022-02-05,2022,2,Feb,5,R&B / Soul,Single,Non-Explicit,76,164078705,5426,230000,230,123,80,76,60,39,28
+SPOT_0644,Lost Tears,Burna Boy,Single,2021-04-25,2021,4,Apr,25,Afrobeats,Single,Non-Explicit,70,140307563,3040,281000,281,100,73,61,65,15,11
+SPOT_0645,Ocean Storm,Jack Harlow,Visions,2022-11-15,2022,11,Nov,15,Hip-Hop / Rap,Album Track,Explicit,84,246517767,5027,239000,239,127,87,86,55,8,14
+SPOT_0646,Endless Time,Boygenius,After Dark,2022-10-24,2022,10,Oct,24,Indie Pop,Album Track,Explicit,77,160578259,2914,193000,193,81,38,29,43,9,15
+SPOT_0647,Chasing Soul,J Balvin,True Colors,2021-01-25,2021,1,Jan,25,Latin / Reggaeton,Album Track,Non-Explicit,90,312658360,6229,274000,274,123,68,89,69,41,25
+SPOT_0648,Forever Glow,Lewis Capaldi,Single,2023-09-01,2023,9,Sep,1,Acoustic / Folk,Single,Explicit,77,210214647,3797,193000,193,89,58,38,50,34,32
+SPOT_0649,After Rhythm,Wallows,Serenade,2023-11-30,2023,11,Nov,30,Indie Pop,Album Track,Non-Explicit,71,147688114,3881,142000,142,98,39,61,28,44,3
+SPOT_0650,Broken Tears,Wallows,True Colors,2024-04-11,2024,4,Apr,11,Indie Pop,Album Track,Non-Explicit,94,411266971,8366,140000,140,111,60,27,28,24,24
+SPOT_0651,Running with Echo,CKay,Solar Flares,2021-02-22,2021,2,Feb,22,Afrobeats,Album Track,Non-Explicit,70,125816566,4162,162000,162,111,78,85,49,16,13
+SPOT_0652,Silent Heart,Megan Thee Stallion,Single,2020-02-24,2020,2,Feb,24,Hip-Hop / Rap,Single,Explicit,56,89407574,2346,194000,194,117,83,88,39,52,3
+SPOT_0653,Echoes of Miracle,Summer Walker,Neon Lights,2020-09-21,2020,9,Sep,21,R&B / Soul,Album Track,Non-Explicit,79,162678136,6055,187000,187,98,63,64,57,65,13
+SPOT_0654,Sweet Glow,CKay,True Colors,2021-02-17,2021,2,Feb,17,Afrobeats,Album Track,Non-Explicit,45,87731207,5195,237000,237,128,65,78,51,77,34
+SPOT_0655,Shadow Heart,Dominic Fike,Single,2022-07-23,2022,7,Jul,23,Indie Pop,Single,Explicit,67,134596773,4489,179000,179,101,42,36,59,60,32
+SPOT_0656,Heavy Glow,Vance Joy,Metamorphosis,2020-11-19,2020,11,Nov,19,Acoustic / Folk,Album Track,Explicit,62,116339769,5194,152000,152,119,58,38,51,57,10
+SPOT_0657,Pure Rain,Rauw Alejandro,Heartbeat Odyssey,2020-12-03,2020,12,Dec,3,Latin / Reggaeton,Album Track,Non-Explicit,61,56156726,1008,153000,153,135,90,86,79,53,24
+SPOT_0658,Silver Heart,Passenger,Horizons,2020-10-06,2020,10,Oct,6,Acoustic / Folk,Album Track,Non-Explicit,65,145326110,3866,152000,152,80,52,40,48,22,33
+SPOT_0659,Silent Silence,Maneskin,Horizons,2020-09-11,2020,9,Sep,11,Rock / Alternative,Album Track,Explicit,79,208727802,6739,137000,137,133,67,54,58,50,14
+SPOT_0660,Voices in Streets,Calvin Harris,Velvet Skies,2024-09-09,2024,9,Sep,9,Dance / Electronic,Album Track,Non-Explicit,85,274777535,6661,213000,213,129,69,84,50,11,27
+SPOT_0661,Falling Miracle,The Chainsmokers,After Dark,2020-02-27,2020,2,Feb,27,Dance / Electronic,Album Track,Explicit,45,47815070,3445,151000,151,122,71,90,92,26,13
+SPOT_0662,Secret Rain,Selena Gomez,Single,2023-07-07,2023,7,Jul,7,Pop,Single,Explicit,57,103400830,2018,194000,194,103,56,67,50,27,3
+SPOT_0663,Midnight Shadows,Dean Lewis,Echoes in Time,2024-07-27,2024,7,Jul,27,Acoustic / Folk,Album Track,Explicit,62,118387923,2713,190000,190,101,44,56,26,73,13
+SPOT_0664,Summer Soul,The Neighbourhood,Single,2023-10-20,2023,10,Oct,20,Rock / Alternative,Single,Non-Explicit,94,416300771,9572,216000,216,144,80,49,51,7,31
+SPOT_0665,Winter Fantasy,George Ezra,Visions,2020-01-28,2020,1,Jan,28,Acoustic / Folk,Album Track,Non-Explicit,59,56086494,1966,244000,244,123,42,30,23,22,26
+SPOT_0666,Lost Sky,Rex Orange County,The Great Escape,2024-01-25,2024,1,Jan,25,Indie Pop,Album Track,Explicit,83,318252983,7025,219000,219,83,43,45,22,71,29
+SPOT_0667,Wild Reckoning,Arctic Monkeys,Single,2021-02-25,2021,2,Feb,25,Rock / Alternative,Single,Explicit,79,149933435,4477,191000,191,128,74,78,50,28,31
+SPOT_0668,Echoes of Goodbye,Chappell Roan,Serenade,2020-10-16,2020,10,Oct,16,Pop,Album Track,Explicit,58,63454829,3162,187000,187,105,82,50,57,64,22
+SPOT_0669,Wild Breeze,Daniel Caesar,Echoes in Time,2023-03-26,2023,3,Mar,26,R&B / Soul,Album Track,Explicit,73,178725408,6367,258000,258,95,73,70,54,26,33
+SPOT_0670,Secret Echo,Girl in Red,Single,2024-08-05,2024,8,Aug,5,Indie Pop,Single,Non-Explicit,95,392444813,8728,156000,156,123,64,44,58,73,12
+SPOT_0671,Endless Shadows,NewJeans,Velvet Skies,2023-02-25,2023,2,Feb,25,K-Pop,Album Track,Explicit,83,239926894,7197,255000,255,102,59,57,30,6,35
+SPOT_0672,Silver Miracle,Myke Towers,Solar Flares,2022-02-03,2022,2,Feb,3,Latin / Reggaeton,Album Track,Non-Explicit,69,103740063,5174,144000,144,118,80,94,86,25,15
+SPOT_0673,Pure Miracle,James Arthur,Single,2023-12-23,2023,12,Dec,23,Acoustic / Folk,Single,Explicit,76,199410174,2520,233000,233,102,58,40,35,66,5
+SPOT_0674,Heavy Streets,Karol G,Electric Sunset,2023-10-26,2023,10,Oct,26,Latin / Reggaeton,Album Track,Non-Explicit,54,56371627,1787,158000,158,135,90,94,74,55,8
+SPOT_0675,Voices in Breeze,Stray Kids,The Long Road Home,2021-09-10,2021,9,Sep,10,K-Pop,Album Track,Explicit,77,239599868,4171,240000,240,138,55,51,70,78,25
+SPOT_0676,Deep Night,Steve Lacy,Single,2021-09-22,2021,9,Sep,22,R&B / Soul,Single,Non-Explicit,45,93867597,2469,152000,152,139,76,78,56,41,30
+SPOT_0677,Falling Fire,Giveon,Single,2021-01-07,2021,1,Jan,7,R&B / Soul,Single,Explicit,77,246970466,6368,189000,189,101,62,48,77,28,15
+SPOT_0678,Ocean Time,Hozier,Single,2023-07-27,2023,7,Jul,27,Rock / Alternative,Single,Explicit,55,44518083,1305,205000,205,94,71,46,67,35,33
+SPOT_0679,Midnight Heart,Clairo,Chronicles,2024-06-04,2024,6,Jun,4,Indie Pop,Album Track,Non-Explicit,47,22866900,2975,268000,268,123,43,56,50,48,30
+SPOT_0680,Chasing Melody,Ozuna,Heartbeat Odyssey,2022-01-09,2022,1,Jan,9,Latin / Reggaeton,Album Track,Non-Explicit,87,231816222,6937,219000,219,118,68,79,75,22,4
+SPOT_0681,Echoes of Storm,Rema,Echoes in Time,2023-06-20,2023,6,Jun,20,Afrobeats,Album Track,Non-Explicit,88,340581204,5958,183000,183,90,70,46,70,51,5
+SPOT_0682,Wild Echo,Myke Towers,Sublime,2021-12-14,2021,12,Dec,14,Latin / Reggaeton,Album Track,Non-Explicit,72,205494509,5916,160000,160,127,77,84,62,23,35
+SPOT_0683,Dancing Paradise,Miley Cyrus,True Colors,2022-08-14,2022,8,Aug,14,Pop,Album Track,Non-Explicit,55,65945491,3722,273000,273,105,65,58,40,16,9
+SPOT_0684,Silent Miracle,Noah Kahan,Single,2024-04-18,2024,4,Apr,18,Acoustic / Folk,Single,Non-Explicit,62,88117068,3090,166000,166,117,39,59,60,67,8
+SPOT_0685,Running with Glow,J Balvin,Single,2023-08-11,2023,8,Aug,11,Latin / Reggaeton,Single,Non-Explicit,66,125504009,4181,278000,278,128,93,72,64,38,10
+SPOT_0686,Electric Rhythm,The Neighbourhood,Visions,2024-03-04,2024,3,Mar,4,Rock / Alternative,Album Track,Non-Explicit,52,53440524,1987,232000,232,126,50,64,33,80,15
+SPOT_0687,Broken Horizon,Lewis Capaldi,True Colors,2020-09-15,2020,9,Sep,15,Acoustic / Folk,Album Track,Non-Explicit,78,199106252,5313,137000,137,109,62,54,40,23,21
+SPOT_0688,Chasing Lover,Martin Garrix,Stardust & Shadows,2023-09-24,2023,9,Sep,24,Dance / Electronic,Album Track,Explicit,89,227606884,5497,166000,166,123,90,83,80,85,16
+SPOT_0689,Heavy Shadows,Rex Orange County,Heartbeat Odyssey,2024-01-07,2024,1,Jan,7,Indie Pop,Album Track,Explicit,58,89703101,4148,148000,148,130,59,36,51,55,22
+SPOT_0690,Starlight Shadows,Frank Ocean,True Colors,2021-12-14,2021,12,Dec,14,R&B / Soul,Album Track,Non-Explicit,93,303441706,6763,207000,207,108,62,80,55,17,11
+SPOT_0691,Echoes of Paradise,Rosalía,Stardust & Shadows,2020-12-01,2020,12,Dec,1,Latin / Reggaeton,Album Track,Non-Explicit,81,202854935,6811,172000,172,121,74,90,62,6,26
+SPOT_0692,Chasing Paradise,Rema,Single,2022-05-24,2022,5,May,24,Afrobeats,Single,Explicit,88,313759290,7229,256000,256,101,53,52,62,48,30
+SPOT_0693,Wild Heart,Jhené Aiko,Solar Flares,2023-11-09,2023,11,Nov,9,R&B / Soul,Album Track,Non-Explicit,83,304826896,6055,157000,157,139,79,69,47,85,31
+SPOT_0694,Electric Rain,Karol G,Infinite Rhythm,2022-11-09,2022,11,Nov,9,Latin / Reggaeton,Album Track,Non-Explicit,59,103845409,4569,159000,159,133,73,77,80,60,22
+SPOT_0695,Electric Soul,Wizkid,Renaissance,2024-07-22,2024,7,Jul,22,Afrobeats,Album Track,Explicit,89,247747722,6896,284000,284,124,57,58,72,20,14
+SPOT_0696,Midnight Whisper,Wizkid,Heartbeat Odyssey,2020-09-20,2020,9,Sep,20,Afrobeats,Album Track,Explicit,81,167472907,5506,200000,200,144,52,50,37,69,22
+SPOT_0697,Silent Breeze,Peso Pluma,Single,2021-05-23,2021,5,May,23,Latin / Reggaeton,Single,Non-Explicit,64,122501606,4526,210000,210,132,82,69,86,67,23
+SPOT_0698,Summer Whisper,Jung Kook,Horizons,2020-04-01,2020,4,Apr,1,K-Pop,Album Track,Non-Explicit,60,61137240,4583,190000,190,98,85,58,67,50,20
+SPOT_0699,Crimson Rhythm,Kehlani,Electric Sunset,2020-11-30,2020,11,Nov,30,R&B / Soul,Album Track,Non-Explicit,70,131654302,3337,171000,171,124,63,49,70,39,15
+SPOT_0700,Chasing Time,Rosalía,Single,2022-05-09,2022,5,May,9,Latin / Reggaeton,Single,Non-Explicit,54,94128267,1563,289000,289,122,70,73,57,73,10
+SPOT_0701,Neon Soul,Jimin,Midnight Reflections,2024-05-12,2024,5,May,12,K-Pop,Album Track,Non-Explicit,62,81198763,1435,160000,160,114,64,69,36,20,14
+SPOT_0702,Shadow Silence,TWICE,Single,2021-12-15,2021,12,Dec,15,K-Pop,Single,Explicit,89,313291960,4946,290000,290,96,53,55,50,54,14
+SPOT_0703,Starlight Echo,Peso Pluma,Single,2023-04-28,2023,4,Apr,28,Latin / Reggaeton,Single,Non-Explicit,53,101813536,1888,167000,167,119,80,83,67,11,26
+SPOT_0704,Crimson Highway,Peggy Gou,Velvet Skies,2024-06-23,2024,6,Jun,23,Dance / Electronic,Album Track,Non-Explicit,74,161711677,4404,193000,193,124,88,92,55,44,29
+SPOT_0705,Winter Rhythm,Rauw Alejandro,Echoes in Time,2020-12-04,2020,12,Dec,4,Latin / Reggaeton,Album Track,Non-Explicit,81,167443191,4157,137000,137,128,89,81,58,66,34
+SPOT_0706,Heavy Rain,TOMORROW X TOGETHER,Sublime,2024-08-29,2024,8,Aug,29,K-Pop,Album Track,Explicit,92,263168033,5128,223000,223,105,83,83,32,82,31
+SPOT_0707,Voices in Tears,Bryson Tiller,Midnight Reflections,2022-11-18,2022,11,Nov,18,R&B / Soul,Album Track,Non-Explicit,67,163968344,3740,178000,178,113,57,66,73,36,10
+SPOT_0708,Dancing Memories,Fall Out Boy,Chronicles,2023-03-10,2023,3,Mar,10,Rock / Alternative,Album Track,Non-Explicit,70,124106215,3657,144000,144,149,79,84,84,67,6
+SPOT_0709,Summer Lover,Karol G,Midnight Reflections,2021-12-17,2021,12,Dec,17,Latin / Reggaeton,Album Track,Explicit,91,277937266,6110,245000,245,130,74,67,83,70,12
+SPOT_0710,Running with Goodbye,Zach Bryan,True Colors,2022-08-21,2022,8,Aug,21,Acoustic / Folk,Album Track,Explicit,70,141545390,5667,181000,181,109,60,42,26,61,31
+SPOT_0711,Falling Fantasy,Giveon,Midnight Reflections,2023-12-23,2023,12,Dec,23,R&B / Soul,Album Track,Non-Explicit,57,75840770,2187,236000,236,116,71,47,40,30,33
+SPOT_0712,Crimson Goodbye,The Neighbourhood,True Colors,2021-10-27,2021,10,Oct,27,Rock / Alternative,Album Track,Non-Explicit,93,423560611,8282,234000,234,98,57,51,80,7,11
+SPOT_0713,Secret Dreams,Summer Walker,Single,2023-10-21,2023,10,Oct,21,R&B / Soul,Single,Explicit,66,77815323,3157,209000,209,108,81,50,78,59,18
+SPOT_0714,Deep Storm,Wizkid,Electric Sunset,2021-06-23,2021,6,Jun,23,Afrobeats,Album Track,Non-Explicit,89,278203914,6556,161000,161,134,82,84,41,29,12
+SPOT_0715,Velvet Shadows,David Guetta,Serenade,2022-05-23,2022,5,May,23,Dance / Electronic,Album Track,Non-Explicit,46,38183191,766,232000,232,128,84,74,90,34,17
+SPOT_0716,Dancing Heart,Anuel AA,The Great Escape,2020-08-13,2020,8,Aug,13,Latin / Reggaeton,Album Track,Explicit,62,105761343,3006,198000,198,125,69,70,52,5,6
+SPOT_0717,Sweet Goodbye,J Balvin,Sublime,2021-01-13,2021,1,Jan,13,Latin / Reggaeton,Album Track,Explicit,61,123614483,3165,163000,163,118,89,65,85,21,24
+SPOT_0718,Deep Horizon,Ozuna,Sublime,2023-08-24,2023,8,Aug,24,Latin / Reggaeton,Album Track,Non-Explicit,62,104715991,5712,162000,162,119,88,88,88,20,5
+SPOT_0719,Lost Highway,Asake,Horizons,2023-01-24,2023,1,Jan,24,Afrobeats,Album Track,Explicit,84,250470163,3534,271000,271,136,59,47,38,29,29
+SPOT_0720,Voices in Melody,TWICE,Single,2023-02-21,2023,2,Feb,21,K-Pop,Single,Non-Explicit,67,164558835,4940,165000,165,148,77,49,60,58,35
+SPOT_0721,Summer Waves,Miley Cyrus,Single,2020-04-03,2020,4,Apr,3,Pop,Single,Explicit,81,154984768,5108,236000,236,121,84,77,34,26,31
+SPOT_0722,Starlight Horizon,Jimin,Sublime,2021-01-11,2021,1,Jan,11,K-Pop,Album Track,Explicit,45,49665738,3612,137000,137,146,82,74,62,72,19
+SPOT_0723,Sweet Highway,Twenty One Pilots,Horizons,2020-04-03,2020,4,Apr,3,Rock / Alternative,Album Track,Explicit,79,140471711,2334,206000,206,149,58,62,85,11,18
+SPOT_0724,Electric Dreams,Fred again..,The Great Escape,2022-01-25,2022,1,Jan,25,Dance / Electronic,Album Track,Non-Explicit,65,92792163,1700,239000,239,134,77,75,53,85,3
+SPOT_0725,Deep Waves,J Balvin,Chronicles,2024-05-12,2024,5,May,12,Latin / Reggaeton,Album Track,Non-Explicit,94,399411604,5555,289000,289,132,74,91,78,33,23
+SPOT_0726,Shadow Time,Twenty One Pilots,Single,2020-11-14,2020,11,Nov,14,Rock / Alternative,Single,Non-Explicit,73,156932611,2923,257000,257,95,81,56,59,28,14
+SPOT_0727,Dancing Fantasy,Peggy Gou,Stardust & Shadows,2020-11-29,2020,11,Nov,29,Dance / Electronic,Album Track,Explicit,56,77070756,2199,153000,153,128,75,79,91,56,9
+SPOT_0728,Deep Horizon,NewJeans,Single,2022-02-12,2022,2,Feb,12,K-Pop,Single,Non-Explicit,69,69502746,4295,146000,146,98,65,50,47,23,3
+SPOT_0729,Starlight Fantasy,Chappell Roan,Single,2020-06-23,2020,6,Jun,23,Pop,Single,Non-Explicit,57,97948505,1814,213000,213,111,80,54,45,12,20
+SPOT_0730,Midnight Silence,BLACKPINK,Renaissance,2022-11-13,2022,11,Nov,13,K-Pop,Album Track,Explicit,71,113071362,3320,244000,244,114,59,67,71,41,17
+SPOT_0731,Dancing Fire,Zach Bryan,Single,2021-07-31,2021,7,Jul,31,Acoustic / Folk,Single,Explicit,67,108389830,3552,156000,156,77,54,34,31,59,24
+SPOT_0732,Chasing Breeze,Wizkid,True Colors,2023-07-03,2023,7,Jul,3,Afrobeats,Album Track,Non-Explicit,63,75480195,5065,262000,262,132,73,61,81,14,3
+SPOT_0733,Broken Sky,Giveon,Infinite Rhythm,2020-08-19,2020,8,Aug,19,R&B / Soul,Album Track,Non-Explicit,81,208124401,4069,217000,217,98,61,69,52,45,34
+SPOT_0734,Heavy Breeze,Sam Smith,The Great Escape,2024-06-30,2024,6,Jun,30,Acoustic / Folk,Album Track,Explicit,86,341396368,6858,262000,262,109,52,56,54,73,17
+SPOT_0735,Shadow Highway,Zach Bryan,Visions,2024-07-19,2024,7,Jul,19,Acoustic / Folk,Album Track,Non-Explicit,92,259125648,5642,135000,135,88,62,26,43,76,33
+SPOT_0736,Golden Miracle,Brent Faiyaz,Genesis,2020-10-22,2020,10,Oct,22,R&B / Soul,Album Track,Explicit,80,277016024,5267,192000,192,93,58,52,74,23,27
+SPOT_0737,Falling Heart,Selena Gomez,Single,2020-05-31,2020,5,May,31,Pop,Single,Non-Explicit,75,179848524,4261,228000,228,99,55,60,34,6,29
+SPOT_0738,Dancing Fantasy,Giveon,Daylight,2021-09-05,2021,9,Sep,5,R&B / Soul,Album Track,Non-Explicit,75,169445886,5542,138000,138,108,57,54,33,9,14
+SPOT_0739,Midnight Shadows,NewJeans,Single,2022-07-19,2022,7,Jul,19,K-Pop,Single,Non-Explicit,80,227335334,4853,213000,213,135,64,72,40,39,8
+SPOT_0740,Velvet Fantasy,Jimin,Sublime,2022-03-14,2022,3,Mar,14,K-Pop,Album Track,Explicit,56,62336356,3638,254000,254,120,70,70,82,53,13
+SPOT_0741,Winter Breeze,Camila Cabello,Horizons,2022-01-12,2022,1,Jan,12,Pop,Album Track,Explicit,83,277490524,6534,207000,207,100,84,51,34,32,3
+SPOT_0742,Starlight Night,Twenty One Pilots,Metamorphosis,2020-06-23,2020,6,Jun,23,Rock / Alternative,Album Track,Explicit,81,251149947,5135,215000,215,95,69,45,52,41,28
+SPOT_0743,Broken Horizon,Stray Kids,Midnight Reflections,2023-12-10,2023,12,Dec,10,K-Pop,Album Track,Non-Explicit,88,241159303,5453,263000,263,96,82,54,31,80,27
+SPOT_0744,Echoes of Reckoning,Mitski,Neon Lights,2022-08-06,2022,8,Aug,6,Indie Pop,Album Track,Explicit,50,49191555,1654,190000,190,126,56,34,30,69,24
+SPOT_0745,Broken Memories,Phoebe Bridgers,The Long Road Home,2023-12-30,2023,12,Dec,30,Indie Pop,Album Track,Explicit,94,401510432,9004,290000,290,79,65,34,56,85,34
+SPOT_0746,Velvet Horizon,Travis Scott,Single,2024-06-21,2024,6,Jun,21,Hip-Hop / Rap,Single,Explicit,95,500556733,10973,215000,215,101,91,73,45,78,26
+SPOT_0747,Neon Fire,Rauw Alejandro,Single,2022-08-27,2022,8,Aug,27,Latin / Reggaeton,Single,Non-Explicit,61,127985280,5366,170000,170,118,86,80,52,51,21
+SPOT_0748,Echoes of Echo,Lewis Capaldi,Single,2022-01-21,2022,1,Jan,21,Acoustic / Folk,Single,Explicit,77,219192691,3483,240000,240,107,49,41,22,84,6
+SPOT_0749,Midnight Sky,Fred again..,Single,2020-11-20,2020,11,Nov,20,Dance / Electronic,Single,Explicit,81,177370417,4534,253000,253,117,79,79,79,73,32
+SPOT_0750,Silent Fantasy,Future,Solar Flares,2021-02-12,2021,2,Feb,12,Hip-Hop / Rap,Album Track,Explicit,70,132468055,4503,259000,259,107,84,85,42,9,12
+SPOT_0751,Winter Night,Phoebe Bridgers,Metamorphosis,2024-05-04,2024,5,May,4,Indie Pop,Album Track,Non-Explicit,69,118558267,3126,256000,256,88,36,38,21,59,20
+SPOT_0752,Neon Sky,Maneskin,Solar Flares,2023-12-29,2023,12,Dec,29,Rock / Alternative,Album Track,Explicit,73,173486195,5705,201000,201,101,53,50,57,48,22
+SPOT_0753,Falling Breeze,Daniel Caesar,Renaissance,2020-11-25,2020,11,Nov,25,R&B / Soul,Album Track,Non-Explicit,89,304815667,3172,278000,278,140,62,49,76,79,12
+SPOT_0754,Midnight Sky,Ozuna,Single,2022-10-19,2022,10,Oct,19,Latin / Reggaeton,Single,Non-Explicit,65,113225054,4016,135000,135,129,94,92,58,62,9
+SPOT_0755,Deep Night,Katy Perry,Renaissance,2023-05-15,2023,5,May,15,Pop,Album Track,Non-Explicit,69,106881610,4692,282000,282,90,73,68,31,43,22
+SPOT_0756,Heavy Goodbye,BLACKPINK,Velvet Skies,2021-12-21,2021,12,Dec,21,K-Pop,Album Track,Non-Explicit,67,158198143,5209,220000,220,97,61,74,57,52,14
+SPOT_0757,Silent Whisper,IVE,Stardust & Shadows,2023-11-11,2023,11,Nov,11,K-Pop,Album Track,Non-Explicit,88,279212501,5649,160000,160,95,56,50,71,7,29
+SPOT_0758,Deep Horizon,Doja Cat,Renaissance,2022-06-28,2022,6,Jun,28,Hip-Hop / Rap,Album Track,Explicit,77,157600437,3067,242000,242,107,69,84,70,30,33
+SPOT_0759,After Miracle,Lil Nas X,The Great Escape,2024-02-26,2024,2,Feb,26,Hip-Hop / Rap,Album Track,Non-Explicit,70,120861149,2310,264000,264,116,70,71,54,58,18
+SPOT_0760,Golden Dreams,Selena Gomez,Midnight Reflections,2022-11-28,2022,11,Nov,28,Pop,Album Track,Non-Explicit,92,366498596,8534,245000,245,105,85,70,42,83,28
+SPOT_0761,Crimson Sky,Troye Sivan,Single,2024-01-31,2024,1,Jan,31,Pop,Single,Non-Explicit,56,85012776,1861,246000,246,104,56,53,62,20,28
+SPOT_0762,Silent Soul,The Killers,After Dark,2020-01-24,2020,1,Jan,24,Rock / Alternative,Album Track,Explicit,85,275775788,8052,274000,274,148,55,81,54,8,11
+SPOT_0763,Silent Tears,Wallows,Echoes in Time,2023-01-01,2023,1,Jan,1,Indie Pop,Album Track,Explicit,60,114238072,2402,148000,148,92,37,34,60,7,9
+SPOT_0764,Running with Echo,Doja Cat,Genesis,2021-01-04,2021,1,Jan,4,Hip-Hop / Rap,Album Track,Explicit,50,73747806,4304,188000,188,130,65,86,36,67,7
+SPOT_0765,Silver Melody,Tiësto,Velvet Skies,2021-01-03,2021,1,Jan,3,Dance / Electronic,Album Track,Non-Explicit,64,75291480,3330,290000,290,116,71,75,72,66,3
+SPOT_0766,Deep Waves,Bryson Tiller,Single,2020-03-01,2020,3,Mar,1,R&B / Soul,Single,Explicit,79,182148524,2647,190000,190,145,73,52,43,8,23
+SPOT_0767,Neon Fantasy,Daniel Caesar,Single,2021-07-14,2021,7,Jul,14,R&B / Soul,Single,Explicit,75,119342855,4738,276000,276,131,68,74,77,68,30
+SPOT_0768,Running with Night,Jimin,Serenade,2024-01-09,2024,1,Jan,9,K-Pop,Album Track,Non-Explicit,62,93802990,4510,285000,285,109,60,58,76,67,30
+SPOT_0769,Summer Fantasy,Girl in Red,Heartbeat Odyssey,2023-05-28,2023,5,May,28,Indie Pop,Album Track,Non-Explicit,69,138142423,5731,151000,151,103,40,27,52,37,29
+SPOT_0770,Forever Melody,Glass Animals,Daylight,2020-03-02,2020,3,Mar,2,Rock / Alternative,Album Track,Explicit,52,73068268,4374,182000,182,112,65,49,43,52,26
+SPOT_0771,Electric Dreams,Summer Walker,Chronicles,2021-03-13,2021,3,Mar,13,R&B / Soul,Album Track,Non-Explicit,74,172831470,2739,278000,278,94,74,63,68,32,16
+SPOT_0772,Endless Highway,Megan Thee Stallion,True Colors,2023-08-16,2023,8,Aug,16,Hip-Hop / Rap,Album Track,Explicit,71,175902531,6014,216000,216,105,68,58,66,40,29
+SPOT_0773,Ocean Fire,Future,Visions,2023-03-26,2023,3,Mar,26,Hip-Hop / Rap,Album Track,Non-Explicit,46,23325717,2303,207000,207,96,88,80,37,72,5
+SPOT_0774,Neon Goodbye,Karol G,The Long Road Home,2021-07-16,2021,7,Jul,16,Latin / Reggaeton,Album Track,Non-Explicit,65,140395081,5021,215000,215,130,87,66,75,43,32
+SPOT_0775,Forever Vibes,Clairo,Single,2021-04-03,2021,4,Apr,3,Indie Pop,Single,Explicit,48,50288021,2405,246000,246,89,40,30,32,52,3
+SPOT_0776,Voices in Paradise,Shawn Mendes,Metamorphosis,2020-06-02,2020,6,Jun,2,Pop,Album Track,Non-Explicit,61,105166267,4614,178000,178,149,58,82,59,20,11
+SPOT_0777,Pure Glow,Feid,Single,2022-04-26,2022,4,Apr,26,Latin / Reggaeton,Single,Non-Explicit,85,226872718,5055,196000,196,133,83,86,81,40,23
+SPOT_0778,Neon Waves,Boygenius,Single,2021-12-23,2021,12,Dec,23,Indie Pop,Single,Non-Explicit,80,238483024,5408,187000,187,119,37,29,51,12,16
+SPOT_0779,Ocean Silence,Katy Perry,Infinite Rhythm,2021-03-03,2021,3,Mar,3,Pop,Album Track,Explicit,82,288102952,4194,214000,214,135,79,54,84,69,9
+SPOT_0780,Running with Vibes,Daniel Caesar,Velvet Skies,2022-11-17,2022,11,Nov,17,R&B / Soul,Album Track,Non-Explicit,57,79463626,2796,243000,243,100,69,81,71,18,12
+SPOT_0781,Deep Rain,Clairo,Velvet Skies,2020-02-28,2020,2,Feb,28,Indie Pop,Album Track,Explicit,75,205172026,4095,165000,165,110,37,47,47,32,12
+SPOT_0782,Crimson Storm,George Ezra,Velvet Skies,2020-07-19,2020,7,Jul,19,Acoustic / Folk,Album Track,Explicit,48,86287299,2779,183000,183,100,40,42,53,82,34
+SPOT_0783,Electric Streets,Jimin,Echoes in Time,2021-03-25,2021,3,Mar,25,K-Pop,Album Track,Non-Explicit,52,32425855,1659,196000,196,94,84,51,47,33,28
+SPOT_0784,Electric Tears,Lewis Capaldi,Single,2021-07-03,2021,7,Jul,3,Acoustic / Folk,Single,Non-Explicit,76,140560986,4739,208000,208,120,54,43,20,17,14
+SPOT_0785,Dancing Fantasy,IVE,Echoes in Time,2023-10-27,2023,10,Oct,27,K-Pop,Album Track,Explicit,49,69712564,2703,171000,171,90,80,72,51,7,14
+SPOT_0786,Silent Streets,The Neighbourhood,Single,2021-12-22,2021,12,Dec,22,Rock / Alternative,Single,Explicit,75,203591383,3111,255000,255,97,52,46,66,42,17
+SPOT_0787,Silent Horizon,TOMORROW X TOGETHER,Horizons,2024-07-04,2024,7,Jul,4,K-Pop,Album Track,Explicit,92,335923722,5058,274000,274,106,81,61,53,63,3
+SPOT_0788,Heavy Soul,Maluma,Single,2024-10-21,2024,10,Oct,21,Latin / Reggaeton,Single,Non-Explicit,83,231870394,4769,140000,140,119,81,92,64,23,25
+SPOT_0789,Wild Glow,Lorde,Single,2022-01-06,2022,1,Jan,6,Indie Pop,Single,Non-Explicit,58,82734139,3922,162000,162,92,63,59,48,72,14
+SPOT_0790,Voices in Soul,Linkin Park,The Long Road Home,2021-07-19,2021,7,Jul,19,Rock / Alternative,Album Track,Non-Explicit,64,128492312,2944,166000,166,117,79,81,80,49,21
+SPOT_0791,Dancing Miracle,Travis Scott,Single,2020-11-03,2020,11,Nov,3,Hip-Hop / Rap,Single,Explicit,78,220118790,5343,208000,208,88,87,73,35,32,21
+SPOT_0792,Golden Goodbye,Rema,The Long Road Home,2024-09-04,2024,9,Sep,4,Afrobeats,Album Track,Explicit,45,37926228,4318,207000,207,140,82,80,39,16,20
+SPOT_0793,Crimson Glow,Daniel Caesar,Single,2020-03-06,2020,3,Mar,6,R&B / Soul,Single,Explicit,75,199726856,4914,233000,233,117,75,51,46,43,22
+SPOT_0794,Crimson Streets,Kehlani,Single,2020-10-12,2020,10,Oct,12,R&B / Soul,Single,Non-Explicit,88,327854225,7472,276000,276,102,69,64,35,43,32
+SPOT_0795,Silver Paradise,NewJeans,Single,2020-10-10,2020,10,Oct,10,K-Pop,Single,Non-Explicit,78,190096366,5295,226000,226,119,72,72,59,58,29
+SPOT_0796,Running with Whisper,Lorde,The Long Road Home,2020-10-14,2020,10,Oct,14,Indie Pop,Album Track,Explicit,84,293649142,5632,230000,230,83,54,59,56,42,6
+SPOT_0797,Silver Streets,Vance Joy,Daylight,2020-04-21,2020,4,Apr,21,Acoustic / Folk,Album Track,Non-Explicit,50,39288762,3180,159000,159,127,44,61,50,47,6
+SPOT_0798,Chasing Storm,Gunna,Single,2021-02-23,2021,2,Feb,23,Hip-Hop / Rap,Single,Non-Explicit,78,186022645,4271,174000,174,118,82,74,35,84,15
+SPOT_0799,Midnight Sky,Future,Horizons,2021-05-21,2021,5,May,21,Hip-Hop / Rap,Album Track,Explicit,58,42865813,2680,248000,248,130,63,62,54,28,18
+SPOT_0800,Forever Echo,TWICE,Single,2023-06-17,2023,6,Jun,17,K-Pop,Single,Non-Explicit,52,36893139,1373,196000,196,100,82,79,42,65,33
+SPOT_0801,Chasing Rain,Fall Out Boy,Single,2023-09-29,2023,9,Sep,29,Rock / Alternative,Single,Non-Explicit,62,74039141,2827,243000,243,99,51,63,59,20,27
+SPOT_0802,Sweet Heart,Troye Sivan,True Colors,2020-03-28,2020,3,Mar,28,Pop,Album Track,Non-Explicit,67,170546522,4742,252000,252,107,50,55,52,69,35
+SPOT_0803,Voices in Highway,Marshmello,Daylight,2023-09-05,2023,9,Sep,5,Dance / Electronic,Album Track,Explicit,54,82166057,4154,170000,170,123,93,89,92,43,28
+SPOT_0804,Silver Goodbye,Doja Cat,Neon Lights,2022-11-04,2022,11,Nov,4,Hip-Hop / Rap,Album Track,Explicit,94,399091258,9882,217000,217,155,92,77,72,56,7
+SPOT_0805,Echoes of Fantasy,Sabrina Carpenter,Horizons,2022-10-19,2022,10,Oct,19,Pop,Album Track,Non-Explicit,88,278531083,6280,195000,195,96,61,69,78,58,7
+SPOT_0806,Endless Rain,Troye Sivan,After Dark,2022-02-05,2022,2,Feb,5,Pop,Album Track,Non-Explicit,83,217970854,5064,162000,162,134,78,69,38,78,15
+SPOT_0807,Dancing Lover,Kygo,Echoes in Time,2020-11-27,2020,11,Nov,27,Dance / Electronic,Album Track,Explicit,72,158900481,5440,141000,141,135,89,68,63,9,11
+SPOT_0808,Pure Breeze,Camila Cabello,After Dark,2023-10-29,2023,10,Oct,29,Pop,Album Track,Explicit,91,440285948,10658,188000,188,126,80,77,52,50,11
+SPOT_0809,Crimson Time,Doja Cat,After Dark,2020-09-17,2020,9,Sep,17,Hip-Hop / Rap,Album Track,Explicit,95,362673987,8524,194000,194,86,81,76,36,42,19
+SPOT_0810,Neon Reckoning,Dean Lewis,Single,2020-06-02,2020,6,Jun,2,Acoustic / Folk,Single,Non-Explicit,79,238813605,4899,214000,214,100,54,28,54,19,33
+SPOT_0811,Golden Soul,Arctic Monkeys,Serenade,2024-04-15,2024,4,Apr,15,Rock / Alternative,Album Track,Explicit,48,67762270,3597,150000,150,105,81,49,81,77,5
+SPOT_0812,Crimson Echo,Rauw Alejandro,Single,2023-02-03,2023,2,Feb,3,Latin / Reggaeton,Single,Non-Explicit,75,203755455,2461,161000,161,116,83,81,64,49,30
+SPOT_0813,After Reckoning,Rex Orange County,Single,2020-04-23,2020,4,Apr,23,Indie Pop,Single,Explicit,46,53861427,3323,232000,232,118,56,26,55,66,6
+SPOT_0814,Heavy Sky,Lewis Capaldi,The Long Road Home,2020-08-24,2020,8,Aug,24,Acoustic / Folk,Album Track,Non-Explicit,73,139858466,2907,222000,222,102,64,28,35,34,8
+SPOT_0815,Wild Breeze,Burna Boy,Single,2024-06-12,2024,6,Jun,12,Afrobeats,Single,Non-Explicit,79,170581709,4738,198000,198,142,53,49,33,21,31
+SPOT_0816,Golden Soul,Steve Lacy,The Great Escape,2021-08-21,2021,8,Aug,21,R&B / Soul,Album Track,Non-Explicit,53,103442172,1812,154000,154,94,66,79,43,68,25
+SPOT_0817,Heavy Memories,Martin Garrix,Single,2021-08-22,2021,8,Aug,22,Dance / Electronic,Single,Non-Explicit,86,227181172,6262,273000,273,131,71,66,72,57,34
+SPOT_0818,Lost Miracle,The Neighbourhood,Daylight,2024-02-28,2024,2,Feb,28,Rock / Alternative,Album Track,Explicit,80,189236084,5483,171000,171,92,65,73,71,63,10
+SPOT_0819,Forever Heart,Charlie Puth,Visions,2024-08-21,2024,8,Aug,21,Pop,Album Track,Non-Explicit,50,76523073,1204,232000,232,114,78,47,44,31,27
+SPOT_0820,Starlight Heart,Jhené Aiko,Metamorphosis,2021-12-13,2021,12,Dec,13,R&B / Soul,Album Track,Non-Explicit,46,74006471,4625,202000,202,141,63,46,51,84,30
+SPOT_0821,After Rain,Noah Kahan,True Colors,2022-12-31,2022,12,Dec,31,Acoustic / Folk,Album Track,Explicit,74,188353452,3674,232000,232,104,58,40,28,6,20
+SPOT_0822,Wild Horizon,The Neighbourhood,Heartbeat Odyssey,2020-03-20,2020,3,Mar,20,Rock / Alternative,Album Track,Non-Explicit,84,213858461,3520,290000,290,90,57,64,66,46,19
+SPOT_0823,Ocean Dreams,Khalid,Velvet Skies,2022-01-04,2022,1,Jan,4,R&B / Soul,Album Track,Explicit,75,171705187,2675,283000,283,150,55,62,69,75,23
+SPOT_0824,Silent Waves,Doja Cat,Single,2022-10-10,2022,10,Oct,10,Hip-Hop / Rap,Single,Explicit,53,55729210,4702,147000,147,109,65,57,46,61,23
+SPOT_0825,Heavy Tears,Tate McRae,Electric Sunset,2020-02-03,2020,2,Feb,3,Pop,Album Track,Non-Explicit,88,354148482,7288,146000,146,128,65,67,36,14,35
+SPOT_0826,Secret Rhythm,Clairo,Heartbeat Odyssey,2024-08-25,2024,8,Aug,25,Indie Pop,Album Track,Non-Explicit,88,294974342,4105,171000,171,76,45,48,41,57,26
+SPOT_0827,Summer Dreams,Rex Orange County,Metamorphosis,2020-11-03,2020,11,Nov,3,Indie Pop,Album Track,Explicit,82,160128498,3037,265000,265,120,59,57,57,49,16
+SPOT_0828,Golden Streets,Lumineers,Single,2023-08-22,2023,8,Aug,22,Acoustic / Folk,Single,Non-Explicit,50,67802973,3040,282000,282,115,52,51,54,20,6
+SPOT_0829,Chasing Storm,Davido,Heartbeat Odyssey,2024-09-08,2024,9,Sep,8,Afrobeats,Album Track,Explicit,81,188367335,3828,227000,227,104,79,65,77,19,18
+SPOT_0830,Falling Rhythm,Girl in Red,Daylight,2022-01-11,2022,1,Jan,11,Indie Pop,Album Track,Explicit,86,257149296,6657,242000,242,89,53,33,54,36,29
+SPOT_0831,Summer Waves,Wizkid,Single,2020-08-29,2020,8,Aug,29,Afrobeats,Single,Explicit,50,97709737,4194,261000,261,130,62,56,59,6,13
+SPOT_0832,Endless Horizon,Post Malone,Infinite Rhythm,2020-09-15,2020,9,Sep,15,Hip-Hop / Rap,Album Track,Non-Explicit,47,33095152,1230,153000,153,96,78,88,59,50,11
+SPOT_0833,Wild Highway,George Ezra,Heartbeat Odyssey,2021-11-20,2021,11,Nov,20,Acoustic / Folk,Album Track,Non-Explicit,82,215445009,2598,153000,153,122,64,47,48,57,31
+SPOT_0834,Pure Goodbye,James Arthur,Single,2024-01-22,2024,1,Jan,22,Acoustic / Folk,Single,Non-Explicit,94,417854860,8353,136000,136,112,53,48,49,53,23
+SPOT_0835,Secret Fantasy,Phoebe Bridgers,Horizons,2022-10-07,2022,10,Oct,7,Indie Pop,Album Track,Explicit,66,128416286,3531,283000,283,107,62,52,38,46,27
+SPOT_0836,Velvet Heart,Feid,Single,2024-02-06,2024,2,Feb,6,Latin / Reggaeton,Single,Non-Explicit,58,85659172,4778,215000,215,118,79,74,60,20,21
+SPOT_0837,Ocean Tears,Paramore,Single,2021-06-15,2021,6,Jun,15,Rock / Alternative,Single,Explicit,83,260391427,4120,171000,171,96,63,80,83,70,13
+SPOT_0838,Voices in Heart,Troye Sivan,Single,2024-06-24,2024,6,Jun,24,Pop,Single,Non-Explicit,57,38477330,1550,207000,207,150,77,73,63,21,32
+SPOT_0839,Heavy Highway,The Neighbourhood,Single,2022-06-04,2022,6,Jun,4,Rock / Alternative,Single,Explicit,76,136511600,5196,164000,164,112,55,59,76,14,23
+SPOT_0840,Broken Waves,Bryson Tiller,Daylight,2020-05-31,2020,5,May,31,R&B / Soul,Album Track,Non-Explicit,90,314166084,4618,268000,268,110,62,80,72,85,5
+SPOT_0841,Velvet Glow,Katy Perry,Echoes in Time,2021-06-27,2021,6,Jun,27,Pop,Album Track,Non-Explicit,75,128245057,3541,207000,207,98,62,85,35,71,16
+SPOT_0842,Neon Goodbye,Selena Gomez,Serenade,2020-03-20,2020,3,Mar,20,Pop,Album Track,Non-Explicit,71,168905725,4439,195000,195,130,72,75,63,28,22
+SPOT_0843,Chasing Goodbye,Kygo,The Great Escape,2022-01-01,2022,1,Jan,1,Dance / Electronic,Album Track,Non-Explicit,79,172730869,3344,208000,208,128,82,75,65,59,10
+SPOT_0844,Broken Streets,Khalid,Solar Flares,2024-05-03,2024,5,May,3,R&B / Soul,Album Track,Non-Explicit,75,224491812,4398,195000,195,91,68,62,62,32,29
+SPOT_0845,Pure Soul,Tate McRae,Heartbeat Odyssey,2024-07-14,2024,7,Jul,14,Pop,Album Track,Non-Explicit,73,147617548,1767,203000,203,121,64,66,70,10,22
+SPOT_0846,Wild Glow,Girl in Red,Single,2024-05-15,2024,5,May,15,Indie Pop,Single,Non-Explicit,85,208081171,6235,273000,273,76,65,26,44,16,24
+SPOT_0847,Neon Time,Peso Pluma,Serenade,2021-02-10,2021,2,Feb,10,Latin / Reggaeton,Album Track,Non-Explicit,55,102264284,4101,193000,193,124,93,70,73,47,29
+SPOT_0848,Deep Tears,Fred again..,Single,2020-02-11,2020,2,Feb,11,Dance / Electronic,Single,Explicit,93,419542023,6891,259000,259,116,73,74,69,8,17
+SPOT_0849,Endless Fantasy,Calvin Harris,Solar Flares,2020-09-25,2020,9,Sep,25,Dance / Electronic,Album Track,Non-Explicit,92,386792163,7532,264000,264,128,68,65,84,82,12
+SPOT_0850,After Shadows,Gunna,Sublime,2024-05-26,2024,5,May,26,Hip-Hop / Rap,Album Track,Explicit,65,75444815,2402,252000,252,105,65,71,76,53,21
+SPOT_0851,Wild Breeze,Zach Bryan,Infinite Rhythm,2023-12-10,2023,12,Dec,10,Acoustic / Folk,Album Track,Explicit,79,213692875,6414,235000,235,98,59,59,26,62,17
+SPOT_0852,Silver Horizon,Burna Boy,Midnight Reflections,2020-08-11,2020,8,Aug,11,Afrobeats,Album Track,Non-Explicit,86,220244512,4916,156000,156,96,85,55,43,67,18
+SPOT_0853,Silver Echo,21 Savage,Single,2024-09-15,2024,9,Sep,15,Hip-Hop / Rap,Single,Explicit,81,216171982,4376,199000,199,132,71,76,44,77,29
+SPOT_0854,Heavy Night,Shawn Mendes,Single,2023-01-22,2023,1,Jan,22,Pop,Single,Non-Explicit,76,154066347,4256,258000,258,122,85,50,36,59,7
+SPOT_0855,Pure Dreams,Vance Joy,Horizons,2022-06-15,2022,6,Jun,15,Acoustic / Folk,Album Track,Explicit,52,84332958,1921,269000,269,106,39,60,46,56,3
+SPOT_0856,Crimson Memories,The Neighbourhood,Single,2021-07-09,2021,7,Jul,9,Rock / Alternative,Single,Non-Explicit,78,186488152,5007,177000,177,99,68,78,73,31,26
+SPOT_0857,Endless Goodbye,IVE,Heartbeat Odyssey,2024-01-14,2024,1,Jan,14,K-Pop,Album Track,Non-Explicit,53,94762320,3372,241000,241,101,59,75,34,5,22
+SPOT_0858,Heavy Rain,The Chainsmokers,Heartbeat Odyssey,2023-07-03,2023,7,Jul,3,Dance / Electronic,Album Track,Explicit,74,140694489,4734,278000,278,122,79,85,50,29,20
+SPOT_0859,Shadow Fantasy,Hozier,Sublime,2021-06-05,2021,6,Jun,5,Rock / Alternative,Album Track,Non-Explicit,80,201700957,6289,174000,174,96,63,62,41,38,9
+SPOT_0860,Shadow Time,Bryson Tiller,Single,2024-04-30,2024,4,Apr,30,R&B / Soul,Single,Explicit,82,264046973,5032,135000,135,140,64,58,35,83,12
+SPOT_0861,Dancing Reckoning,Giveon,After Dark,2020-04-16,2020,4,Apr,16,R&B / Soul,Album Track,Non-Explicit,53,96489927,4161,255000,255,110,69,77,78,20,18
+SPOT_0862,Silver Horizon,Jimin,Infinite Rhythm,2024-09-13,2024,9,Sep,13,K-Pop,Album Track,Explicit,78,146585984,4037,189000,189,100,67,54,83,60,31
+SPOT_0863,Chasing Rain,Rex Orange County,The Long Road Home,2020-12-30,2020,12,Dec,30,Indie Pop,Album Track,Non-Explicit,46,91001575,3849,223000,223,121,48,38,59,76,15
+SPOT_0864,Silent Miracle,Dean Lewis,Single,2022-06-24,2022,6,Jun,24,Acoustic / Folk,Single,Explicit,68,91745479,2508,219000,219,81,64,48,36,69,3
+SPOT_0865,Golden Time,Tems,Infinite Rhythm,2023-11-25,2023,11,Nov,25,Afrobeats,Album Track,Non-Explicit,90,239656383,6310,142000,142,145,80,83,70,63,34
+SPOT_0866,Deep Reckoning,Khalid,Renaissance,2020-03-19,2020,3,Mar,19,R&B / Soul,Album Track,Non-Explicit,68,85166112,4099,180000,180,145,58,50,56,20,6
+SPOT_0867,Broken Rain,Lorde,Single,2024-10-12,2024,10,Oct,12,Indie Pop,Single,Explicit,57,53370546,4372,216000,216,120,40,62,43,71,3
+SPOT_0868,Forever Streets,Lewis Capaldi,After Dark,2024-04-08,2024,4,Apr,8,Acoustic / Folk,Album Track,Explicit,77,149723299,3603,248000,248,77,43,37,52,57,14
+SPOT_0869,Endless Whisper,Shawn Mendes,Heartbeat Odyssey,2024-09-08,2024,9,Sep,8,Pop,Album Track,Non-Explicit,89,255519732,5257,158000,158,101,55,56,50,80,4
+SPOT_0870,Lost Time,Frank Ocean,After Dark,2021-05-20,2021,5,May,20,R&B / Soul,Album Track,Non-Explicit,64,110784156,4414,168000,168,109,53,69,75,41,14
+SPOT_0871,Shadow Soul,Maneskin,Serenade,2021-02-12,2021,2,Feb,12,Rock / Alternative,Album Track,Explicit,56,90394017,2944,202000,202,95,81,67,67,51,25
+SPOT_0872,Forever Time,LE SSERAFIM,Single,2024-09-05,2024,9,Sep,5,K-Pop,Single,Explicit,82,202772737,4088,223000,223,131,68,58,51,69,20
+SPOT_0873,Pure Night,Megan Thee Stallion,Velvet Skies,2020-08-24,2020,8,Aug,24,Hip-Hop / Rap,Album Track,Explicit,78,193794501,3160,254000,254,155,72,78,71,80,5
+SPOT_0874,Winter Vibes,Rauw Alejandro,Single,2022-05-13,2022,5,May,13,Latin / Reggaeton,Single,Explicit,75,131406246,6050,226000,226,124,73,79,84,28,4
+SPOT_0875,Ocean Glow,Mitski,The Long Road Home,2022-08-27,2022,8,Aug,27,Indie Pop,Album Track,Non-Explicit,60,98902792,2689,258000,258,118,47,44,22,34,35
+SPOT_0876,Crimson Horizon,Post Malone,Visions,2020-02-28,2020,2,Feb,28,Hip-Hop / Rap,Album Track,Explicit,55,82574112,3407,269000,269,105,92,63,43,11,8
+SPOT_0877,After Vibes,Maneskin,Neon Lights,2023-09-10,2023,9,Sep,10,Rock / Alternative,Album Track,Non-Explicit,54,56738558,2272,155000,155,101,65,58,57,16,18
+SPOT_0878,Echoes of Horizon,Bryson Tiller,Infinite Rhythm,2020-07-23,2020,7,Jul,23,R&B / Soul,Album Track,Explicit,75,188244175,3035,255000,255,132,74,74,75,36,9
+SPOT_0879,Broken Horizon,Vance Joy,Single,2021-10-31,2021,10,Oct,31,Acoustic / Folk,Single,Non-Explicit,63,136535718,3345,271000,271,79,46,56,57,8,17
+SPOT_0880,Pure Tears,Wizkid,Heartbeat Odyssey,2020-01-04,2020,1,Jan,4,Afrobeats,Album Track,Non-Explicit,84,274011538,3008,193000,193,98,81,57,32,32,22
+SPOT_0881,Broken Shadows,Zach Bryan,The Long Road Home,2021-09-29,2021,9,Sep,29,Acoustic / Folk,Album Track,Explicit,69,169186893,4505,242000,242,86,40,50,53,18,32
+SPOT_0882,Chasing Fantasy,Lil Nas X,Solar Flares,2020-01-26,2020,1,Jan,26,Hip-Hop / Rap,Album Track,Non-Explicit,55,106157658,4423,251000,251,81,77,80,62,43,30
+SPOT_0883,Summer Paradise,The Neighbourhood,Single,2022-02-02,2022,2,Feb,2,Rock / Alternative,Single,Non-Explicit,94,369682436,5900,228000,228,97,61,72,64,54,8
+SPOT_0884,Broken Miracle,Frank Ocean,Single,2022-11-20,2022,11,Nov,20,R&B / Soul,Single,Explicit,84,298550873,4201,253000,253,108,52,52,85,67,32
+SPOT_0885,Voices in Echo,Karol G,Single,2021-11-22,2021,11,Nov,22,Latin / Reggaeton,Single,Explicit,88,221620206,3883,180000,180,124,79,78,51,62,23
+SPOT_0886,Summer Rain,Arctic Monkeys,Metamorphosis,2022-03-22,2022,3,Mar,22,Rock / Alternative,Album Track,Non-Explicit,60,59107672,4190,172000,172,130,81,72,47,49,32
+SPOT_0887,Running with Silence,Asake,Single,2024-08-07,2024,8,Aug,7,Afrobeats,Single,Non-Explicit,78,165681283,4548,230000,230,92,59,83,76,17,27
+SPOT_0888,Broken Miracle,BLACKPINK,Stardust & Shadows,2020-02-15,2020,2,Feb,15,K-Pop,Album Track,Non-Explicit,56,89392967,3792,155000,155,143,77,52,80,29,19
+SPOT_0889,Secret Whisper,Glass Animals,Single,2024-06-24,2024,6,Jun,24,Rock / Alternative,Single,Explicit,48,89785642,4715,246000,246,107,61,62,62,10,28
+SPOT_0890,Endless Dreams,Steve Lacy,Chronicles,2023-09-07,2023,9,Sep,7,R&B / Soul,Album Track,Non-Explicit,53,95237256,4502,216000,216,96,64,59,31,46,17
+SPOT_0891,Sweet Fantasy,Gunna,Single,2023-04-19,2023,4,Apr,19,Hip-Hop / Rap,Single,Explicit,71,158588264,3648,256000,256,151,62,76,56,61,12
+SPOT_0892,Lost Whisper,Dominic Fike,Single,2021-06-07,2021,6,Jun,7,Indie Pop,Single,Non-Explicit,70,82610610,3096,278000,278,97,37,38,53,52,22
+SPOT_0893,Ocean Streets,Linkin Park,Genesis,2020-12-07,2020,12,Dec,7,Rock / Alternative,Album Track,Non-Explicit,84,245892699,6517,140000,140,138,68,80,77,67,18
+SPOT_0894,Velvet Shadows,George Ezra,Horizons,2021-03-23,2021,3,Mar,23,Acoustic / Folk,Album Track,Explicit,58,102188447,5398,175000,175,124,59,50,55,57,25
+SPOT_0895,Voices in Echo,Tiësto,Midnight Reflections,2023-09-22,2023,9,Sep,22,Dance / Electronic,Album Track,Non-Explicit,88,367921049,6830,271000,271,127,75,92,75,68,32
+SPOT_0896,Silent Miracle,Paramore,Single,2020-01-07,2020,1,Jan,7,Rock / Alternative,Single,Non-Explicit,79,257340477,3671,160000,160,114,76,71,56,29,4
+SPOT_0897,Velvet Echo,Asake,After Dark,2024-02-08,2024,2,Feb,8,Afrobeats,Album Track,Non-Explicit,71,177942548,3200,177000,177,126,80,50,53,7,27
+SPOT_0898,Echoes of Night,TOMORROW X TOGETHER,Single,2022-01-25,2022,1,Jan,25,K-Pop,Single,Explicit,91,381770545,7835,186000,186,110,58,63,34,8,16
+SPOT_0899,Ocean Tears,Davido,Single,2021-05-10,2021,5,May,10,Afrobeats,Single,Non-Explicit,95,334980495,6873,163000,163,141,71,55,45,64,7
+SPOT_0900,Chasing Streets,Sabrina Carpenter,Daylight,2024-10-31,2024,10,Oct,31,Pop,Album Track,Non-Explicit,69,126470497,5704,272000,272,97,84,46,58,66,6
+SPOT_0901,Forever Silence,Hozier,Single,2022-03-29,2022,3,Mar,29,Rock / Alternative,Single,Explicit,90,410498812,8681,166000,166,96,59,61,78,79,10
+SPOT_0902,Crimson Streets,Summer Walker,Echoes in Time,2021-03-06,2021,3,Mar,6,R&B / Soul,Album Track,Non-Explicit,61,56439754,4588,260000,260,138,65,61,51,42,31
+SPOT_0903,Heavy Waves,Myke Towers,Sublime,2020-10-13,2020,10,Oct,13,Latin / Reggaeton,Album Track,Explicit,54,43455547,4478,229000,229,133,79,87,68,44,13
+SPOT_0904,Dancing Highway,Tems,Stardust & Shadows,2024-07-07,2024,7,Jul,7,Afrobeats,Album Track,Explicit,89,239781036,4028,200000,200,130,64,46,84,32,22
+SPOT_0905,Midnight Waves,Kehlani,Daylight,2022-11-24,2022,11,Nov,24,R&B / Soul,Album Track,Non-Explicit,70,121667886,4513,174000,174,127,82,65,63,52,27
+SPOT_0906,Echoes of Storm,Phoebe Bridgers,Infinite Rhythm,2020-01-30,2020,1,Jan,30,Indie Pop,Album Track,Non-Explicit,87,354067685,6935,187000,187,89,39,42,58,20,15
+SPOT_0907,Ocean Glow,Myke Towers,Single,2024-09-16,2024,9,Sep,16,Latin / Reggaeton,Single,Non-Explicit,92,400034552,5086,228000,228,116,80,85,56,47,35
+SPOT_0908,Starlight Whisper,Jack Harlow,Single,2020-06-11,2020,6,Jun,11,Hip-Hop / Rap,Single,Explicit,48,60453155,2163,181000,181,111,69,84,46,82,20
+SPOT_0909,Neon Fantasy,TWICE,After Dark,2020-09-28,2020,9,Sep,28,K-Pop,Album Track,Non-Explicit,78,162610923,3703,284000,284,138,80,74,36,73,6
+SPOT_0910,Lost Goodbye,Rauw Alejandro,After Dark,2020-07-23,2020,7,Jul,23,Latin / Reggaeton,Album Track,Non-Explicit,79,236133950,5920,137000,137,133,81,92,57,61,15
+SPOT_0911,Pure Lover,CKay,Single,2022-04-13,2022,4,Apr,13,Afrobeats,Single,Explicit,83,192618491,4969,258000,258,122,68,64,46,73,18
+SPOT_0912,Chasing Whisper,Maluma,The Great Escape,2024-03-29,2024,3,Mar,29,Latin / Reggaeton,Album Track,Non-Explicit,56,87103283,3089,255000,255,130,73,70,54,60,22
+SPOT_0913,Broken Time,Doja Cat,Single,2021-01-31,2021,1,Jan,31,Hip-Hop / Rap,Single,Explicit,94,277903726,5802,263000,263,119,72,88,65,43,16
+SPOT_0914,Broken Fire,Wizkid,Solar Flares,2024-10-11,2024,10,Oct,11,Afrobeats,Album Track,Non-Explicit,55,65407573,3231,256000,256,131,76,62,44,38,33
+SPOT_0915,Velvet Memories,Linkin Park,Midnight Reflections,2021-10-07,2021,10,Oct,7,Rock / Alternative,Album Track,Non-Explicit,73,157009232,3478,136000,136,138,75,48,56,50,11
+SPOT_0916,Midnight Silence,Rex Orange County,Single,2024-01-07,2024,1,Jan,7,Indie Pop,Single,Explicit,61,103201266,3519,244000,244,125,47,45,55,76,15
+SPOT_0917,Secret Lover,Peggy Gou,Single,2021-05-12,2021,5,May,12,Dance / Electronic,Single,Explicit,55,102632787,3683,255000,255,116,92,86,74,67,18
+SPOT_0918,Shadow Shadows,Glass Animals,Metamorphosis,2021-07-19,2021,7,Jul,19,Rock / Alternative,Album Track,Non-Explicit,79,186646412,5390,169000,169,146,54,65,79,57,12
+SPOT_0919,Sweet Glow,Kehlani,After Dark,2021-11-02,2021,11,Nov,2,R&B / Soul,Album Track,Non-Explicit,81,219156754,4909,209000,209,134,51,53,79,13,23
+SPOT_0920,Deep Melody,Myke Towers,Heartbeat Odyssey,2022-08-01,2022,8,Aug,1,Latin / Reggaeton,Album Track,Non-Explicit,68,115514881,4402,140000,140,119,71,85,76,59,28
+SPOT_0921,Forever Storm,Lorde,Daylight,2023-03-04,2023,3,Mar,4,Indie Pop,Album Track,Non-Explicit,72,213103581,5456,218000,218,125,52,56,38,78,24
+SPOT_0922,Shadow Rhythm,Future,Single,2022-12-25,2022,12,Dec,25,Hip-Hop / Rap,Single,Non-Explicit,55,60109473,4664,254000,254,158,82,67,39,60,20
+SPOT_0923,Voices in Melody,Dominic Fike,Single,2021-11-07,2021,11,Nov,7,Indie Pop,Single,Explicit,49,70934840,3250,245000,245,76,47,61,38,5,27
+SPOT_0924,Wild Soul,Sabrina Carpenter,Electric Sunset,2023-04-11,2023,4,Apr,11,Pop,Album Track,Non-Explicit,88,355754715,6757,186000,186,139,72,81,39,29,12
+SPOT_0925,Silent Rain,Kygo,Sublime,2020-03-21,2020,3,Mar,21,Dance / Electronic,Album Track,Non-Explicit,94,297544189,6996,215000,215,122,89,71,62,43,13
+SPOT_0926,Wild Miracle,James Arthur,Single,2020-02-25,2020,2,Feb,25,Acoustic / Folk,Single,Non-Explicit,53,103134446,5392,231000,231,76,49,38,44,11,31
+SPOT_0927,Lost Night,Girl in Red,Single,2020-09-12,2020,9,Sep,12,Indie Pop,Single,Non-Explicit,50,105867762,3531,267000,267,82,40,38,27,67,25
+SPOT_0928,Lost Night,Anuel AA,Single,2022-01-06,2022,1,Jan,6,Latin / Reggaeton,Single,Non-Explicit,75,126563525,1849,136000,136,127,93,78,75,17,25
+SPOT_0929,Forever Rhythm,Maluma,The Great Escape,2023-12-07,2023,12,Dec,7,Latin / Reggaeton,Album Track,Explicit,50,85651720,2927,139000,139,123,91,85,70,10,12
+SPOT_0930,Shadow Dreams,Avicii,Genesis,2022-08-20,2022,8,Aug,20,Dance / Electronic,Album Track,Explicit,93,250089379,5572,210000,210,126,87,78,60,58,14
+SPOT_0931,Velvet Fantasy,Bryson Tiller,Single,2022-01-17,2022,1,Jan,17,R&B / Soul,Single,Non-Explicit,52,43941635,1566,213000,213,115,73,61,69,46,4
+SPOT_0932,Midnight Melody,Camila Cabello,Genesis,2020-04-05,2020,4,Apr,5,Pop,Album Track,Non-Explicit,79,172046534,3460,138000,138,112,64,50,56,13,10
+SPOT_0933,Crimson Reckoning,Dominic Fike,Single,2024-10-20,2024,10,Oct,20,Indie Pop,Single,Non-Explicit,83,236391591,5507,255000,255,91,39,45,54,51,9
+SPOT_0934,Deep Silence,Dominic Fike,Single,2021-03-25,2021,3,Mar,25,Indie Pop,Single,Explicit,77,131471129,4929,156000,156,122,38,50,38,83,9
+SPOT_0935,Endless Fire,The Chainsmokers,Single,2023-12-26,2023,12,Dec,26,Dance / Electronic,Single,Explicit,74,207156792,5033,203000,203,119,78,78,73,23,5
+SPOT_0936,After Night,Noah Kahan,Single,2023-07-23,2023,7,Jul,23,Acoustic / Folk,Single,Explicit,47,61820524,2844,217000,217,75,53,55,50,49,15
+SPOT_0937,Ocean Night,Omah Lay,Electric Sunset,2020-08-29,2020,8,Aug,29,Afrobeats,Album Track,Non-Explicit,92,328145846,6131,182000,182,106,71,76,79,75,32
+SPOT_0938,Pure Storm,Lil Nas X,Midnight Reflections,2020-02-22,2020,2,Feb,22,Hip-Hop / Rap,Album Track,Non-Explicit,79,154383472,5529,163000,163,95,79,73,43,44,31
+SPOT_0939,Neon Reckoning,George Ezra,Single,2024-08-06,2024,8,Aug,6,Acoustic / Folk,Single,Explicit,77,148003181,1735,185000,185,121,58,47,53,81,12
+SPOT_0940,Secret Heart,Fireboy DML,Single,2021-04-16,2021,4,Apr,16,Afrobeats,Single,Non-Explicit,89,361140148,5694,160000,160,133,60,85,70,84,17
+SPOT_0941,Summer Breeze,Bryson Tiller,Single,2022-03-31,2022,3,Mar,31,R&B / Soul,Single,Explicit,63,119654757,3253,254000,254,110,58,64,30,14,19
+SPOT_0942,Lost Miracle,TWICE,Single,2020-05-16,2020,5,May,16,K-Pop,Single,Non-Explicit,48,49664312,3004,176000,176,138,65,70,80,25,29
+SPOT_0943,Lost Tears,Lumineers,Single,2021-07-19,2021,7,Jul,19,Acoustic / Folk,Single,Explicit,53,60971538,3853,284000,284,118,39,38,48,23,20
+SPOT_0944,Winter Rain,Karol G,Daylight,2023-07-11,2023,7,Jul,11,Latin / Reggaeton,Album Track,Explicit,83,252807332,7200,166000,166,132,91,84,79,24,7
+SPOT_0945,Golden Shadows,Maluma,Single,2023-07-07,2023,7,Jul,7,Latin / Reggaeton,Single,Explicit,74,141474392,4423,259000,259,124,75,81,56,16,26
+SPOT_0946,Forever Highway,Martin Garrix,Single,2023-07-30,2023,7,Jul,30,Dance / Electronic,Single,Non-Explicit,51,76340398,3890,205000,205,123,88,81,71,58,19
+SPOT_0947,Midnight Rain,Rauw Alejandro,Single,2023-04-14,2023,4,Apr,14,Latin / Reggaeton,Single,Non-Explicit,76,172799597,3133,161000,161,130,85,84,86,53,27
+SPOT_0948,Electric Glow,Troye Sivan,Single,2020-07-20,2020,7,Jul,20,Pop,Single,Non-Explicit,81,165326379,4821,289000,289,116,75,47,52,61,32
+SPOT_0949,Golden Shadows,Fireboy DML,Single,2024-05-11,2024,5,May,11,Afrobeats,Single,Non-Explicit,72,126708028,4496,181000,181,91,71,51,48,57,4
+SPOT_0950,Falling Silence,Rex Orange County,Single,2021-05-24,2021,5,May,24,Indie Pop,Single,Explicit,62,68003963,3030,202000,202,124,60,35,33,76,23
+SPOT_0951,Pure Silence,Dean Lewis,Infinite Rhythm,2021-11-14,2021,11,Nov,14,Acoustic / Folk,Album Track,Non-Explicit,67,121039118,5304,213000,213,81,64,30,60,56,23
+SPOT_0952,Winter Fire,Davido,Single,2024-10-19,2024,10,Oct,19,Afrobeats,Single,Explicit,90,318377150,5089,227000,227,138,60,55,50,7,10
+SPOT_0953,Sweet Miracle,Peggy Gou,The Great Escape,2024-03-29,2024,3,Mar,29,Dance / Electronic,Album Track,Non-Explicit,80,227629912,5563,154000,154,121,70,67,88,56,19
+SPOT_0954,Starlight Vibes,Summer Walker,Solar Flares,2024-02-16,2024,2,Feb,16,R&B / Soul,Album Track,Explicit,63,82695152,2281,248000,248,142,52,60,65,24,20
+SPOT_0955,Wild Silence,Charlie Puth,Single,2021-04-07,2021,4,Apr,7,Pop,Single,Explicit,73,157649901,2898,210000,210,105,51,84,60,61,29
+SPOT_0956,Shadow Night,TOMORROW X TOGETHER,Daylight,2023-07-08,2023,7,Jul,8,K-Pop,Album Track,Non-Explicit,81,274635166,4046,228000,228,141,66,72,53,51,18
+SPOT_0957,Falling Rhythm,Peso Pluma,Single,2024-10-27,2024,10,Oct,27,Latin / Reggaeton,Single,Explicit,89,237808180,8178,264000,264,130,85,75,56,82,17
+SPOT_0958,Forever Tears,Peso Pluma,Visions,2022-07-31,2022,7,Jul,31,Latin / Reggaeton,Album Track,Non-Explicit,84,257873417,5655,140000,140,132,82,82,91,12,25
+SPOT_0959,Neon Streets,Phoebe Bridgers,Electric Sunset,2024-01-30,2024,1,Jan,30,Indie Pop,Album Track,Non-Explicit,46,92813656,4270,169000,169,100,41,53,39,73,22
+SPOT_0960,Shadow Paradise,J Balvin,Single,2020-10-22,2020,10,Oct,22,Latin / Reggaeton,Single,Non-Explicit,94,381026708,3803,148000,148,126,86,68,54,83,7
+SPOT_0961,Deep Fire,Jimin,Single,2023-05-16,2023,5,May,16,K-Pop,Single,Explicit,94,409708658,4852,142000,142,131,81,52,51,16,9
+SPOT_0962,Heavy Streets,Lumineers,The Long Road Home,2022-08-29,2022,8,Aug,29,Acoustic / Folk,Album Track,Non-Explicit,53,68135261,2684,225000,225,86,57,52,36,68,8
+SPOT_0963,Silver Night,Steve Lacy,The Great Escape,2021-11-26,2021,11,Nov,26,R&B / Soul,Album Track,Non-Explicit,73,170743358,7126,290000,290,93,85,48,73,52,9
+SPOT_0964,Secret Dreams,Frank Ocean,Solar Flares,2024-06-26,2024,6,Jun,26,R&B / Soul,Album Track,Explicit,81,195366464,4159,262000,262,101,84,58,52,17,12
+SPOT_0965,Shadow Fire,Ayra Starr,Single,2024-04-30,2024,4,Apr,30,Afrobeats,Single,Non-Explicit,56,104455965,4757,144000,144,149,84,52,81,44,21
+SPOT_0966,Chasing Fire,Lil Nas X,Neon Lights,2022-10-16,2022,10,Oct,16,Hip-Hop / Rap,Album Track,Explicit,57,95134751,4089,275000,275,129,87,83,42,13,24
+SPOT_0967,Velvet Tears,Marshmello,Single,2024-06-14,2024,6,Jun,14,Dance / Electronic,Single,Non-Explicit,70,80488910,4508,286000,286,118,84,67,92,46,28
+SPOT_0968,Sweet Soul,Stray Kids,Serenade,2023-07-06,2023,7,Jul,6,K-Pop,Album Track,Explicit,72,155903719,5022,141000,141,121,56,65,65,66,27
+SPOT_0969,After Horizon,Paramore,True Colors,2022-12-16,2022,12,Dec,16,Rock / Alternative,Album Track,Non-Explicit,47,34851974,4350,285000,285,137,84,56,71,45,6
+SPOT_0970,Golden Memories,BTS,Midnight Reflections,2020-04-17,2020,4,Apr,17,K-Pop,Album Track,Non-Explicit,88,379585410,8178,180000,180,122,73,47,43,17,32
+SPOT_0971,Heavy Soul,Daniel Caesar,Serenade,2023-03-15,2023,3,Mar,15,R&B / Soul,Album Track,Non-Explicit,85,239551041,4236,164000,164,149,68,45,45,47,14
+SPOT_0972,Falling Miracle,Passenger,Single,2020-10-17,2020,10,Oct,17,Acoustic / Folk,Single,Explicit,83,200504989,5836,243000,243,118,53,44,33,39,29
+SPOT_0973,Forever Breeze,Selena Gomez,Serenade,2022-09-26,2022,9,Sep,26,Pop,Album Track,Non-Explicit,61,116310722,5255,249000,249,98,64,49,70,19,10
+SPOT_0974,Neon Fire,Khalid,Neon Lights,2021-06-09,2021,6,Jun,9,R&B / Soul,Album Track,Non-Explicit,88,339277425,7337,208000,208,108,66,51,78,20,28
+SPOT_0975,Starlight Reckoning,David Guetta,Genesis,2020-03-14,2020,3,Mar,14,Dance / Electronic,Album Track,Non-Explicit,75,144565287,2579,234000,234,120,70,89,54,35,30
+SPOT_0976,Ocean Fantasy,Ayra Starr,Sublime,2023-09-19,2023,9,Sep,19,Afrobeats,Album Track,Non-Explicit,77,195389998,3007,216000,216,92,50,54,51,37,14
+SPOT_0977,Lost Melody,Myke Towers,Solar Flares,2021-08-20,2021,8,Aug,20,Latin / Reggaeton,Album Track,Non-Explicit,77,131031118,2434,220000,220,129,68,92,78,13,18
+SPOT_0978,Sweet Whisper,Fireboy DML,Renaissance,2020-04-26,2020,4,Apr,26,Afrobeats,Album Track,Non-Explicit,52,93232214,3498,139000,139,129,60,65,53,9,12
+SPOT_0979,Midnight Shadows,J. Cole,Metamorphosis,2024-04-23,2024,4,Apr,23,Hip-Hop / Rap,Album Track,Explicit,81,166219135,4436,144000,144,152,79,59,36,65,27
+SPOT_0980,Silver Lover,Glass Animals,Single,2022-10-01,2022,10,Oct,1,Rock / Alternative,Single,Explicit,84,235664626,6860,174000,174,119,84,68,44,23,21
+SPOT_0981,Endless Melody,Jhené Aiko,Chronicles,2021-09-06,2021,9,Sep,6,R&B / Soul,Album Track,Non-Explicit,54,85613906,4689,273000,273,144,64,70,38,85,25
+SPOT_0982,Crimson Melody,Tiësto,Velvet Skies,2022-03-06,2022,3,Mar,6,Dance / Electronic,Album Track,Non-Explicit,74,157860777,3519,169000,169,131,74,72,63,29,15
+SPOT_0983,Voices in Lover,Ayra Starr,The Long Road Home,2021-09-20,2021,9,Sep,20,Afrobeats,Album Track,Non-Explicit,58,110415897,4356,250000,250,109,76,48,42,32,24
+SPOT_0984,Chasing Shadows,NewJeans,Single,2022-06-26,2022,6,Jun,26,K-Pop,Single,Non-Explicit,46,78548226,3832,179000,179,107,59,70,66,30,12
+SPOT_0985,Ocean Tears,Dean Lewis,Single,2022-09-23,2022,9,Sep,23,Acoustic / Folk,Single,Explicit,65,85134093,1499,151000,151,80,35,25,23,47,8
+SPOT_0986,Lost Fantasy,Ozuna,Serenade,2020-05-15,2020,5,May,15,Latin / Reggaeton,Album Track,Explicit,68,138497997,5473,249000,249,130,78,87,61,42,22
+SPOT_0987,Silent Melody,Megan Thee Stallion,Single,2020-08-30,2020,8,Aug,30,Hip-Hop / Rap,Single,Non-Explicit,79,258174475,6776,276000,276,160,77,72,50,23,31
+SPOT_0988,Velvet Melody,Travis Scott,Solar Flares,2024-04-20,2024,4,Apr,20,Hip-Hop / Rap,Album Track,Non-Explicit,46,74317010,3536,281000,281,103,76,56,66,77,25
+SPOT_0989,Voices in Vibes,Rauw Alejandro,Genesis,2023-10-19,2023,10,Oct,19,Latin / Reggaeton,Album Track,Non-Explicit,70,140130405,4315,185000,185,135,78,74,55,50,34
+SPOT_0990,Voices in Glow,Troye Sivan,Neon Lights,2021-06-01,2021,6,Jun,1,Pop,Album Track,Non-Explicit,57,117462606,5026,141000,141,121,70,55,33,35,22
+SPOT_0991,Crimson Soul,Paramore,True Colors,2020-06-13,2020,6,Jun,13,Rock / Alternative,Album Track,Non-Explicit,66,99950021,4927,137000,137,137,51,64,54,30,33
+SPOT_0992,Golden Highway,Lewis Capaldi,Solar Flares,2024-07-02,2024,7,Jul,2,Acoustic / Folk,Album Track,Explicit,77,234869497,6159,222000,222,83,65,47,36,75,15
+SPOT_0993,Endless Rhythm,Rex Orange County,Single,2020-06-22,2020,6,Jun,22,Indie Pop,Single,Non-Explicit,87,371258951,4079,140000,140,126,39,31,35,14,14
+SPOT_0994,Velvet Glow,Rauw Alejandro,Single,2020-06-03,2020,6,Jun,3,Latin / Reggaeton,Single,Non-Explicit,45,71282499,4588,153000,153,119,86,85,79,85,24
+SPOT_0995,Electric Heart,Gunna,Single,2024-03-07,2024,3,Mar,7,Hip-Hop / Rap,Single,Explicit,50,39064963,2750,194000,194,106,63,60,59,72,15
+SPOT_0996,Heavy Goodbye,Boygenius,Neon Lights,2024-02-07,2024,2,Feb,7,Indie Pop,Album Track,Non-Explicit,88,274237974,4428,264000,264,75,37,36,32,38,12
+SPOT_0997,Lost Highway,IVE,After Dark,2024-10-03,2024,10,Oct,3,K-Pop,Album Track,Explicit,65,117338630,3750,286000,286,108,76,77,70,41,16
+SPOT_0998,Forever Vibes,James Arthur,Single,2023-09-03,2023,9,Sep,3,Acoustic / Folk,Single,Non-Explicit,88,232953300,4747,151000,151,106,46,28,59,60,8
+SPOT_0999,Deep Streets,Lorde,Visions,2022-01-10,2022,1,Jan,10,Indie Pop,Album Track,Non-Explicit,89,302675609,4740,216000,216,103,46,55,43,68,22
+SPOT_1000,Starlight Fantasy,Wallows,Visions,2023-11-15,2023,11,Nov,15,Indie Pop,Album Track,Explicit,67,142163414,5977,238000,238,104,62,54,48,24,12
